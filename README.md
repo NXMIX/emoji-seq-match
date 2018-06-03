@@ -1,4 +1,4 @@
-# @nxmix/emoji-seq-match [![Build Status](https://travis-ci.org/NXMIX/emoji-seq-match.svg?branch=master)](https://travis-ci.org/NXMIX/emoji-seq-match)
+# @nxmix/emoji-seq-match [![Build Status](https://travis-ci.org/NXMIX/emoji-seq-match.svg?branch=master)](https://travis-ci.org/NXMIX/emoji-seq-match) [![Coverage Status](https://coveralls.io/repos/github/NXMIX/emoji-seq-match/badge.svg)](https://coveralls.io/github/NXMIX/emoji-seq-match)
 
 ## Why 
 
