@@ -1,6 +1,7 @@
 {
   "name": "@nxmix/emoji-seq-match",
   "version": "0.1.0",
+  "description": "Match Emoji combinations according to unicode emoji specification",
   "main": "dist/index.js",
   "typings": "dist/types/index.d.ts",
   "repository": "https://github.com/NXMIX/emoji-seq-match.git",
