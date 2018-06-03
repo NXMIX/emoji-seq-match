@@ -1,0 +1,4017 @@
+{
+  "23 fe0f 20e3": {
+    "content": "#️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: \\x{23}"
+  },
+  "2a fe0f 20e3": {
+    "content": "*️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: *"
+  },
+  "30 fe0f 20e3": {
+    "content": "0️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: 0"
+  },
+  "31 fe0f 20e3": {
+    "content": "1️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: 1"
+  },
+  "32 fe0f 20e3": {
+    "content": "2️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: 2"
+  },
+  "33 fe0f 20e3": {
+    "content": "3️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: 3"
+  },
+  "34 fe0f 20e3": {
+    "content": "4️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: 4"
+  },
+  "35 fe0f 20e3": {
+    "content": "5️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: 5"
+  },
+  "36 fe0f 20e3": {
+    "content": "6️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: 6"
+  },
+  "37 fe0f 20e3": {
+    "content": "7️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: 7"
+  },
+  "38 fe0f 20e3": {
+    "content": "8️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: 8"
+  },
+  "39 fe0f 20e3": {
+    "content": "9️⃣",
+    "type": "Emoji_Keycap_Sequence",
+    "name": "keycap: 9"
+  },
+  "1f1e6 1f1e8": {
+    "content": "🇦🇨",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Ascension Island"
+  },
+  "1f1e6 1f1e9": {
+    "content": "🇦🇩",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Andorra"
+  },
+  "1f1e6 1f1ea": {
+    "content": "🇦🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "United Arab Emirates"
+  },
+  "1f1e6 1f1eb": {
+    "content": "🇦🇫",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Afghanistan"
+  },
+  "1f1e6 1f1ec": {
+    "content": "🇦🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Antigua & Barbuda"
+  },
+  "1f1e6 1f1ee": {
+    "content": "🇦🇮",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Anguilla"
+  },
+  "1f1e6 1f1f1": {
+    "content": "🇦🇱",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Albania"
+  },
+  "1f1e6 1f1f2": {
+    "content": "🇦🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Armenia"
+  },
+  "1f1e6 1f1f4": {
+    "content": "🇦🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Angola"
+  },
+  "1f1e6 1f1f6": {
+    "content": "🇦🇶",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Antarctica"
+  },
+  "1f1e6 1f1f7": {
+    "content": "🇦🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Argentina"
+  },
+  "1f1e6 1f1f8": {
+    "content": "🇦🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "American Samoa"
+  },
+  "1f1e6 1f1f9": {
+    "content": "🇦🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Austria"
+  },
+  "1f1e6 1f1fa": {
+    "content": "🇦🇺",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Australia"
+  },
+  "1f1e6 1f1fc": {
+    "content": "🇦🇼",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Aruba"
+  },
+  "1f1e6 1f1fd": {
+    "content": "🇦🇽",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Åland Islands"
+  },
+  "1f1e6 1f1ff": {
+    "content": "🇦🇿",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Azerbaijan"
+  },
+  "1f1e7 1f1e6": {
+    "content": "🇧🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Bosnia & Herzegovina"
+  },
+  "1f1e7 1f1e7": {
+    "content": "🇧🇧",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Barbados"
+  },
+  "1f1e7 1f1e9": {
+    "content": "🇧🇩",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Bangladesh"
+  },
+  "1f1e7 1f1ea": {
+    "content": "🇧🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Belgium"
+  },
+  "1f1e7 1f1eb": {
+    "content": "🇧🇫",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Burkina Faso"
+  },
+  "1f1e7 1f1ec": {
+    "content": "🇧🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Bulgaria"
+  },
+  "1f1e7 1f1ed": {
+    "content": "🇧🇭",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Bahrain"
+  },
+  "1f1e7 1f1ee": {
+    "content": "🇧🇮",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Burundi"
+  },
+  "1f1e7 1f1ef": {
+    "content": "🇧🇯",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Benin"
+  },
+  "1f1e7 1f1f1": {
+    "content": "🇧🇱",
+    "type": "Emoji_Flag_Sequence",
+    "name": "St. Barthélemy"
+  },
+  "1f1e7 1f1f2": {
+    "content": "🇧🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Bermuda"
+  },
+  "1f1e7 1f1f3": {
+    "content": "🇧🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Brunei"
+  },
+  "1f1e7 1f1f4": {
+    "content": "🇧🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Bolivia"
+  },
+  "1f1e7 1f1f6": {
+    "content": "🇧🇶",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Caribbean Netherlands"
+  },
+  "1f1e7 1f1f7": {
+    "content": "🇧🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Brazil"
+  },
+  "1f1e7 1f1f8": {
+    "content": "🇧🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Bahamas"
+  },
+  "1f1e7 1f1f9": {
+    "content": "🇧🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Bhutan"
+  },
+  "1f1e7 1f1fb": {
+    "content": "🇧🇻",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Bouvet Island"
+  },
+  "1f1e7 1f1fc": {
+    "content": "🇧🇼",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Botswana"
+  },
+  "1f1e7 1f1fe": {
+    "content": "🇧🇾",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Belarus"
+  },
+  "1f1e7 1f1ff": {
+    "content": "🇧🇿",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Belize"
+  },
+  "1f1e8 1f1e6": {
+    "content": "🇨🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Canada"
+  },
+  "1f1e8 1f1e8": {
+    "content": "🇨🇨",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Cocos (Keeling) Islands"
+  },
+  "1f1e8 1f1e9": {
+    "content": "🇨🇩",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Congo - Kinshasa"
+  },
+  "1f1e8 1f1eb": {
+    "content": "🇨🇫",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Central African Republic"
+  },
+  "1f1e8 1f1ec": {
+    "content": "🇨🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Congo - Brazzaville"
+  },
+  "1f1e8 1f1ed": {
+    "content": "🇨🇭",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Switzerland"
+  },
+  "1f1e8 1f1ee": {
+    "content": "🇨🇮",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Côte d’Ivoire"
+  },
+  "1f1e8 1f1f0": {
+    "content": "🇨🇰",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Cook Islands"
+  },
+  "1f1e8 1f1f1": {
+    "content": "🇨🇱",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Chile"
+  },
+  "1f1e8 1f1f2": {
+    "content": "🇨🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Cameroon"
+  },
+  "1f1e8 1f1f3": {
+    "content": "🇨🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "China"
+  },
+  "1f1e8 1f1f4": {
+    "content": "🇨🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Colombia"
+  },
+  "1f1e8 1f1f5": {
+    "content": "🇨🇵",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Clipperton Island"
+  },
+  "1f1e8 1f1f7": {
+    "content": "🇨🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Costa Rica"
+  },
+  "1f1e8 1f1fa": {
+    "content": "🇨🇺",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Cuba"
+  },
+  "1f1e8 1f1fb": {
+    "content": "🇨🇻",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Cape Verde"
+  },
+  "1f1e8 1f1fc": {
+    "content": "🇨🇼",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Curaçao"
+  },
+  "1f1e8 1f1fd": {
+    "content": "🇨🇽",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Christmas Island"
+  },
+  "1f1e8 1f1fe": {
+    "content": "🇨🇾",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Cyprus"
+  },
+  "1f1e8 1f1ff": {
+    "content": "🇨🇿",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Czechia"
+  },
+  "1f1e9 1f1ea": {
+    "content": "🇩🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Germany"
+  },
+  "1f1e9 1f1ec": {
+    "content": "🇩🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Diego Garcia"
+  },
+  "1f1e9 1f1ef": {
+    "content": "🇩🇯",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Djibouti"
+  },
+  "1f1e9 1f1f0": {
+    "content": "🇩🇰",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Denmark"
+  },
+  "1f1e9 1f1f2": {
+    "content": "🇩🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Dominica"
+  },
+  "1f1e9 1f1f4": {
+    "content": "🇩🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Dominican Republic"
+  },
+  "1f1e9 1f1ff": {
+    "content": "🇩🇿",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Algeria"
+  },
+  "1f1ea 1f1e6": {
+    "content": "🇪🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Ceuta & Melilla"
+  },
+  "1f1ea 1f1e8": {
+    "content": "🇪🇨",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Ecuador"
+  },
+  "1f1ea 1f1ea": {
+    "content": "🇪🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Estonia"
+  },
+  "1f1ea 1f1ec": {
+    "content": "🇪🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Egypt"
+  },
+  "1f1ea 1f1ed": {
+    "content": "🇪🇭",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Western Sahara"
+  },
+  "1f1ea 1f1f7": {
+    "content": "🇪🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Eritrea"
+  },
+  "1f1ea 1f1f8": {
+    "content": "🇪🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Spain"
+  },
+  "1f1ea 1f1f9": {
+    "content": "🇪🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Ethiopia"
+  },
+  "1f1ea 1f1fa": {
+    "content": "🇪🇺",
+    "type": "Emoji_Flag_Sequence",
+    "name": "European Union"
+  },
+  "1f1eb 1f1ee": {
+    "content": "🇫🇮",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Finland"
+  },
+  "1f1eb 1f1ef": {
+    "content": "🇫🇯",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Fiji"
+  },
+  "1f1eb 1f1f0": {
+    "content": "🇫🇰",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Falkland Islands"
+  },
+  "1f1eb 1f1f2": {
+    "content": "🇫🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Micronesia"
+  },
+  "1f1eb 1f1f4": {
+    "content": "🇫🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Faroe Islands"
+  },
+  "1f1eb 1f1f7": {
+    "content": "🇫🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "France"
+  },
+  "1f1ec 1f1e6": {
+    "content": "🇬🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Gabon"
+  },
+  "1f1ec 1f1e7": {
+    "content": "🇬🇧",
+    "type": "Emoji_Flag_Sequence",
+    "name": "United Kingdom"
+  },
+  "1f1ec 1f1e9": {
+    "content": "🇬🇩",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Grenada"
+  },
+  "1f1ec 1f1ea": {
+    "content": "🇬🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Georgia"
+  },
+  "1f1ec 1f1eb": {
+    "content": "🇬🇫",
+    "type": "Emoji_Flag_Sequence",
+    "name": "French Guiana"
+  },
+  "1f1ec 1f1ec": {
+    "content": "🇬🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Guernsey"
+  },
+  "1f1ec 1f1ed": {
+    "content": "🇬🇭",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Ghana"
+  },
+  "1f1ec 1f1ee": {
+    "content": "🇬🇮",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Gibraltar"
+  },
+  "1f1ec 1f1f1": {
+    "content": "🇬🇱",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Greenland"
+  },
+  "1f1ec 1f1f2": {
+    "content": "🇬🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Gambia"
+  },
+  "1f1ec 1f1f3": {
+    "content": "🇬🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Guinea"
+  },
+  "1f1ec 1f1f5": {
+    "content": "🇬🇵",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Guadeloupe"
+  },
+  "1f1ec 1f1f6": {
+    "content": "🇬🇶",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Equatorial Guinea"
+  },
+  "1f1ec 1f1f7": {
+    "content": "🇬🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Greece"
+  },
+  "1f1ec 1f1f8": {
+    "content": "🇬🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "South Georgia & South Sandwich Islands"
+  },
+  "1f1ec 1f1f9": {
+    "content": "🇬🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Guatemala"
+  },
+  "1f1ec 1f1fa": {
+    "content": "🇬🇺",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Guam"
+  },
+  "1f1ec 1f1fc": {
+    "content": "🇬🇼",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Guinea-Bissau"
+  },
+  "1f1ec 1f1fe": {
+    "content": "🇬🇾",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Guyana"
+  },
+  "1f1ed 1f1f0": {
+    "content": "🇭🇰",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Hong Kong SAR China"
+  },
+  "1f1ed 1f1f2": {
+    "content": "🇭🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Heard & McDonald Islands"
+  },
+  "1f1ed 1f1f3": {
+    "content": "🇭🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Honduras"
+  },
+  "1f1ed 1f1f7": {
+    "content": "🇭🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Croatia"
+  },
+  "1f1ed 1f1f9": {
+    "content": "🇭🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Haiti"
+  },
+  "1f1ed 1f1fa": {
+    "content": "🇭🇺",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Hungary"
+  },
+  "1f1ee 1f1e8": {
+    "content": "🇮🇨",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Canary Islands"
+  },
+  "1f1ee 1f1e9": {
+    "content": "🇮🇩",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Indonesia"
+  },
+  "1f1ee 1f1ea": {
+    "content": "🇮🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Ireland"
+  },
+  "1f1ee 1f1f1": {
+    "content": "🇮🇱",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Israel"
+  },
+  "1f1ee 1f1f2": {
+    "content": "🇮🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Isle of Man"
+  },
+  "1f1ee 1f1f3": {
+    "content": "🇮🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "India"
+  },
+  "1f1ee 1f1f4": {
+    "content": "🇮🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "British Indian Ocean Territory"
+  },
+  "1f1ee 1f1f6": {
+    "content": "🇮🇶",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Iraq"
+  },
+  "1f1ee 1f1f7": {
+    "content": "🇮🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Iran"
+  },
+  "1f1ee 1f1f8": {
+    "content": "🇮🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Iceland"
+  },
+  "1f1ee 1f1f9": {
+    "content": "🇮🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Italy"
+  },
+  "1f1ef 1f1ea": {
+    "content": "🇯🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Jersey"
+  },
+  "1f1ef 1f1f2": {
+    "content": "🇯🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Jamaica"
+  },
+  "1f1ef 1f1f4": {
+    "content": "🇯🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Jordan"
+  },
+  "1f1ef 1f1f5": {
+    "content": "🇯🇵",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Japan"
+  },
+  "1f1f0 1f1ea": {
+    "content": "🇰🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Kenya"
+  },
+  "1f1f0 1f1ec": {
+    "content": "🇰🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Kyrgyzstan"
+  },
+  "1f1f0 1f1ed": {
+    "content": "🇰🇭",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Cambodia"
+  },
+  "1f1f0 1f1ee": {
+    "content": "🇰🇮",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Kiribati"
+  },
+  "1f1f0 1f1f2": {
+    "content": "🇰🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Comoros"
+  },
+  "1f1f0 1f1f3": {
+    "content": "🇰🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "St. Kitts & Nevis"
+  },
+  "1f1f0 1f1f5": {
+    "content": "🇰🇵",
+    "type": "Emoji_Flag_Sequence",
+    "name": "North Korea"
+  },
+  "1f1f0 1f1f7": {
+    "content": "🇰🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "South Korea"
+  },
+  "1f1f0 1f1fc": {
+    "content": "🇰🇼",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Kuwait"
+  },
+  "1f1f0 1f1fe": {
+    "content": "🇰🇾",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Cayman Islands"
+  },
+  "1f1f0 1f1ff": {
+    "content": "🇰🇿",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Kazakhstan"
+  },
+  "1f1f1 1f1e6": {
+    "content": "🇱🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Laos"
+  },
+  "1f1f1 1f1e7": {
+    "content": "🇱🇧",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Lebanon"
+  },
+  "1f1f1 1f1e8": {
+    "content": "🇱🇨",
+    "type": "Emoji_Flag_Sequence",
+    "name": "St. Lucia"
+  },
+  "1f1f1 1f1ee": {
+    "content": "🇱🇮",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Liechtenstein"
+  },
+  "1f1f1 1f1f0": {
+    "content": "🇱🇰",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Sri Lanka"
+  },
+  "1f1f1 1f1f7": {
+    "content": "🇱🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Liberia"
+  },
+  "1f1f1 1f1f8": {
+    "content": "🇱🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Lesotho"
+  },
+  "1f1f1 1f1f9": {
+    "content": "🇱🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Lithuania"
+  },
+  "1f1f1 1f1fa": {
+    "content": "🇱🇺",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Luxembourg"
+  },
+  "1f1f1 1f1fb": {
+    "content": "🇱🇻",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Latvia"
+  },
+  "1f1f1 1f1fe": {
+    "content": "🇱🇾",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Libya"
+  },
+  "1f1f2 1f1e6": {
+    "content": "🇲🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Morocco"
+  },
+  "1f1f2 1f1e8": {
+    "content": "🇲🇨",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Monaco"
+  },
+  "1f1f2 1f1e9": {
+    "content": "🇲🇩",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Moldova"
+  },
+  "1f1f2 1f1ea": {
+    "content": "🇲🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Montenegro"
+  },
+  "1f1f2 1f1eb": {
+    "content": "🇲🇫",
+    "type": "Emoji_Flag_Sequence",
+    "name": "St. Martin"
+  },
+  "1f1f2 1f1ec": {
+    "content": "🇲🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Madagascar"
+  },
+  "1f1f2 1f1ed": {
+    "content": "🇲🇭",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Marshall Islands"
+  },
+  "1f1f2 1f1f0": {
+    "content": "🇲🇰",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Macedonia"
+  },
+  "1f1f2 1f1f1": {
+    "content": "🇲🇱",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Mali"
+  },
+  "1f1f2 1f1f2": {
+    "content": "🇲🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Myanmar (Burma)"
+  },
+  "1f1f2 1f1f3": {
+    "content": "🇲🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Mongolia"
+  },
+  "1f1f2 1f1f4": {
+    "content": "🇲🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Macau SAR China"
+  },
+  "1f1f2 1f1f5": {
+    "content": "🇲🇵",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Northern Mariana Islands"
+  },
+  "1f1f2 1f1f6": {
+    "content": "🇲🇶",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Martinique"
+  },
+  "1f1f2 1f1f7": {
+    "content": "🇲🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Mauritania"
+  },
+  "1f1f2 1f1f8": {
+    "content": "🇲🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Montserrat"
+  },
+  "1f1f2 1f1f9": {
+    "content": "🇲🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Malta"
+  },
+  "1f1f2 1f1fa": {
+    "content": "🇲🇺",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Mauritius"
+  },
+  "1f1f2 1f1fb": {
+    "content": "🇲🇻",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Maldives"
+  },
+  "1f1f2 1f1fc": {
+    "content": "🇲🇼",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Malawi"
+  },
+  "1f1f2 1f1fd": {
+    "content": "🇲🇽",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Mexico"
+  },
+  "1f1f2 1f1fe": {
+    "content": "🇲🇾",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Malaysia"
+  },
+  "1f1f2 1f1ff": {
+    "content": "🇲🇿",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Mozambique"
+  },
+  "1f1f3 1f1e6": {
+    "content": "🇳🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Namibia"
+  },
+  "1f1f3 1f1e8": {
+    "content": "🇳🇨",
+    "type": "Emoji_Flag_Sequence",
+    "name": "New Caledonia"
+  },
+  "1f1f3 1f1ea": {
+    "content": "🇳🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Niger"
+  },
+  "1f1f3 1f1eb": {
+    "content": "🇳🇫",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Norfolk Island"
+  },
+  "1f1f3 1f1ec": {
+    "content": "🇳🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Nigeria"
+  },
+  "1f1f3 1f1ee": {
+    "content": "🇳🇮",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Nicaragua"
+  },
+  "1f1f3 1f1f1": {
+    "content": "🇳🇱",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Netherlands"
+  },
+  "1f1f3 1f1f4": {
+    "content": "🇳🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Norway"
+  },
+  "1f1f3 1f1f5": {
+    "content": "🇳🇵",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Nepal"
+  },
+  "1f1f3 1f1f7": {
+    "content": "🇳🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Nauru"
+  },
+  "1f1f3 1f1fa": {
+    "content": "🇳🇺",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Niue"
+  },
+  "1f1f3 1f1ff": {
+    "content": "🇳🇿",
+    "type": "Emoji_Flag_Sequence",
+    "name": "New Zealand"
+  },
+  "1f1f4 1f1f2": {
+    "content": "🇴🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Oman"
+  },
+  "1f1f5 1f1e6": {
+    "content": "🇵🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Panama"
+  },
+  "1f1f5 1f1ea": {
+    "content": "🇵🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Peru"
+  },
+  "1f1f5 1f1eb": {
+    "content": "🇵🇫",
+    "type": "Emoji_Flag_Sequence",
+    "name": "French Polynesia"
+  },
+  "1f1f5 1f1ec": {
+    "content": "🇵🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Papua New Guinea"
+  },
+  "1f1f5 1f1ed": {
+    "content": "🇵🇭",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Philippines"
+  },
+  "1f1f5 1f1f0": {
+    "content": "🇵🇰",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Pakistan"
+  },
+  "1f1f5 1f1f1": {
+    "content": "🇵🇱",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Poland"
+  },
+  "1f1f5 1f1f2": {
+    "content": "🇵🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "St. Pierre & Miquelon"
+  },
+  "1f1f5 1f1f3": {
+    "content": "🇵🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Pitcairn Islands"
+  },
+  "1f1f5 1f1f7": {
+    "content": "🇵🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Puerto Rico"
+  },
+  "1f1f5 1f1f8": {
+    "content": "🇵🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Palestinian Territories"
+  },
+  "1f1f5 1f1f9": {
+    "content": "🇵🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Portugal"
+  },
+  "1f1f5 1f1fc": {
+    "content": "🇵🇼",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Palau"
+  },
+  "1f1f5 1f1fe": {
+    "content": "🇵🇾",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Paraguay"
+  },
+  "1f1f6 1f1e6": {
+    "content": "🇶🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Qatar"
+  },
+  "1f1f7 1f1ea": {
+    "content": "🇷🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Réunion"
+  },
+  "1f1f7 1f1f4": {
+    "content": "🇷🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Romania"
+  },
+  "1f1f7 1f1f8": {
+    "content": "🇷🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Serbia"
+  },
+  "1f1f7 1f1fa": {
+    "content": "🇷🇺",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Russia"
+  },
+  "1f1f7 1f1fc": {
+    "content": "🇷🇼",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Rwanda"
+  },
+  "1f1f8 1f1e6": {
+    "content": "🇸🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Saudi Arabia"
+  },
+  "1f1f8 1f1e7": {
+    "content": "🇸🇧",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Solomon Islands"
+  },
+  "1f1f8 1f1e8": {
+    "content": "🇸🇨",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Seychelles"
+  },
+  "1f1f8 1f1e9": {
+    "content": "🇸🇩",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Sudan"
+  },
+  "1f1f8 1f1ea": {
+    "content": "🇸🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Sweden"
+  },
+  "1f1f8 1f1ec": {
+    "content": "🇸🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Singapore"
+  },
+  "1f1f8 1f1ed": {
+    "content": "🇸🇭",
+    "type": "Emoji_Flag_Sequence",
+    "name": "St. Helena"
+  },
+  "1f1f8 1f1ee": {
+    "content": "🇸🇮",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Slovenia"
+  },
+  "1f1f8 1f1ef": {
+    "content": "🇸🇯",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Svalbard & Jan Mayen"
+  },
+  "1f1f8 1f1f0": {
+    "content": "🇸🇰",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Slovakia"
+  },
+  "1f1f8 1f1f1": {
+    "content": "🇸🇱",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Sierra Leone"
+  },
+  "1f1f8 1f1f2": {
+    "content": "🇸🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "San Marino"
+  },
+  "1f1f8 1f1f3": {
+    "content": "🇸🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Senegal"
+  },
+  "1f1f8 1f1f4": {
+    "content": "🇸🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Somalia"
+  },
+  "1f1f8 1f1f7": {
+    "content": "🇸🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Suriname"
+  },
+  "1f1f8 1f1f8": {
+    "content": "🇸🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "South Sudan"
+  },
+  "1f1f8 1f1f9": {
+    "content": "🇸🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "São Tomé & Príncipe"
+  },
+  "1f1f8 1f1fb": {
+    "content": "🇸🇻",
+    "type": "Emoji_Flag_Sequence",
+    "name": "El Salvador"
+  },
+  "1f1f8 1f1fd": {
+    "content": "🇸🇽",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Sint Maarten"
+  },
+  "1f1f8 1f1fe": {
+    "content": "🇸🇾",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Syria"
+  },
+  "1f1f8 1f1ff": {
+    "content": "🇸🇿",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Swaziland"
+  },
+  "1f1f9 1f1e6": {
+    "content": "🇹🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Tristan da Cunha"
+  },
+  "1f1f9 1f1e8": {
+    "content": "🇹🇨",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Turks & Caicos Islands"
+  },
+  "1f1f9 1f1e9": {
+    "content": "🇹🇩",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Chad"
+  },
+  "1f1f9 1f1eb": {
+    "content": "🇹🇫",
+    "type": "Emoji_Flag_Sequence",
+    "name": "French Southern Territories"
+  },
+  "1f1f9 1f1ec": {
+    "content": "🇹🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Togo"
+  },
+  "1f1f9 1f1ed": {
+    "content": "🇹🇭",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Thailand"
+  },
+  "1f1f9 1f1ef": {
+    "content": "🇹🇯",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Tajikistan"
+  },
+  "1f1f9 1f1f0": {
+    "content": "🇹🇰",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Tokelau"
+  },
+  "1f1f9 1f1f1": {
+    "content": "🇹🇱",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Timor-Leste"
+  },
+  "1f1f9 1f1f2": {
+    "content": "🇹🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Turkmenistan"
+  },
+  "1f1f9 1f1f3": {
+    "content": "🇹🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Tunisia"
+  },
+  "1f1f9 1f1f4": {
+    "content": "🇹🇴",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Tonga"
+  },
+  "1f1f9 1f1f7": {
+    "content": "🇹🇷",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Turkey"
+  },
+  "1f1f9 1f1f9": {
+    "content": "🇹🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Trinidad & Tobago"
+  },
+  "1f1f9 1f1fb": {
+    "content": "🇹🇻",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Tuvalu"
+  },
+  "1f1f9 1f1fc": {
+    "content": "🇹🇼",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Taiwan"
+  },
+  "1f1f9 1f1ff": {
+    "content": "🇹🇿",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Tanzania"
+  },
+  "1f1fa 1f1e6": {
+    "content": "🇺🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Ukraine"
+  },
+  "1f1fa 1f1ec": {
+    "content": "🇺🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Uganda"
+  },
+  "1f1fa 1f1f2": {
+    "content": "🇺🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "U.S. Outlying Islands"
+  },
+  "1f1fa 1f1f3": {
+    "content": "🇺🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "United Nations"
+  },
+  "1f1fa 1f1f8": {
+    "content": "🇺🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "United States"
+  },
+  "1f1fa 1f1fe": {
+    "content": "🇺🇾",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Uruguay"
+  },
+  "1f1fa 1f1ff": {
+    "content": "🇺🇿",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Uzbekistan"
+  },
+  "1f1fb 1f1e6": {
+    "content": "🇻🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Vatican City"
+  },
+  "1f1fb 1f1e8": {
+    "content": "🇻🇨",
+    "type": "Emoji_Flag_Sequence",
+    "name": "St. Vincent & Grenadines"
+  },
+  "1f1fb 1f1ea": {
+    "content": "🇻🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Venezuela"
+  },
+  "1f1fb 1f1ec": {
+    "content": "🇻🇬",
+    "type": "Emoji_Flag_Sequence",
+    "name": "British Virgin Islands"
+  },
+  "1f1fb 1f1ee": {
+    "content": "🇻🇮",
+    "type": "Emoji_Flag_Sequence",
+    "name": "U.S. Virgin Islands"
+  },
+  "1f1fb 1f1f3": {
+    "content": "🇻🇳",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Vietnam"
+  },
+  "1f1fb 1f1fa": {
+    "content": "🇻🇺",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Vanuatu"
+  },
+  "1f1fc 1f1eb": {
+    "content": "🇼🇫",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Wallis & Futuna"
+  },
+  "1f1fc 1f1f8": {
+    "content": "🇼🇸",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Samoa"
+  },
+  "1f1fd 1f1f0": {
+    "content": "🇽🇰",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Kosovo"
+  },
+  "1f1fe 1f1ea": {
+    "content": "🇾🇪",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Yemen"
+  },
+  "1f1fe 1f1f9": {
+    "content": "🇾🇹",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Mayotte"
+  },
+  "1f1ff 1f1e6": {
+    "content": "🇿🇦",
+    "type": "Emoji_Flag_Sequence",
+    "name": "South Africa"
+  },
+  "1f1ff 1f1f2": {
+    "content": "🇿🇲",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Zambia"
+  },
+  "1f1ff 1f1fc": {
+    "content": "🇿🇼",
+    "type": "Emoji_Flag_Sequence",
+    "name": "Zimbabwe"
+  },
+  "1f3f4 e0067 e0062 e0065 e006e e0067 e007f": {
+    "content": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "type": "Emoji_Tag_Sequence",
+    "name": "England"
+  },
+  "1f3f4 e0067 e0062 e0073 e0063 e0074 e007f": {
+    "content": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "type": "Emoji_Tag_Sequence",
+    "name": "Scotland"
+  },
+  "1f3f4 e0067 e0062 e0077 e006c e0073 e007f": {
+    "content": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "type": "Emoji_Tag_Sequence",
+    "name": "Wales"
+  },
+  "261d 1f3fb": {
+    "content": "☝🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "index pointing up: light skin tone"
+  },
+  "261d 1f3fc": {
+    "content": "☝🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "index pointing up: medium-light skin tone"
+  },
+  "261d 1f3fd": {
+    "content": "☝🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "index pointing up: medium skin tone"
+  },
+  "261d 1f3fe": {
+    "content": "☝🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "index pointing up: medium-dark skin tone"
+  },
+  "261d 1f3ff": {
+    "content": "☝🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "index pointing up: dark skin tone"
+  },
+  "26f9 1f3fb": {
+    "content": "⛹🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person bouncing ball: light skin tone"
+  },
+  "26f9 1f3fc": {
+    "content": "⛹🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person bouncing ball: medium-light skin tone"
+  },
+  "26f9 1f3fd": {
+    "content": "⛹🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person bouncing ball: medium skin tone"
+  },
+  "26f9 1f3fe": {
+    "content": "⛹🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person bouncing ball: medium-dark skin tone"
+  },
+  "26f9 1f3ff": {
+    "content": "⛹🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person bouncing ball: dark skin tone"
+  },
+  "270a 1f3fb": {
+    "content": "✊🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised fist: light skin tone"
+  },
+  "270a 1f3fc": {
+    "content": "✊🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised fist: medium-light skin tone"
+  },
+  "270a 1f3fd": {
+    "content": "✊🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised fist: medium skin tone"
+  },
+  "270a 1f3fe": {
+    "content": "✊🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised fist: medium-dark skin tone"
+  },
+  "270a 1f3ff": {
+    "content": "✊🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised fist: dark skin tone"
+  },
+  "270b 1f3fb": {
+    "content": "✋🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised hand: light skin tone"
+  },
+  "270b 1f3fc": {
+    "content": "✋🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised hand: medium-light skin tone"
+  },
+  "270b 1f3fd": {
+    "content": "✋🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised hand: medium skin tone"
+  },
+  "270b 1f3fe": {
+    "content": "✋🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised hand: medium-dark skin tone"
+  },
+  "270b 1f3ff": {
+    "content": "✋🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised hand: dark skin tone"
+  },
+  "270c 1f3fb": {
+    "content": "✌🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "victory hand: light skin tone"
+  },
+  "270c 1f3fc": {
+    "content": "✌🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "victory hand: medium-light skin tone"
+  },
+  "270c 1f3fd": {
+    "content": "✌🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "victory hand: medium skin tone"
+  },
+  "270c 1f3fe": {
+    "content": "✌🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "victory hand: medium-dark skin tone"
+  },
+  "270c 1f3ff": {
+    "content": "✌🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "victory hand: dark skin tone"
+  },
+  "270d 1f3fb": {
+    "content": "✍🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "writing hand: light skin tone"
+  },
+  "270d 1f3fc": {
+    "content": "✍🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "writing hand: medium-light skin tone"
+  },
+  "270d 1f3fd": {
+    "content": "✍🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "writing hand: medium skin tone"
+  },
+  "270d 1f3fe": {
+    "content": "✍🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "writing hand: medium-dark skin tone"
+  },
+  "270d 1f3ff": {
+    "content": "✍🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "writing hand: dark skin tone"
+  },
+  "1f385 1f3fb": {
+    "content": "🎅🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "Santa Claus: light skin tone"
+  },
+  "1f385 1f3fc": {
+    "content": "🎅🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "Santa Claus: medium-light skin tone"
+  },
+  "1f385 1f3fd": {
+    "content": "🎅🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "Santa Claus: medium skin tone"
+  },
+  "1f385 1f3fe": {
+    "content": "🎅🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "Santa Claus: medium-dark skin tone"
+  },
+  "1f385 1f3ff": {
+    "content": "🎅🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "Santa Claus: dark skin tone"
+  },
+  "1f3c2 1f3fb": {
+    "content": "🏂🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "snowboarder: light skin tone"
+  },
+  "1f3c2 1f3fc": {
+    "content": "🏂🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "snowboarder: medium-light skin tone"
+  },
+  "1f3c2 1f3fd": {
+    "content": "🏂🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "snowboarder: medium skin tone"
+  },
+  "1f3c2 1f3fe": {
+    "content": "🏂🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "snowboarder: medium-dark skin tone"
+  },
+  "1f3c2 1f3ff": {
+    "content": "🏂🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "snowboarder: dark skin tone"
+  },
+  "1f3c3 1f3fb": {
+    "content": "🏃🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person running: light skin tone"
+  },
+  "1f3c3 1f3fc": {
+    "content": "🏃🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person running: medium-light skin tone"
+  },
+  "1f3c3 1f3fd": {
+    "content": "🏃🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person running: medium skin tone"
+  },
+  "1f3c3 1f3fe": {
+    "content": "🏃🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person running: medium-dark skin tone"
+  },
+  "1f3c3 1f3ff": {
+    "content": "🏃🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person running: dark skin tone"
+  },
+  "1f3c4 1f3fb": {
+    "content": "🏄🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person surfing: light skin tone"
+  },
+  "1f3c4 1f3fc": {
+    "content": "🏄🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person surfing: medium-light skin tone"
+  },
+  "1f3c4 1f3fd": {
+    "content": "🏄🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person surfing: medium skin tone"
+  },
+  "1f3c4 1f3fe": {
+    "content": "🏄🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person surfing: medium-dark skin tone"
+  },
+  "1f3c4 1f3ff": {
+    "content": "🏄🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person surfing: dark skin tone"
+  },
+  "1f3c7 1f3fb": {
+    "content": "🏇🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "horse racing: light skin tone"
+  },
+  "1f3c7 1f3fc": {
+    "content": "🏇🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "horse racing: medium-light skin tone"
+  },
+  "1f3c7 1f3fd": {
+    "content": "🏇🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "horse racing: medium skin tone"
+  },
+  "1f3c7 1f3fe": {
+    "content": "🏇🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "horse racing: medium-dark skin tone"
+  },
+  "1f3c7 1f3ff": {
+    "content": "🏇🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "horse racing: dark skin tone"
+  },
+  "1f3ca 1f3fb": {
+    "content": "🏊🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person swimming: light skin tone"
+  },
+  "1f3ca 1f3fc": {
+    "content": "🏊🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person swimming: medium-light skin tone"
+  },
+  "1f3ca 1f3fd": {
+    "content": "🏊🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person swimming: medium skin tone"
+  },
+  "1f3ca 1f3fe": {
+    "content": "🏊🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person swimming: medium-dark skin tone"
+  },
+  "1f3ca 1f3ff": {
+    "content": "🏊🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person swimming: dark skin tone"
+  },
+  "1f3cb 1f3fb": {
+    "content": "🏋🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person lifting weights: light skin tone"
+  },
+  "1f3cb 1f3fc": {
+    "content": "🏋🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person lifting weights: medium-light skin tone"
+  },
+  "1f3cb 1f3fd": {
+    "content": "🏋🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person lifting weights: medium skin tone"
+  },
+  "1f3cb 1f3fe": {
+    "content": "🏋🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person lifting weights: medium-dark skin tone"
+  },
+  "1f3cb 1f3ff": {
+    "content": "🏋🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person lifting weights: dark skin tone"
+  },
+  "1f3cc 1f3fb": {
+    "content": "🏌🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person golfing: light skin tone"
+  },
+  "1f3cc 1f3fc": {
+    "content": "🏌🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person golfing: medium-light skin tone"
+  },
+  "1f3cc 1f3fd": {
+    "content": "🏌🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person golfing: medium skin tone"
+  },
+  "1f3cc 1f3fe": {
+    "content": "🏌🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person golfing: medium-dark skin tone"
+  },
+  "1f3cc 1f3ff": {
+    "content": "🏌🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person golfing: dark skin tone"
+  },
+  "1f442 1f3fb": {
+    "content": "👂🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "ear: light skin tone"
+  },
+  "1f442 1f3fc": {
+    "content": "👂🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "ear: medium-light skin tone"
+  },
+  "1f442 1f3fd": {
+    "content": "👂🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "ear: medium skin tone"
+  },
+  "1f442 1f3fe": {
+    "content": "👂🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "ear: medium-dark skin tone"
+  },
+  "1f442 1f3ff": {
+    "content": "👂🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "ear: dark skin tone"
+  },
+  "1f443 1f3fb": {
+    "content": "👃🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "nose: light skin tone"
+  },
+  "1f443 1f3fc": {
+    "content": "👃🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "nose: medium-light skin tone"
+  },
+  "1f443 1f3fd": {
+    "content": "👃🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "nose: medium skin tone"
+  },
+  "1f443 1f3fe": {
+    "content": "👃🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "nose: medium-dark skin tone"
+  },
+  "1f443 1f3ff": {
+    "content": "👃🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "nose: dark skin tone"
+  },
+  "1f446 1f3fb": {
+    "content": "👆🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing up: light skin tone"
+  },
+  "1f446 1f3fc": {
+    "content": "👆🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing up: medium-light skin tone"
+  },
+  "1f446 1f3fd": {
+    "content": "👆🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing up: medium skin tone"
+  },
+  "1f446 1f3fe": {
+    "content": "👆🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing up: medium-dark skin tone"
+  },
+  "1f446 1f3ff": {
+    "content": "👆🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing up: dark skin tone"
+  },
+  "1f447 1f3fb": {
+    "content": "👇🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing down: light skin tone"
+  },
+  "1f447 1f3fc": {
+    "content": "👇🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing down: medium-light skin tone"
+  },
+  "1f447 1f3fd": {
+    "content": "👇🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing down: medium skin tone"
+  },
+  "1f447 1f3fe": {
+    "content": "👇🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing down: medium-dark skin tone"
+  },
+  "1f447 1f3ff": {
+    "content": "👇🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing down: dark skin tone"
+  },
+  "1f448 1f3fb": {
+    "content": "👈🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing left: light skin tone"
+  },
+  "1f448 1f3fc": {
+    "content": "👈🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing left: medium-light skin tone"
+  },
+  "1f448 1f3fd": {
+    "content": "👈🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing left: medium skin tone"
+  },
+  "1f448 1f3fe": {
+    "content": "👈🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing left: medium-dark skin tone"
+  },
+  "1f448 1f3ff": {
+    "content": "👈🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing left: dark skin tone"
+  },
+  "1f449 1f3fb": {
+    "content": "👉🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing right: light skin tone"
+  },
+  "1f449 1f3fc": {
+    "content": "👉🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing right: medium-light skin tone"
+  },
+  "1f449 1f3fd": {
+    "content": "👉🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing right: medium skin tone"
+  },
+  "1f449 1f3fe": {
+    "content": "👉🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing right: medium-dark skin tone"
+  },
+  "1f449 1f3ff": {
+    "content": "👉🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "backhand index pointing right: dark skin tone"
+  },
+  "1f44a 1f3fb": {
+    "content": "👊🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "oncoming fist: light skin tone"
+  },
+  "1f44a 1f3fc": {
+    "content": "👊🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "oncoming fist: medium-light skin tone"
+  },
+  "1f44a 1f3fd": {
+    "content": "👊🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "oncoming fist: medium skin tone"
+  },
+  "1f44a 1f3fe": {
+    "content": "👊🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "oncoming fist: medium-dark skin tone"
+  },
+  "1f44a 1f3ff": {
+    "content": "👊🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "oncoming fist: dark skin tone"
+  },
+  "1f44b 1f3fb": {
+    "content": "👋🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "waving hand: light skin tone"
+  },
+  "1f44b 1f3fc": {
+    "content": "👋🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "waving hand: medium-light skin tone"
+  },
+  "1f44b 1f3fd": {
+    "content": "👋🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "waving hand: medium skin tone"
+  },
+  "1f44b 1f3fe": {
+    "content": "👋🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "waving hand: medium-dark skin tone"
+  },
+  "1f44b 1f3ff": {
+    "content": "👋🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "waving hand: dark skin tone"
+  },
+  "1f44c 1f3fb": {
+    "content": "👌🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "OK hand: light skin tone"
+  },
+  "1f44c 1f3fc": {
+    "content": "👌🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "OK hand: medium-light skin tone"
+  },
+  "1f44c 1f3fd": {
+    "content": "👌🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "OK hand: medium skin tone"
+  },
+  "1f44c 1f3fe": {
+    "content": "👌🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "OK hand: medium-dark skin tone"
+  },
+  "1f44c 1f3ff": {
+    "content": "👌🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "OK hand: dark skin tone"
+  },
+  "1f44d 1f3fb": {
+    "content": "👍🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "thumbs up: light skin tone"
+  },
+  "1f44d 1f3fc": {
+    "content": "👍🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "thumbs up: medium-light skin tone"
+  },
+  "1f44d 1f3fd": {
+    "content": "👍🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "thumbs up: medium skin tone"
+  },
+  "1f44d 1f3fe": {
+    "content": "👍🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "thumbs up: medium-dark skin tone"
+  },
+  "1f44d 1f3ff": {
+    "content": "👍🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "thumbs up: dark skin tone"
+  },
+  "1f44e 1f3fb": {
+    "content": "👎🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "thumbs down: light skin tone"
+  },
+  "1f44e 1f3fc": {
+    "content": "👎🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "thumbs down: medium-light skin tone"
+  },
+  "1f44e 1f3fd": {
+    "content": "👎🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "thumbs down: medium skin tone"
+  },
+  "1f44e 1f3fe": {
+    "content": "👎🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "thumbs down: medium-dark skin tone"
+  },
+  "1f44e 1f3ff": {
+    "content": "👎🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "thumbs down: dark skin tone"
+  },
+  "1f44f 1f3fb": {
+    "content": "👏🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "clapping hands: light skin tone"
+  },
+  "1f44f 1f3fc": {
+    "content": "👏🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "clapping hands: medium-light skin tone"
+  },
+  "1f44f 1f3fd": {
+    "content": "👏🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "clapping hands: medium skin tone"
+  },
+  "1f44f 1f3fe": {
+    "content": "👏🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "clapping hands: medium-dark skin tone"
+  },
+  "1f44f 1f3ff": {
+    "content": "👏🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "clapping hands: dark skin tone"
+  },
+  "1f450 1f3fb": {
+    "content": "👐🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "open hands: light skin tone"
+  },
+  "1f450 1f3fc": {
+    "content": "👐🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "open hands: medium-light skin tone"
+  },
+  "1f450 1f3fd": {
+    "content": "👐🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "open hands: medium skin tone"
+  },
+  "1f450 1f3fe": {
+    "content": "👐🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "open hands: medium-dark skin tone"
+  },
+  "1f450 1f3ff": {
+    "content": "👐🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "open hands: dark skin tone"
+  },
+  "1f466 1f3fb": {
+    "content": "👦🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "boy: light skin tone"
+  },
+  "1f466 1f3fc": {
+    "content": "👦🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "boy: medium-light skin tone"
+  },
+  "1f466 1f3fd": {
+    "content": "👦🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "boy: medium skin tone"
+  },
+  "1f466 1f3fe": {
+    "content": "👦🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "boy: medium-dark skin tone"
+  },
+  "1f466 1f3ff": {
+    "content": "👦🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "boy: dark skin tone"
+  },
+  "1f467 1f3fb": {
+    "content": "👧🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "girl: light skin tone"
+  },
+  "1f467 1f3fc": {
+    "content": "👧🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "girl: medium-light skin tone"
+  },
+  "1f467 1f3fd": {
+    "content": "👧🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "girl: medium skin tone"
+  },
+  "1f467 1f3fe": {
+    "content": "👧🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "girl: medium-dark skin tone"
+  },
+  "1f467 1f3ff": {
+    "content": "👧🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "girl: dark skin tone"
+  },
+  "1f468 1f3fb": {
+    "content": "👨🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man: light skin tone"
+  },
+  "1f468 1f3fc": {
+    "content": "👨🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man: medium-light skin tone"
+  },
+  "1f468 1f3fd": {
+    "content": "👨🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man: medium skin tone"
+  },
+  "1f468 1f3fe": {
+    "content": "👨🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man: medium-dark skin tone"
+  },
+  "1f468 1f3ff": {
+    "content": "👨🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man: dark skin tone"
+  },
+  "1f469 1f3fb": {
+    "content": "👩🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman: light skin tone"
+  },
+  "1f469 1f3fc": {
+    "content": "👩🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman: medium-light skin tone"
+  },
+  "1f469 1f3fd": {
+    "content": "👩🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman: medium skin tone"
+  },
+  "1f469 1f3fe": {
+    "content": "👩🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman: medium-dark skin tone"
+  },
+  "1f469 1f3ff": {
+    "content": "👩🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman: dark skin tone"
+  },
+  "1f46e 1f3fb": {
+    "content": "👮🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "police officer: light skin tone"
+  },
+  "1f46e 1f3fc": {
+    "content": "👮🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "police officer: medium-light skin tone"
+  },
+  "1f46e 1f3fd": {
+    "content": "👮🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "police officer: medium skin tone"
+  },
+  "1f46e 1f3fe": {
+    "content": "👮🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "police officer: medium-dark skin tone"
+  },
+  "1f46e 1f3ff": {
+    "content": "👮🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "police officer: dark skin tone"
+  },
+  "1f470 1f3fb": {
+    "content": "👰🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "bride with veil: light skin tone"
+  },
+  "1f470 1f3fc": {
+    "content": "👰🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "bride with veil: medium-light skin tone"
+  },
+  "1f470 1f3fd": {
+    "content": "👰🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "bride with veil: medium skin tone"
+  },
+  "1f470 1f3fe": {
+    "content": "👰🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "bride with veil: medium-dark skin tone"
+  },
+  "1f470 1f3ff": {
+    "content": "👰🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "bride with veil: dark skin tone"
+  },
+  "1f471 1f3fb": {
+    "content": "👱🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "blond-haired person: light skin tone"
+  },
+  "1f471 1f3fc": {
+    "content": "👱🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "blond-haired person: medium-light skin tone"
+  },
+  "1f471 1f3fd": {
+    "content": "👱🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "blond-haired person: medium skin tone"
+  },
+  "1f471 1f3fe": {
+    "content": "👱🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "blond-haired person: medium-dark skin tone"
+  },
+  "1f471 1f3ff": {
+    "content": "👱🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "blond-haired person: dark skin tone"
+  },
+  "1f472 1f3fb": {
+    "content": "👲🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man with Chinese cap: light skin tone"
+  },
+  "1f472 1f3fc": {
+    "content": "👲🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man with Chinese cap: medium-light skin tone"
+  },
+  "1f472 1f3fd": {
+    "content": "👲🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man with Chinese cap: medium skin tone"
+  },
+  "1f472 1f3fe": {
+    "content": "👲🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man with Chinese cap: medium-dark skin tone"
+  },
+  "1f472 1f3ff": {
+    "content": "👲🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man with Chinese cap: dark skin tone"
+  },
+  "1f473 1f3fb": {
+    "content": "👳🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person wearing turban: light skin tone"
+  },
+  "1f473 1f3fc": {
+    "content": "👳🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person wearing turban: medium-light skin tone"
+  },
+  "1f473 1f3fd": {
+    "content": "👳🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person wearing turban: medium skin tone"
+  },
+  "1f473 1f3fe": {
+    "content": "👳🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person wearing turban: medium-dark skin tone"
+  },
+  "1f473 1f3ff": {
+    "content": "👳🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person wearing turban: dark skin tone"
+  },
+  "1f474 1f3fb": {
+    "content": "👴🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "old man: light skin tone"
+  },
+  "1f474 1f3fc": {
+    "content": "👴🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "old man: medium-light skin tone"
+  },
+  "1f474 1f3fd": {
+    "content": "👴🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "old man: medium skin tone"
+  },
+  "1f474 1f3fe": {
+    "content": "👴🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "old man: medium-dark skin tone"
+  },
+  "1f474 1f3ff": {
+    "content": "👴🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "old man: dark skin tone"
+  },
+  "1f475 1f3fb": {
+    "content": "👵🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "old woman: light skin tone"
+  },
+  "1f475 1f3fc": {
+    "content": "👵🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "old woman: medium-light skin tone"
+  },
+  "1f475 1f3fd": {
+    "content": "👵🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "old woman: medium skin tone"
+  },
+  "1f475 1f3fe": {
+    "content": "👵🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "old woman: medium-dark skin tone"
+  },
+  "1f475 1f3ff": {
+    "content": "👵🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "old woman: dark skin tone"
+  },
+  "1f476 1f3fb": {
+    "content": "👶🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "baby: light skin tone"
+  },
+  "1f476 1f3fc": {
+    "content": "👶🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "baby: medium-light skin tone"
+  },
+  "1f476 1f3fd": {
+    "content": "👶🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "baby: medium skin tone"
+  },
+  "1f476 1f3fe": {
+    "content": "👶🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "baby: medium-dark skin tone"
+  },
+  "1f476 1f3ff": {
+    "content": "👶🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "baby: dark skin tone"
+  },
+  "1f477 1f3fb": {
+    "content": "👷🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "construction worker: light skin tone"
+  },
+  "1f477 1f3fc": {
+    "content": "👷🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "construction worker: medium-light skin tone"
+  },
+  "1f477 1f3fd": {
+    "content": "👷🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "construction worker: medium skin tone"
+  },
+  "1f477 1f3fe": {
+    "content": "👷🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "construction worker: medium-dark skin tone"
+  },
+  "1f477 1f3ff": {
+    "content": "👷🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "construction worker: dark skin tone"
+  },
+  "1f478 1f3fb": {
+    "content": "👸🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "princess: light skin tone"
+  },
+  "1f478 1f3fc": {
+    "content": "👸🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "princess: medium-light skin tone"
+  },
+  "1f478 1f3fd": {
+    "content": "👸🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "princess: medium skin tone"
+  },
+  "1f478 1f3fe": {
+    "content": "👸🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "princess: medium-dark skin tone"
+  },
+  "1f478 1f3ff": {
+    "content": "👸🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "princess: dark skin tone"
+  },
+  "1f47c 1f3fb": {
+    "content": "👼🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "baby angel: light skin tone"
+  },
+  "1f47c 1f3fc": {
+    "content": "👼🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "baby angel: medium-light skin tone"
+  },
+  "1f47c 1f3fd": {
+    "content": "👼🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "baby angel: medium skin tone"
+  },
+  "1f47c 1f3fe": {
+    "content": "👼🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "baby angel: medium-dark skin tone"
+  },
+  "1f47c 1f3ff": {
+    "content": "👼🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "baby angel: dark skin tone"
+  },
+  "1f481 1f3fb": {
+    "content": "💁🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person tipping hand: light skin tone"
+  },
+  "1f481 1f3fc": {
+    "content": "💁🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person tipping hand: medium-light skin tone"
+  },
+  "1f481 1f3fd": {
+    "content": "💁🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person tipping hand: medium skin tone"
+  },
+  "1f481 1f3fe": {
+    "content": "💁🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person tipping hand: medium-dark skin tone"
+  },
+  "1f481 1f3ff": {
+    "content": "💁🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person tipping hand: dark skin tone"
+  },
+  "1f482 1f3fb": {
+    "content": "💂🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "guard: light skin tone"
+  },
+  "1f482 1f3fc": {
+    "content": "💂🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "guard: medium-light skin tone"
+  },
+  "1f482 1f3fd": {
+    "content": "💂🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "guard: medium skin tone"
+  },
+  "1f482 1f3fe": {
+    "content": "💂🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "guard: medium-dark skin tone"
+  },
+  "1f482 1f3ff": {
+    "content": "💂🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "guard: dark skin tone"
+  },
+  "1f483 1f3fb": {
+    "content": "💃🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman dancing: light skin tone"
+  },
+  "1f483 1f3fc": {
+    "content": "💃🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman dancing: medium-light skin tone"
+  },
+  "1f483 1f3fd": {
+    "content": "💃🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman dancing: medium skin tone"
+  },
+  "1f483 1f3fe": {
+    "content": "💃🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman dancing: medium-dark skin tone"
+  },
+  "1f483 1f3ff": {
+    "content": "💃🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman dancing: dark skin tone"
+  },
+  "1f485 1f3fb": {
+    "content": "💅🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "nail polish: light skin tone"
+  },
+  "1f485 1f3fc": {
+    "content": "💅🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "nail polish: medium-light skin tone"
+  },
+  "1f485 1f3fd": {
+    "content": "💅🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "nail polish: medium skin tone"
+  },
+  "1f485 1f3fe": {
+    "content": "💅🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "nail polish: medium-dark skin tone"
+  },
+  "1f485 1f3ff": {
+    "content": "💅🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "nail polish: dark skin tone"
+  },
+  "1f486 1f3fb": {
+    "content": "💆🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person getting massage: light skin tone"
+  },
+  "1f486 1f3fc": {
+    "content": "💆🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person getting massage: medium-light skin tone"
+  },
+  "1f486 1f3fd": {
+    "content": "💆🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person getting massage: medium skin tone"
+  },
+  "1f486 1f3fe": {
+    "content": "💆🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person getting massage: medium-dark skin tone"
+  },
+  "1f486 1f3ff": {
+    "content": "💆🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person getting massage: dark skin tone"
+  },
+  "1f487 1f3fb": {
+    "content": "💇🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person getting haircut: light skin tone"
+  },
+  "1f487 1f3fc": {
+    "content": "💇🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person getting haircut: medium-light skin tone"
+  },
+  "1f487 1f3fd": {
+    "content": "💇🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person getting haircut: medium skin tone"
+  },
+  "1f487 1f3fe": {
+    "content": "💇🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person getting haircut: medium-dark skin tone"
+  },
+  "1f487 1f3ff": {
+    "content": "💇🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person getting haircut: dark skin tone"
+  },
+  "1f4aa 1f3fb": {
+    "content": "💪🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "flexed biceps: light skin tone"
+  },
+  "1f4aa 1f3fc": {
+    "content": "💪🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "flexed biceps: medium-light skin tone"
+  },
+  "1f4aa 1f3fd": {
+    "content": "💪🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "flexed biceps: medium skin tone"
+  },
+  "1f4aa 1f3fe": {
+    "content": "💪🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "flexed biceps: medium-dark skin tone"
+  },
+  "1f4aa 1f3ff": {
+    "content": "💪🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "flexed biceps: dark skin tone"
+  },
+  "1f574 1f3fb": {
+    "content": "🕴🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man in suit levitating: light skin tone"
+  },
+  "1f574 1f3fc": {
+    "content": "🕴🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man in suit levitating: medium-light skin tone"
+  },
+  "1f574 1f3fd": {
+    "content": "🕴🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man in suit levitating: medium skin tone"
+  },
+  "1f574 1f3fe": {
+    "content": "🕴🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man in suit levitating: medium-dark skin tone"
+  },
+  "1f574 1f3ff": {
+    "content": "🕴🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man in suit levitating: dark skin tone"
+  },
+  "1f575 1f3fb": {
+    "content": "🕵🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "detective: light skin tone"
+  },
+  "1f575 1f3fc": {
+    "content": "🕵🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "detective: medium-light skin tone"
+  },
+  "1f575 1f3fd": {
+    "content": "🕵🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "detective: medium skin tone"
+  },
+  "1f575 1f3fe": {
+    "content": "🕵🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "detective: medium-dark skin tone"
+  },
+  "1f575 1f3ff": {
+    "content": "🕵🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "detective: dark skin tone"
+  },
+  "1f57a 1f3fb": {
+    "content": "🕺🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man dancing: light skin tone"
+  },
+  "1f57a 1f3fc": {
+    "content": "🕺🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man dancing: medium-light skin tone"
+  },
+  "1f57a 1f3fd": {
+    "content": "🕺🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man dancing: medium skin tone"
+  },
+  "1f57a 1f3fe": {
+    "content": "🕺🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man dancing: medium-dark skin tone"
+  },
+  "1f57a 1f3ff": {
+    "content": "🕺🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man dancing: dark skin tone"
+  },
+  "1f590 1f3fb": {
+    "content": "🖐🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "hand with fingers splayed: light skin tone"
+  },
+  "1f590 1f3fc": {
+    "content": "🖐🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "hand with fingers splayed: medium-light skin tone"
+  },
+  "1f590 1f3fd": {
+    "content": "🖐🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "hand with fingers splayed: medium skin tone"
+  },
+  "1f590 1f3fe": {
+    "content": "🖐🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "hand with fingers splayed: medium-dark skin tone"
+  },
+  "1f590 1f3ff": {
+    "content": "🖐🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "hand with fingers splayed: dark skin tone"
+  },
+  "1f595 1f3fb": {
+    "content": "🖕🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "middle finger: light skin tone"
+  },
+  "1f595 1f3fc": {
+    "content": "🖕🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "middle finger: medium-light skin tone"
+  },
+  "1f595 1f3fd": {
+    "content": "🖕🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "middle finger: medium skin tone"
+  },
+  "1f595 1f3fe": {
+    "content": "🖕🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "middle finger: medium-dark skin tone"
+  },
+  "1f595 1f3ff": {
+    "content": "🖕🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "middle finger: dark skin tone"
+  },
+  "1f596 1f3fb": {
+    "content": "🖖🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "vulcan salute: light skin tone"
+  },
+  "1f596 1f3fc": {
+    "content": "🖖🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "vulcan salute: medium-light skin tone"
+  },
+  "1f596 1f3fd": {
+    "content": "🖖🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "vulcan salute: medium skin tone"
+  },
+  "1f596 1f3fe": {
+    "content": "🖖🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "vulcan salute: medium-dark skin tone"
+  },
+  "1f596 1f3ff": {
+    "content": "🖖🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "vulcan salute: dark skin tone"
+  },
+  "1f645 1f3fb": {
+    "content": "🙅🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person gesturing NO: light skin tone"
+  },
+  "1f645 1f3fc": {
+    "content": "🙅🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person gesturing NO: medium-light skin tone"
+  },
+  "1f645 1f3fd": {
+    "content": "🙅🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person gesturing NO: medium skin tone"
+  },
+  "1f645 1f3fe": {
+    "content": "🙅🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person gesturing NO: medium-dark skin tone"
+  },
+  "1f645 1f3ff": {
+    "content": "🙅🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person gesturing NO: dark skin tone"
+  },
+  "1f646 1f3fb": {
+    "content": "🙆🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person gesturing OK: light skin tone"
+  },
+  "1f646 1f3fc": {
+    "content": "🙆🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person gesturing OK: medium-light skin tone"
+  },
+  "1f646 1f3fd": {
+    "content": "🙆🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person gesturing OK: medium skin tone"
+  },
+  "1f646 1f3fe": {
+    "content": "🙆🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person gesturing OK: medium-dark skin tone"
+  },
+  "1f646 1f3ff": {
+    "content": "🙆🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person gesturing OK: dark skin tone"
+  },
+  "1f647 1f3fb": {
+    "content": "🙇🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person bowing: light skin tone"
+  },
+  "1f647 1f3fc": {
+    "content": "🙇🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person bowing: medium-light skin tone"
+  },
+  "1f647 1f3fd": {
+    "content": "🙇🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person bowing: medium skin tone"
+  },
+  "1f647 1f3fe": {
+    "content": "🙇🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person bowing: medium-dark skin tone"
+  },
+  "1f647 1f3ff": {
+    "content": "🙇🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person bowing: dark skin tone"
+  },
+  "1f64b 1f3fb": {
+    "content": "🙋🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person raising hand: light skin tone"
+  },
+  "1f64b 1f3fc": {
+    "content": "🙋🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person raising hand: medium-light skin tone"
+  },
+  "1f64b 1f3fd": {
+    "content": "🙋🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person raising hand: medium skin tone"
+  },
+  "1f64b 1f3fe": {
+    "content": "🙋🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person raising hand: medium-dark skin tone"
+  },
+  "1f64b 1f3ff": {
+    "content": "🙋🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person raising hand: dark skin tone"
+  },
+  "1f64c 1f3fb": {
+    "content": "🙌🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raising hands: light skin tone"
+  },
+  "1f64c 1f3fc": {
+    "content": "🙌🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raising hands: medium-light skin tone"
+  },
+  "1f64c 1f3fd": {
+    "content": "🙌🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raising hands: medium skin tone"
+  },
+  "1f64c 1f3fe": {
+    "content": "🙌🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raising hands: medium-dark skin tone"
+  },
+  "1f64c 1f3ff": {
+    "content": "🙌🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raising hands: dark skin tone"
+  },
+  "1f64d 1f3fb": {
+    "content": "🙍🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person frowning: light skin tone"
+  },
+  "1f64d 1f3fc": {
+    "content": "🙍🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person frowning: medium-light skin tone"
+  },
+  "1f64d 1f3fd": {
+    "content": "🙍🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person frowning: medium skin tone"
+  },
+  "1f64d 1f3fe": {
+    "content": "🙍🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person frowning: medium-dark skin tone"
+  },
+  "1f64d 1f3ff": {
+    "content": "🙍🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person frowning: dark skin tone"
+  },
+  "1f64e 1f3fb": {
+    "content": "🙎🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person pouting: light skin tone"
+  },
+  "1f64e 1f3fc": {
+    "content": "🙎🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person pouting: medium-light skin tone"
+  },
+  "1f64e 1f3fd": {
+    "content": "🙎🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person pouting: medium skin tone"
+  },
+  "1f64e 1f3fe": {
+    "content": "🙎🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person pouting: medium-dark skin tone"
+  },
+  "1f64e 1f3ff": {
+    "content": "🙎🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person pouting: dark skin tone"
+  },
+  "1f64f 1f3fb": {
+    "content": "🙏🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "folded hands: light skin tone"
+  },
+  "1f64f 1f3fc": {
+    "content": "🙏🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "folded hands: medium-light skin tone"
+  },
+  "1f64f 1f3fd": {
+    "content": "🙏🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "folded hands: medium skin tone"
+  },
+  "1f64f 1f3fe": {
+    "content": "🙏🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "folded hands: medium-dark skin tone"
+  },
+  "1f64f 1f3ff": {
+    "content": "🙏🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "folded hands: dark skin tone"
+  },
+  "1f6a3 1f3fb": {
+    "content": "🚣🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person rowing boat: light skin tone"
+  },
+  "1f6a3 1f3fc": {
+    "content": "🚣🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person rowing boat: medium-light skin tone"
+  },
+  "1f6a3 1f3fd": {
+    "content": "🚣🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person rowing boat: medium skin tone"
+  },
+  "1f6a3 1f3fe": {
+    "content": "🚣🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person rowing boat: medium-dark skin tone"
+  },
+  "1f6a3 1f3ff": {
+    "content": "🚣🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person rowing boat: dark skin tone"
+  },
+  "1f6b4 1f3fb": {
+    "content": "🚴🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person biking: light skin tone"
+  },
+  "1f6b4 1f3fc": {
+    "content": "🚴🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person biking: medium-light skin tone"
+  },
+  "1f6b4 1f3fd": {
+    "content": "🚴🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person biking: medium skin tone"
+  },
+  "1f6b4 1f3fe": {
+    "content": "🚴🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person biking: medium-dark skin tone"
+  },
+  "1f6b4 1f3ff": {
+    "content": "🚴🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person biking: dark skin tone"
+  },
+  "1f6b5 1f3fb": {
+    "content": "🚵🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person mountain biking: light skin tone"
+  },
+  "1f6b5 1f3fc": {
+    "content": "🚵🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person mountain biking: medium-light skin tone"
+  },
+  "1f6b5 1f3fd": {
+    "content": "🚵🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person mountain biking: medium skin tone"
+  },
+  "1f6b5 1f3fe": {
+    "content": "🚵🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person mountain biking: medium-dark skin tone"
+  },
+  "1f6b5 1f3ff": {
+    "content": "🚵🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person mountain biking: dark skin tone"
+  },
+  "1f6b6 1f3fb": {
+    "content": "🚶🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person walking: light skin tone"
+  },
+  "1f6b6 1f3fc": {
+    "content": "🚶🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person walking: medium-light skin tone"
+  },
+  "1f6b6 1f3fd": {
+    "content": "🚶🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person walking: medium skin tone"
+  },
+  "1f6b6 1f3fe": {
+    "content": "🚶🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person walking: medium-dark skin tone"
+  },
+  "1f6b6 1f3ff": {
+    "content": "🚶🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person walking: dark skin tone"
+  },
+  "1f6c0 1f3fb": {
+    "content": "🛀🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person taking bath: light skin tone"
+  },
+  "1f6c0 1f3fc": {
+    "content": "🛀🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person taking bath: medium-light skin tone"
+  },
+  "1f6c0 1f3fd": {
+    "content": "🛀🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person taking bath: medium skin tone"
+  },
+  "1f6c0 1f3fe": {
+    "content": "🛀🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person taking bath: medium-dark skin tone"
+  },
+  "1f6c0 1f3ff": {
+    "content": "🛀🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person taking bath: dark skin tone"
+  },
+  "1f6cc 1f3fb": {
+    "content": "🛌🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in bed: light skin tone"
+  },
+  "1f6cc 1f3fc": {
+    "content": "🛌🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in bed: medium-light skin tone"
+  },
+  "1f6cc 1f3fd": {
+    "content": "🛌🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in bed: medium skin tone"
+  },
+  "1f6cc 1f3fe": {
+    "content": "🛌🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in bed: medium-dark skin tone"
+  },
+  "1f6cc 1f3ff": {
+    "content": "🛌🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in bed: dark skin tone"
+  },
+  "1f918 1f3fb": {
+    "content": "🤘🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "sign of the horns: light skin tone"
+  },
+  "1f918 1f3fc": {
+    "content": "🤘🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "sign of the horns: medium-light skin tone"
+  },
+  "1f918 1f3fd": {
+    "content": "🤘🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "sign of the horns: medium skin tone"
+  },
+  "1f918 1f3fe": {
+    "content": "🤘🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "sign of the horns: medium-dark skin tone"
+  },
+  "1f918 1f3ff": {
+    "content": "🤘🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "sign of the horns: dark skin tone"
+  },
+  "1f919 1f3fb": {
+    "content": "🤙🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "call me hand: light skin tone"
+  },
+  "1f919 1f3fc": {
+    "content": "🤙🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "call me hand: medium-light skin tone"
+  },
+  "1f919 1f3fd": {
+    "content": "🤙🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "call me hand: medium skin tone"
+  },
+  "1f919 1f3fe": {
+    "content": "🤙🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "call me hand: medium-dark skin tone"
+  },
+  "1f919 1f3ff": {
+    "content": "🤙🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "call me hand: dark skin tone"
+  },
+  "1f91a 1f3fb": {
+    "content": "🤚🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised back of hand: light skin tone"
+  },
+  "1f91a 1f3fc": {
+    "content": "🤚🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised back of hand: medium-light skin tone"
+  },
+  "1f91a 1f3fd": {
+    "content": "🤚🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised back of hand: medium skin tone"
+  },
+  "1f91a 1f3fe": {
+    "content": "🤚🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised back of hand: medium-dark skin tone"
+  },
+  "1f91a 1f3ff": {
+    "content": "🤚🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "raised back of hand: dark skin tone"
+  },
+  "1f91b 1f3fb": {
+    "content": "🤛🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "left-facing fist: light skin tone"
+  },
+  "1f91b 1f3fc": {
+    "content": "🤛🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "left-facing fist: medium-light skin tone"
+  },
+  "1f91b 1f3fd": {
+    "content": "🤛🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "left-facing fist: medium skin tone"
+  },
+  "1f91b 1f3fe": {
+    "content": "🤛🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "left-facing fist: medium-dark skin tone"
+  },
+  "1f91b 1f3ff": {
+    "content": "🤛🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "left-facing fist: dark skin tone"
+  },
+  "1f91c 1f3fb": {
+    "content": "🤜🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "right-facing fist: light skin tone"
+  },
+  "1f91c 1f3fc": {
+    "content": "🤜🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "right-facing fist: medium-light skin tone"
+  },
+  "1f91c 1f3fd": {
+    "content": "🤜🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "right-facing fist: medium skin tone"
+  },
+  "1f91c 1f3fe": {
+    "content": "🤜🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "right-facing fist: medium-dark skin tone"
+  },
+  "1f91c 1f3ff": {
+    "content": "🤜🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "right-facing fist: dark skin tone"
+  },
+  "1f91e 1f3fb": {
+    "content": "🤞🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "crossed fingers: light skin tone"
+  },
+  "1f91e 1f3fc": {
+    "content": "🤞🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "crossed fingers: medium-light skin tone"
+  },
+  "1f91e 1f3fd": {
+    "content": "🤞🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "crossed fingers: medium skin tone"
+  },
+  "1f91e 1f3fe": {
+    "content": "🤞🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "crossed fingers: medium-dark skin tone"
+  },
+  "1f91e 1f3ff": {
+    "content": "🤞🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "crossed fingers: dark skin tone"
+  },
+  "1f91f 1f3fb": {
+    "content": "🤟🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "love-you gesture: light skin tone"
+  },
+  "1f91f 1f3fc": {
+    "content": "🤟🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "love-you gesture: medium-light skin tone"
+  },
+  "1f91f 1f3fd": {
+    "content": "🤟🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "love-you gesture: medium skin tone"
+  },
+  "1f91f 1f3fe": {
+    "content": "🤟🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "love-you gesture: medium-dark skin tone"
+  },
+  "1f91f 1f3ff": {
+    "content": "🤟🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "love-you gesture: dark skin tone"
+  },
+  "1f926 1f3fb": {
+    "content": "🤦🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person facepalming: light skin tone"
+  },
+  "1f926 1f3fc": {
+    "content": "🤦🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person facepalming: medium-light skin tone"
+  },
+  "1f926 1f3fd": {
+    "content": "🤦🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person facepalming: medium skin tone"
+  },
+  "1f926 1f3fe": {
+    "content": "🤦🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person facepalming: medium-dark skin tone"
+  },
+  "1f926 1f3ff": {
+    "content": "🤦🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person facepalming: dark skin tone"
+  },
+  "1f930 1f3fb": {
+    "content": "🤰🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "pregnant woman: light skin tone"
+  },
+  "1f930 1f3fc": {
+    "content": "🤰🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "pregnant woman: medium-light skin tone"
+  },
+  "1f930 1f3fd": {
+    "content": "🤰🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "pregnant woman: medium skin tone"
+  },
+  "1f930 1f3fe": {
+    "content": "🤰🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "pregnant woman: medium-dark skin tone"
+  },
+  "1f930 1f3ff": {
+    "content": "🤰🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "pregnant woman: dark skin tone"
+  },
+  "1f931 1f3fb": {
+    "content": "🤱🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "breast-feeding: light skin tone"
+  },
+  "1f931 1f3fc": {
+    "content": "🤱🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "breast-feeding: medium-light skin tone"
+  },
+  "1f931 1f3fd": {
+    "content": "🤱🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "breast-feeding: medium skin tone"
+  },
+  "1f931 1f3fe": {
+    "content": "🤱🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "breast-feeding: medium-dark skin tone"
+  },
+  "1f931 1f3ff": {
+    "content": "🤱🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "breast-feeding: dark skin tone"
+  },
+  "1f932 1f3fb": {
+    "content": "🤲🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "palms up together: light skin tone"
+  },
+  "1f932 1f3fc": {
+    "content": "🤲🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "palms up together: medium-light skin tone"
+  },
+  "1f932 1f3fd": {
+    "content": "🤲🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "palms up together: medium skin tone"
+  },
+  "1f932 1f3fe": {
+    "content": "🤲🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "palms up together: medium-dark skin tone"
+  },
+  "1f932 1f3ff": {
+    "content": "🤲🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "palms up together: dark skin tone"
+  },
+  "1f933 1f3fb": {
+    "content": "🤳🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "selfie: light skin tone"
+  },
+  "1f933 1f3fc": {
+    "content": "🤳🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "selfie: medium-light skin tone"
+  },
+  "1f933 1f3fd": {
+    "content": "🤳🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "selfie: medium skin tone"
+  },
+  "1f933 1f3fe": {
+    "content": "🤳🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "selfie: medium-dark skin tone"
+  },
+  "1f933 1f3ff": {
+    "content": "🤳🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "selfie: dark skin tone"
+  },
+  "1f934 1f3fb": {
+    "content": "🤴🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "prince: light skin tone"
+  },
+  "1f934 1f3fc": {
+    "content": "🤴🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "prince: medium-light skin tone"
+  },
+  "1f934 1f3fd": {
+    "content": "🤴🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "prince: medium skin tone"
+  },
+  "1f934 1f3fe": {
+    "content": "🤴🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "prince: medium-dark skin tone"
+  },
+  "1f934 1f3ff": {
+    "content": "🤴🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "prince: dark skin tone"
+  },
+  "1f935 1f3fb": {
+    "content": "🤵🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man in tuxedo: light skin tone"
+  },
+  "1f935 1f3fc": {
+    "content": "🤵🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man in tuxedo: medium-light skin tone"
+  },
+  "1f935 1f3fd": {
+    "content": "🤵🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man in tuxedo: medium skin tone"
+  },
+  "1f935 1f3fe": {
+    "content": "🤵🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man in tuxedo: medium-dark skin tone"
+  },
+  "1f935 1f3ff": {
+    "content": "🤵🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "man in tuxedo: dark skin tone"
+  },
+  "1f936 1f3fb": {
+    "content": "🤶🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "Mrs. Claus: light skin tone"
+  },
+  "1f936 1f3fc": {
+    "content": "🤶🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "Mrs. Claus: medium-light skin tone"
+  },
+  "1f936 1f3fd": {
+    "content": "🤶🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "Mrs. Claus: medium skin tone"
+  },
+  "1f936 1f3fe": {
+    "content": "🤶🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "Mrs. Claus: medium-dark skin tone"
+  },
+  "1f936 1f3ff": {
+    "content": "🤶🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "Mrs. Claus: dark skin tone"
+  },
+  "1f937 1f3fb": {
+    "content": "🤷🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person shrugging: light skin tone"
+  },
+  "1f937 1f3fc": {
+    "content": "🤷🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person shrugging: medium-light skin tone"
+  },
+  "1f937 1f3fd": {
+    "content": "🤷🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person shrugging: medium skin tone"
+  },
+  "1f937 1f3fe": {
+    "content": "🤷🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person shrugging: medium-dark skin tone"
+  },
+  "1f937 1f3ff": {
+    "content": "🤷🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person shrugging: dark skin tone"
+  },
+  "1f938 1f3fb": {
+    "content": "🤸🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person cartwheeling: light skin tone"
+  },
+  "1f938 1f3fc": {
+    "content": "🤸🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person cartwheeling: medium-light skin tone"
+  },
+  "1f938 1f3fd": {
+    "content": "🤸🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person cartwheeling: medium skin tone"
+  },
+  "1f938 1f3fe": {
+    "content": "🤸🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person cartwheeling: medium-dark skin tone"
+  },
+  "1f938 1f3ff": {
+    "content": "🤸🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person cartwheeling: dark skin tone"
+  },
+  "1f939 1f3fb": {
+    "content": "🤹🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person juggling: light skin tone"
+  },
+  "1f939 1f3fc": {
+    "content": "🤹🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person juggling: medium-light skin tone"
+  },
+  "1f939 1f3fd": {
+    "content": "🤹🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person juggling: medium skin tone"
+  },
+  "1f939 1f3fe": {
+    "content": "🤹🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person juggling: medium-dark skin tone"
+  },
+  "1f939 1f3ff": {
+    "content": "🤹🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person juggling: dark skin tone"
+  },
+  "1f93d 1f3fb": {
+    "content": "🤽🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person playing water polo: light skin tone"
+  },
+  "1f93d 1f3fc": {
+    "content": "🤽🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person playing water polo: medium-light skin tone"
+  },
+  "1f93d 1f3fd": {
+    "content": "🤽🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person playing water polo: medium skin tone"
+  },
+  "1f93d 1f3fe": {
+    "content": "🤽🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person playing water polo: medium-dark skin tone"
+  },
+  "1f93d 1f3ff": {
+    "content": "🤽🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person playing water polo: dark skin tone"
+  },
+  "1f93e 1f3fb": {
+    "content": "🤾🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person playing handball: light skin tone"
+  },
+  "1f93e 1f3fc": {
+    "content": "🤾🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person playing handball: medium-light skin tone"
+  },
+  "1f93e 1f3fd": {
+    "content": "🤾🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person playing handball: medium skin tone"
+  },
+  "1f93e 1f3fe": {
+    "content": "🤾🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person playing handball: medium-dark skin tone"
+  },
+  "1f93e 1f3ff": {
+    "content": "🤾🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person playing handball: dark skin tone"
+  },
+  "1f9b5 1f3fb": {
+    "content": "🦵🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "leg: light skin tone"
+  },
+  "1f9b5 1f3fc": {
+    "content": "🦵🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "leg: medium-light skin tone"
+  },
+  "1f9b5 1f3fd": {
+    "content": "🦵🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "leg: medium skin tone"
+  },
+  "1f9b5 1f3fe": {
+    "content": "🦵🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "leg: medium-dark skin tone"
+  },
+  "1f9b5 1f3ff": {
+    "content": "🦵🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "leg: dark skin tone"
+  },
+  "1f9b6 1f3fb": {
+    "content": "🦶🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "foot: light skin tone"
+  },
+  "1f9b6 1f3fc": {
+    "content": "🦶🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "foot: medium-light skin tone"
+  },
+  "1f9b6 1f3fd": {
+    "content": "🦶🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "foot: medium skin tone"
+  },
+  "1f9b6 1f3fe": {
+    "content": "🦶🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "foot: medium-dark skin tone"
+  },
+  "1f9b6 1f3ff": {
+    "content": "🦶🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "foot: dark skin tone"
+  },
+  "1f9b8 1f3fb": {
+    "content": "🦸🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "superhero: light skin tone"
+  },
+  "1f9b8 1f3fc": {
+    "content": "🦸🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "superhero: medium-light skin tone"
+  },
+  "1f9b8 1f3fd": {
+    "content": "🦸🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "superhero: medium skin tone"
+  },
+  "1f9b8 1f3fe": {
+    "content": "🦸🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "superhero: medium-dark skin tone"
+  },
+  "1f9b8 1f3ff": {
+    "content": "🦸🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "superhero: dark skin tone"
+  },
+  "1f9b9 1f3fb": {
+    "content": "🦹🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "supervillain: light skin tone"
+  },
+  "1f9b9 1f3fc": {
+    "content": "🦹🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "supervillain: medium-light skin tone"
+  },
+  "1f9b9 1f3fd": {
+    "content": "🦹🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "supervillain: medium skin tone"
+  },
+  "1f9b9 1f3fe": {
+    "content": "🦹🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "supervillain: medium-dark skin tone"
+  },
+  "1f9b9 1f3ff": {
+    "content": "🦹🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "supervillain: dark skin tone"
+  },
+  "1f9d1 1f3fb": {
+    "content": "🧑🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "adult: light skin tone"
+  },
+  "1f9d1 1f3fc": {
+    "content": "🧑🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "adult: medium-light skin tone"
+  },
+  "1f9d1 1f3fd": {
+    "content": "🧑🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "adult: medium skin tone"
+  },
+  "1f9d1 1f3fe": {
+    "content": "🧑🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "adult: medium-dark skin tone"
+  },
+  "1f9d1 1f3ff": {
+    "content": "🧑🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "adult: dark skin tone"
+  },
+  "1f9d2 1f3fb": {
+    "content": "🧒🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "child: light skin tone"
+  },
+  "1f9d2 1f3fc": {
+    "content": "🧒🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "child: medium-light skin tone"
+  },
+  "1f9d2 1f3fd": {
+    "content": "🧒🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "child: medium skin tone"
+  },
+  "1f9d2 1f3fe": {
+    "content": "🧒🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "child: medium-dark skin tone"
+  },
+  "1f9d2 1f3ff": {
+    "content": "🧒🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "child: dark skin tone"
+  },
+  "1f9d3 1f3fb": {
+    "content": "🧓🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "older adult: light skin tone"
+  },
+  "1f9d3 1f3fc": {
+    "content": "🧓🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "older adult: medium-light skin tone"
+  },
+  "1f9d3 1f3fd": {
+    "content": "🧓🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "older adult: medium skin tone"
+  },
+  "1f9d3 1f3fe": {
+    "content": "🧓🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "older adult: medium-dark skin tone"
+  },
+  "1f9d3 1f3ff": {
+    "content": "🧓🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "older adult: dark skin tone"
+  },
+  "1f9d4 1f3fb": {
+    "content": "🧔🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "bearded person: light skin tone"
+  },
+  "1f9d4 1f3fc": {
+    "content": "🧔🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "bearded person: medium-light skin tone"
+  },
+  "1f9d4 1f3fd": {
+    "content": "🧔🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "bearded person: medium skin tone"
+  },
+  "1f9d4 1f3fe": {
+    "content": "🧔🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "bearded person: medium-dark skin tone"
+  },
+  "1f9d4 1f3ff": {
+    "content": "🧔🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "bearded person: dark skin tone"
+  },
+  "1f9d5 1f3fb": {
+    "content": "🧕🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman with headscarf: light skin tone"
+  },
+  "1f9d5 1f3fc": {
+    "content": "🧕🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman with headscarf: medium-light skin tone"
+  },
+  "1f9d5 1f3fd": {
+    "content": "🧕🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman with headscarf: medium skin tone"
+  },
+  "1f9d5 1f3fe": {
+    "content": "🧕🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman with headscarf: medium-dark skin tone"
+  },
+  "1f9d5 1f3ff": {
+    "content": "🧕🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "woman with headscarf: dark skin tone"
+  },
+  "1f9d6 1f3fb": {
+    "content": "🧖🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in steamy room: light skin tone"
+  },
+  "1f9d6 1f3fc": {
+    "content": "🧖🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in steamy room: medium-light skin tone"
+  },
+  "1f9d6 1f3fd": {
+    "content": "🧖🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in steamy room: medium skin tone"
+  },
+  "1f9d6 1f3fe": {
+    "content": "🧖🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in steamy room: medium-dark skin tone"
+  },
+  "1f9d6 1f3ff": {
+    "content": "🧖🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in steamy room: dark skin tone"
+  },
+  "1f9d7 1f3fb": {
+    "content": "🧗🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person climbing: light skin tone"
+  },
+  "1f9d7 1f3fc": {
+    "content": "🧗🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person climbing: medium-light skin tone"
+  },
+  "1f9d7 1f3fd": {
+    "content": "🧗🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person climbing: medium skin tone"
+  },
+  "1f9d7 1f3fe": {
+    "content": "🧗🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person climbing: medium-dark skin tone"
+  },
+  "1f9d7 1f3ff": {
+    "content": "🧗🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person climbing: dark skin tone"
+  },
+  "1f9d8 1f3fb": {
+    "content": "🧘🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in lotus position: light skin tone"
+  },
+  "1f9d8 1f3fc": {
+    "content": "🧘🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in lotus position: medium-light skin tone"
+  },
+  "1f9d8 1f3fd": {
+    "content": "🧘🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in lotus position: medium skin tone"
+  },
+  "1f9d8 1f3fe": {
+    "content": "🧘🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in lotus position: medium-dark skin tone"
+  },
+  "1f9d8 1f3ff": {
+    "content": "🧘🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "person in lotus position: dark skin tone"
+  },
+  "1f9d9 1f3fb": {
+    "content": "🧙🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "mage: light skin tone"
+  },
+  "1f9d9 1f3fc": {
+    "content": "🧙🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "mage: medium-light skin tone"
+  },
+  "1f9d9 1f3fd": {
+    "content": "🧙🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "mage: medium skin tone"
+  },
+  "1f9d9 1f3fe": {
+    "content": "🧙🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "mage: medium-dark skin tone"
+  },
+  "1f9d9 1f3ff": {
+    "content": "🧙🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "mage: dark skin tone"
+  },
+  "1f9da 1f3fb": {
+    "content": "🧚🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "fairy: light skin tone"
+  },
+  "1f9da 1f3fc": {
+    "content": "🧚🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "fairy: medium-light skin tone"
+  },
+  "1f9da 1f3fd": {
+    "content": "🧚🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "fairy: medium skin tone"
+  },
+  "1f9da 1f3fe": {
+    "content": "🧚🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "fairy: medium-dark skin tone"
+  },
+  "1f9da 1f3ff": {
+    "content": "🧚🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "fairy: dark skin tone"
+  },
+  "1f9db 1f3fb": {
+    "content": "🧛🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "vampire: light skin tone"
+  },
+  "1f9db 1f3fc": {
+    "content": "🧛🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "vampire: medium-light skin tone"
+  },
+  "1f9db 1f3fd": {
+    "content": "🧛🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "vampire: medium skin tone"
+  },
+  "1f9db 1f3fe": {
+    "content": "🧛🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "vampire: medium-dark skin tone"
+  },
+  "1f9db 1f3ff": {
+    "content": "🧛🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "vampire: dark skin tone"
+  },
+  "1f9dc 1f3fb": {
+    "content": "🧜🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "merperson: light skin tone"
+  },
+  "1f9dc 1f3fc": {
+    "content": "🧜🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "merperson: medium-light skin tone"
+  },
+  "1f9dc 1f3fd": {
+    "content": "🧜🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "merperson: medium skin tone"
+  },
+  "1f9dc 1f3fe": {
+    "content": "🧜🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "merperson: medium-dark skin tone"
+  },
+  "1f9dc 1f3ff": {
+    "content": "🧜🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "merperson: dark skin tone"
+  },
+  "1f9dd 1f3fb": {
+    "content": "🧝🏻",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "elf: light skin tone"
+  },
+  "1f9dd 1f3fc": {
+    "content": "🧝🏼",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "elf: medium-light skin tone"
+  },
+  "1f9dd 1f3fd": {
+    "content": "🧝🏽",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "elf: medium skin tone"
+  },
+  "1f9dd 1f3fe": {
+    "content": "🧝🏾",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "elf: medium-dark skin tone"
+  },
+  "1f9dd 1f3ff": {
+    "content": "🧝🏿",
+    "type": "Emoji_Modifier_Sequence",
+    "name": "elf: dark skin tone"
+  }
+}

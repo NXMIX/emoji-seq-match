@@ -1,0 +1,3872 @@
+{
+  "1f468 200d 2764 fe0f 200d 1f468": {
+    "content": "👨‍❤️‍👨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "couple with heart: man, man"
+  },
+  "1f468 200d 2764 fe0f 200d 1f48b 200d 1f468": {
+    "content": "👨‍❤️‍💋‍👨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "kiss: man, man"
+  },
+  "1f468 200d 1f466": {
+    "content": "👨‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, boy"
+  },
+  "1f468 200d 1f466 200d 1f466": {
+    "content": "👨‍👦‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, boy, boy"
+  },
+  "1f468 200d 1f467": {
+    "content": "👨‍👧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, girl"
+  },
+  "1f468 200d 1f467 200d 1f466": {
+    "content": "👨‍👧‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, girl, boy"
+  },
+  "1f468 200d 1f467 200d 1f467": {
+    "content": "👨‍👧‍👧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, girl, girl"
+  },
+  "1f468 200d 1f468 200d 1f466": {
+    "content": "👨‍👨‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, man, boy"
+  },
+  "1f468 200d 1f468 200d 1f466 200d 1f466": {
+    "content": "👨‍👨‍👦‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, man, boy, boy"
+  },
+  "1f468 200d 1f468 200d 1f467": {
+    "content": "👨‍👨‍👧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, man, girl"
+  },
+  "1f468 200d 1f468 200d 1f467 200d 1f466": {
+    "content": "👨‍👨‍👧‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, man, girl, boy"
+  },
+  "1f468 200d 1f468 200d 1f467 200d 1f467": {
+    "content": "👨‍👨‍👧‍👧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, man, girl, girl"
+  },
+  "1f468 200d 1f469 200d 1f466": {
+    "content": "👨‍👩‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, woman, boy"
+  },
+  "1f468 200d 1f469 200d 1f466 200d 1f466": {
+    "content": "👨‍👩‍👦‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, woman, boy, boy"
+  },
+  "1f468 200d 1f469 200d 1f467": {
+    "content": "👨‍👩‍👧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, woman, girl"
+  },
+  "1f468 200d 1f469 200d 1f467 200d 1f466": {
+    "content": "👨‍👩‍👧‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, woman, girl, boy"
+  },
+  "1f468 200d 1f469 200d 1f467 200d 1f467": {
+    "content": "👨‍👩‍👧‍👧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: man, woman, girl, girl"
+  },
+  "1f469 200d 2764 fe0f 200d 1f468": {
+    "content": "👩‍❤️‍👨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "couple with heart: woman, man"
+  },
+  "1f469 200d 2764 fe0f 200d 1f469": {
+    "content": "👩‍❤️‍👩",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "couple with heart: woman, woman"
+  },
+  "1f469 200d 2764 fe0f 200d 1f48b 200d 1f468": {
+    "content": "👩‍❤️‍💋‍👨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "kiss: woman, man"
+  },
+  "1f469 200d 2764 fe0f 200d 1f48b 200d 1f469": {
+    "content": "👩‍❤️‍💋‍👩",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "kiss: woman, woman"
+  },
+  "1f469 200d 1f466": {
+    "content": "👩‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: woman, boy"
+  },
+  "1f469 200d 1f466 200d 1f466": {
+    "content": "👩‍👦‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: woman, boy, boy"
+  },
+  "1f469 200d 1f467": {
+    "content": "👩‍👧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: woman, girl"
+  },
+  "1f469 200d 1f467 200d 1f466": {
+    "content": "👩‍👧‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: woman, girl, boy"
+  },
+  "1f469 200d 1f467 200d 1f467": {
+    "content": "👩‍👧‍👧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: woman, girl, girl"
+  },
+  "1f469 200d 1f469 200d 1f466": {
+    "content": "👩‍👩‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: woman, woman, boy"
+  },
+  "1f469 200d 1f469 200d 1f466 200d 1f466": {
+    "content": "👩‍👩‍👦‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: woman, woman, boy, boy"
+  },
+  "1f469 200d 1f469 200d 1f467": {
+    "content": "👩‍👩‍👧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: woman, woman, girl"
+  },
+  "1f469 200d 1f469 200d 1f467 200d 1f466": {
+    "content": "👩‍👩‍👧‍👦",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: woman, woman, girl, boy"
+  },
+  "1f469 200d 1f469 200d 1f467 200d 1f467": {
+    "content": "👩‍👩‍👧‍👧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "family: woman, woman, girl, girl"
+  },
+  "1f468 200d 2695 fe0f": {
+    "content": "👨‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man health worker"
+  },
+  "1f468 200d 2696 fe0f": {
+    "content": "👨‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man judge"
+  },
+  "1f468 200d 2708 fe0f": {
+    "content": "👨‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pilot"
+  },
+  "1f468 200d 1f33e": {
+    "content": "👨‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man farmer"
+  },
+  "1f468 200d 1f373": {
+    "content": "👨‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cook"
+  },
+  "1f468 200d 1f393": {
+    "content": "👨‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man student"
+  },
+  "1f468 200d 1f3a4": {
+    "content": "👨‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man singer"
+  },
+  "1f468 200d 1f3a8": {
+    "content": "👨‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man artist"
+  },
+  "1f468 200d 1f3eb": {
+    "content": "👨‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man teacher"
+  },
+  "1f468 200d 1f3ed": {
+    "content": "👨‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man factory worker"
+  },
+  "1f468 200d 1f4bb": {
+    "content": "👨‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man technologist"
+  },
+  "1f468 200d 1f4bc": {
+    "content": "👨‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man office worker"
+  },
+  "1f468 200d 1f527": {
+    "content": "👨‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mechanic"
+  },
+  "1f468 200d 1f52c": {
+    "content": "👨‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man scientist"
+  },
+  "1f468 200d 1f680": {
+    "content": "👨‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man astronaut"
+  },
+  "1f468 200d 1f692": {
+    "content": "👨‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man firefighter"
+  },
+  "1f468 200d 1f9b0": {
+    "content": "👨‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, red haired"
+  },
+  "1f468 200d 1f9b1": {
+    "content": "👨‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, curly haired"
+  },
+  "1f468 200d 1f9b2": {
+    "content": "👨‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, bald"
+  },
+  "1f468 200d 1f9b3": {
+    "content": "👨‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, white haired"
+  },
+  "1f468 1f3fb 200d 2695 fe0f": {
+    "content": "👨🏻‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man health worker: light skin tone"
+  },
+  "1f468 1f3fb 200d 2696 fe0f": {
+    "content": "👨🏻‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man judge: light skin tone"
+  },
+  "1f468 1f3fb 200d 2708 fe0f": {
+    "content": "👨🏻‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pilot: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f33e": {
+    "content": "👨🏻‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man farmer: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f373": {
+    "content": "👨🏻‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cook: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f393": {
+    "content": "👨🏻‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man student: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f3a4": {
+    "content": "👨🏻‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man singer: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f3a8": {
+    "content": "👨🏻‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man artist: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f3eb": {
+    "content": "👨🏻‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man teacher: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f3ed": {
+    "content": "👨🏻‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man factory worker: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f4bb": {
+    "content": "👨🏻‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man technologist: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f4bc": {
+    "content": "👨🏻‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man office worker: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f527": {
+    "content": "👨🏻‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mechanic: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f52c": {
+    "content": "👨🏻‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man scientist: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f680": {
+    "content": "👨🏻‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man astronaut: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f692": {
+    "content": "👨🏻‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man firefighter: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f9b0": {
+    "content": "👨🏻‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, red haired: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f9b1": {
+    "content": "👨🏻‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, curly haired: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f9b2": {
+    "content": "👨🏻‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, bald: light skin tone"
+  },
+  "1f468 1f3fb 200d 1f9b3": {
+    "content": "👨🏻‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, white haired: light skin tone"
+  },
+  "1f468 1f3fc 200d 2695 fe0f": {
+    "content": "👨🏼‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man health worker: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 2696 fe0f": {
+    "content": "👨🏼‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man judge: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 2708 fe0f": {
+    "content": "👨🏼‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pilot: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f33e": {
+    "content": "👨🏼‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man farmer: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f373": {
+    "content": "👨🏼‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cook: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f393": {
+    "content": "👨🏼‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man student: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f3a4": {
+    "content": "👨🏼‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man singer: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f3a8": {
+    "content": "👨🏼‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man artist: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f3eb": {
+    "content": "👨🏼‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man teacher: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f3ed": {
+    "content": "👨🏼‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man factory worker: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f4bb": {
+    "content": "👨🏼‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man technologist: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f4bc": {
+    "content": "👨🏼‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man office worker: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f527": {
+    "content": "👨🏼‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mechanic: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f52c": {
+    "content": "👨🏼‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man scientist: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f680": {
+    "content": "👨🏼‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man astronaut: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f692": {
+    "content": "👨🏼‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man firefighter: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f9b0": {
+    "content": "👨🏼‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, red haired: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f9b1": {
+    "content": "👨🏼‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, curly haired: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f9b2": {
+    "content": "👨🏼‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, bald: medium-light skin tone"
+  },
+  "1f468 1f3fc 200d 1f9b3": {
+    "content": "👨🏼‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, white haired: medium-light skin tone"
+  },
+  "1f468 1f3fd 200d 2695 fe0f": {
+    "content": "👨🏽‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man health worker: medium skin tone"
+  },
+  "1f468 1f3fd 200d 2696 fe0f": {
+    "content": "👨🏽‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man judge: medium skin tone"
+  },
+  "1f468 1f3fd 200d 2708 fe0f": {
+    "content": "👨🏽‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pilot: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f33e": {
+    "content": "👨🏽‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man farmer: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f373": {
+    "content": "👨🏽‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cook: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f393": {
+    "content": "👨🏽‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man student: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f3a4": {
+    "content": "👨🏽‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man singer: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f3a8": {
+    "content": "👨🏽‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man artist: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f3eb": {
+    "content": "👨🏽‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man teacher: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f3ed": {
+    "content": "👨🏽‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man factory worker: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f4bb": {
+    "content": "👨🏽‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man technologist: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f4bc": {
+    "content": "👨🏽‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man office worker: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f527": {
+    "content": "👨🏽‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mechanic: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f52c": {
+    "content": "👨🏽‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man scientist: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f680": {
+    "content": "👨🏽‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man astronaut: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f692": {
+    "content": "👨🏽‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man firefighter: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f9b0": {
+    "content": "👨🏽‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, red haired: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f9b1": {
+    "content": "👨🏽‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, curly haired: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f9b2": {
+    "content": "👨🏽‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, bald: medium skin tone"
+  },
+  "1f468 1f3fd 200d 1f9b3": {
+    "content": "👨🏽‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, white haired: medium skin tone"
+  },
+  "1f468 1f3fe 200d 2695 fe0f": {
+    "content": "👨🏾‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man health worker: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 2696 fe0f": {
+    "content": "👨🏾‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man judge: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 2708 fe0f": {
+    "content": "👨🏾‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pilot: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f33e": {
+    "content": "👨🏾‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man farmer: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f373": {
+    "content": "👨🏾‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cook: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f393": {
+    "content": "👨🏾‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man student: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f3a4": {
+    "content": "👨🏾‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man singer: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f3a8": {
+    "content": "👨🏾‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man artist: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f3eb": {
+    "content": "👨🏾‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man teacher: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f3ed": {
+    "content": "👨🏾‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man factory worker: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f4bb": {
+    "content": "👨🏾‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man technologist: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f4bc": {
+    "content": "👨🏾‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man office worker: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f527": {
+    "content": "👨🏾‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mechanic: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f52c": {
+    "content": "👨🏾‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man scientist: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f680": {
+    "content": "👨🏾‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man astronaut: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f692": {
+    "content": "👨🏾‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man firefighter: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f9b0": {
+    "content": "👨🏾‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, red haired: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f9b1": {
+    "content": "👨🏾‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, curly haired: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f9b2": {
+    "content": "👨🏾‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, bald: medium-dark skin tone"
+  },
+  "1f468 1f3fe 200d 1f9b3": {
+    "content": "👨🏾‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, white haired: medium-dark skin tone"
+  },
+  "1f468 1f3ff 200d 2695 fe0f": {
+    "content": "👨🏿‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man health worker: dark skin tone"
+  },
+  "1f468 1f3ff 200d 2696 fe0f": {
+    "content": "👨🏿‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man judge: dark skin tone"
+  },
+  "1f468 1f3ff 200d 2708 fe0f": {
+    "content": "👨🏿‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pilot: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f33e": {
+    "content": "👨🏿‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man farmer: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f373": {
+    "content": "👨🏿‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cook: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f393": {
+    "content": "👨🏿‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man student: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f3a4": {
+    "content": "👨🏿‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man singer: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f3a8": {
+    "content": "👨🏿‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man artist: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f3eb": {
+    "content": "👨🏿‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man teacher: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f3ed": {
+    "content": "👨🏿‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man factory worker: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f4bb": {
+    "content": "👨🏿‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man technologist: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f4bc": {
+    "content": "👨🏿‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man office worker: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f527": {
+    "content": "👨🏿‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mechanic: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f52c": {
+    "content": "👨🏿‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man scientist: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f680": {
+    "content": "👨🏿‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man astronaut: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f692": {
+    "content": "👨🏿‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man firefighter: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f9b0": {
+    "content": "👨🏿‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, red haired: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f9b1": {
+    "content": "👨🏿‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, curly haired: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f9b2": {
+    "content": "👨🏿‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, bald: dark skin tone"
+  },
+  "1f468 1f3ff 200d 1f9b3": {
+    "content": "👨🏿‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man, white haired: dark skin tone"
+  },
+  "1f469 200d 2695 fe0f": {
+    "content": "👩‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman health worker"
+  },
+  "1f469 200d 2696 fe0f": {
+    "content": "👩‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman judge"
+  },
+  "1f469 200d 2708 fe0f": {
+    "content": "👩‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pilot"
+  },
+  "1f469 200d 1f33e": {
+    "content": "👩‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman farmer"
+  },
+  "1f469 200d 1f373": {
+    "content": "👩‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cook"
+  },
+  "1f469 200d 1f393": {
+    "content": "👩‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman student"
+  },
+  "1f469 200d 1f3a4": {
+    "content": "👩‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman singer"
+  },
+  "1f469 200d 1f3a8": {
+    "content": "👩‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman artist"
+  },
+  "1f469 200d 1f3eb": {
+    "content": "👩‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman teacher"
+  },
+  "1f469 200d 1f3ed": {
+    "content": "👩‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman factory worker"
+  },
+  "1f469 200d 1f4bb": {
+    "content": "👩‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman technologist"
+  },
+  "1f469 200d 1f4bc": {
+    "content": "👩‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman office worker"
+  },
+  "1f469 200d 1f527": {
+    "content": "👩‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mechanic"
+  },
+  "1f469 200d 1f52c": {
+    "content": "👩‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman scientist"
+  },
+  "1f469 200d 1f680": {
+    "content": "👩‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman astronaut"
+  },
+  "1f469 200d 1f692": {
+    "content": "👩‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman firefighter"
+  },
+  "1f469 200d 1f9b0": {
+    "content": "👩‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, red haired"
+  },
+  "1f469 200d 1f9b1": {
+    "content": "👩‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, curly haired"
+  },
+  "1f469 200d 1f9b2": {
+    "content": "👩‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, bald"
+  },
+  "1f469 200d 1f9b3": {
+    "content": "👩‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, white haired"
+  },
+  "1f469 1f3fb 200d 2695 fe0f": {
+    "content": "👩🏻‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman health worker: light skin tone"
+  },
+  "1f469 1f3fb 200d 2696 fe0f": {
+    "content": "👩🏻‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman judge: light skin tone"
+  },
+  "1f469 1f3fb 200d 2708 fe0f": {
+    "content": "👩🏻‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pilot: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f33e": {
+    "content": "👩🏻‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman farmer: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f373": {
+    "content": "👩🏻‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cook: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f393": {
+    "content": "👩🏻‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman student: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f3a4": {
+    "content": "👩🏻‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman singer: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f3a8": {
+    "content": "👩🏻‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman artist: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f3eb": {
+    "content": "👩🏻‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman teacher: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f3ed": {
+    "content": "👩🏻‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman factory worker: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f4bb": {
+    "content": "👩🏻‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman technologist: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f4bc": {
+    "content": "👩🏻‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman office worker: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f527": {
+    "content": "👩🏻‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mechanic: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f52c": {
+    "content": "👩🏻‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman scientist: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f680": {
+    "content": "👩🏻‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman astronaut: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f692": {
+    "content": "👩🏻‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman firefighter: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f9b0": {
+    "content": "👩🏻‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, red haired: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f9b1": {
+    "content": "👩🏻‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, curly haired: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f9b2": {
+    "content": "👩🏻‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, bald: light skin tone"
+  },
+  "1f469 1f3fb 200d 1f9b3": {
+    "content": "👩🏻‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, white haired: light skin tone"
+  },
+  "1f469 1f3fc 200d 2695 fe0f": {
+    "content": "👩🏼‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman health worker: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 2696 fe0f": {
+    "content": "👩🏼‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman judge: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 2708 fe0f": {
+    "content": "👩🏼‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pilot: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f33e": {
+    "content": "👩🏼‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman farmer: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f373": {
+    "content": "👩🏼‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cook: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f393": {
+    "content": "👩🏼‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman student: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f3a4": {
+    "content": "👩🏼‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman singer: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f3a8": {
+    "content": "👩🏼‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman artist: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f3eb": {
+    "content": "👩🏼‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman teacher: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f3ed": {
+    "content": "👩🏼‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman factory worker: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f4bb": {
+    "content": "👩🏼‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman technologist: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f4bc": {
+    "content": "👩🏼‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman office worker: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f527": {
+    "content": "👩🏼‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mechanic: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f52c": {
+    "content": "👩🏼‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman scientist: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f680": {
+    "content": "👩🏼‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman astronaut: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f692": {
+    "content": "👩🏼‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman firefighter: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f9b0": {
+    "content": "👩🏼‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, red haired: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f9b1": {
+    "content": "👩🏼‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, curly haired: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f9b2": {
+    "content": "👩🏼‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, bald: medium-light skin tone"
+  },
+  "1f469 1f3fc 200d 1f9b3": {
+    "content": "👩🏼‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, white haired: medium-light skin tone"
+  },
+  "1f469 1f3fd 200d 2695 fe0f": {
+    "content": "👩🏽‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman health worker: medium skin tone"
+  },
+  "1f469 1f3fd 200d 2696 fe0f": {
+    "content": "👩🏽‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman judge: medium skin tone"
+  },
+  "1f469 1f3fd 200d 2708 fe0f": {
+    "content": "👩🏽‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pilot: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f33e": {
+    "content": "👩🏽‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman farmer: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f373": {
+    "content": "👩🏽‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cook: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f393": {
+    "content": "👩🏽‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman student: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f3a4": {
+    "content": "👩🏽‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman singer: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f3a8": {
+    "content": "👩🏽‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman artist: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f3eb": {
+    "content": "👩🏽‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman teacher: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f3ed": {
+    "content": "👩🏽‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman factory worker: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f4bb": {
+    "content": "👩🏽‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman technologist: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f4bc": {
+    "content": "👩🏽‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman office worker: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f527": {
+    "content": "👩🏽‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mechanic: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f52c": {
+    "content": "👩🏽‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman scientist: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f680": {
+    "content": "👩🏽‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman astronaut: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f692": {
+    "content": "👩🏽‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman firefighter: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f9b0": {
+    "content": "👩🏽‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, red haired: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f9b1": {
+    "content": "👩🏽‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, curly haired: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f9b2": {
+    "content": "👩🏽‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, bald: medium skin tone"
+  },
+  "1f469 1f3fd 200d 1f9b3": {
+    "content": "👩🏽‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, white haired: medium skin tone"
+  },
+  "1f469 1f3fe 200d 2695 fe0f": {
+    "content": "👩🏾‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman health worker: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 2696 fe0f": {
+    "content": "👩🏾‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman judge: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 2708 fe0f": {
+    "content": "👩🏾‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pilot: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f33e": {
+    "content": "👩🏾‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman farmer: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f373": {
+    "content": "👩🏾‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cook: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f393": {
+    "content": "👩🏾‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman student: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f3a4": {
+    "content": "👩🏾‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman singer: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f3a8": {
+    "content": "👩🏾‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman artist: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f3eb": {
+    "content": "👩🏾‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman teacher: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f3ed": {
+    "content": "👩🏾‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman factory worker: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f4bb": {
+    "content": "👩🏾‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman technologist: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f4bc": {
+    "content": "👩🏾‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman office worker: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f527": {
+    "content": "👩🏾‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mechanic: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f52c": {
+    "content": "👩🏾‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman scientist: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f680": {
+    "content": "👩🏾‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman astronaut: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f692": {
+    "content": "👩🏾‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman firefighter: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f9b0": {
+    "content": "👩🏾‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, red haired: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f9b1": {
+    "content": "👩🏾‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, curly haired: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f9b2": {
+    "content": "👩🏾‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, bald: medium-dark skin tone"
+  },
+  "1f469 1f3fe 200d 1f9b3": {
+    "content": "👩🏾‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, white haired: medium-dark skin tone"
+  },
+  "1f469 1f3ff 200d 2695 fe0f": {
+    "content": "👩🏿‍⚕️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman health worker: dark skin tone"
+  },
+  "1f469 1f3ff 200d 2696 fe0f": {
+    "content": "👩🏿‍⚖️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman judge: dark skin tone"
+  },
+  "1f469 1f3ff 200d 2708 fe0f": {
+    "content": "👩🏿‍✈️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pilot: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f33e": {
+    "content": "👩🏿‍🌾",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman farmer: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f373": {
+    "content": "👩🏿‍🍳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cook: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f393": {
+    "content": "👩🏿‍🎓",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman student: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f3a4": {
+    "content": "👩🏿‍🎤",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman singer: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f3a8": {
+    "content": "👩🏿‍🎨",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman artist: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f3eb": {
+    "content": "👩🏿‍🏫",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman teacher: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f3ed": {
+    "content": "👩🏿‍🏭",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman factory worker: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f4bb": {
+    "content": "👩🏿‍💻",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman technologist: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f4bc": {
+    "content": "👩🏿‍💼",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman office worker: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f527": {
+    "content": "👩🏿‍🔧",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mechanic: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f52c": {
+    "content": "👩🏿‍🔬",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman scientist: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f680": {
+    "content": "👩🏿‍🚀",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman astronaut: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f692": {
+    "content": "👩🏿‍🚒",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman firefighter: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f9b0": {
+    "content": "👩🏿‍🦰",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, red haired: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f9b1": {
+    "content": "👩🏿‍🦱",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, curly haired: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f9b2": {
+    "content": "👩🏿‍🦲",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, bald: dark skin tone"
+  },
+  "1f469 1f3ff 200d 1f9b3": {
+    "content": "👩🏿‍🦳",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman, white haired: dark skin tone"
+  },
+  "1f46e 200d 2640 fe0f": {
+    "content": "👮‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman police officer"
+  },
+  "1f46e 200d 2642 fe0f": {
+    "content": "👮‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man police officer"
+  },
+  "1f46e 1f3fb 200d 2640 fe0f": {
+    "content": "👮🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman police officer: light skin tone"
+  },
+  "1f46e 1f3fb 200d 2642 fe0f": {
+    "content": "👮🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man police officer: light skin tone"
+  },
+  "1f46e 1f3fc 200d 2640 fe0f": {
+    "content": "👮🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman police officer: medium-light skin tone"
+  },
+  "1f46e 1f3fc 200d 2642 fe0f": {
+    "content": "👮🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man police officer: medium-light skin tone"
+  },
+  "1f46e 1f3fd 200d 2640 fe0f": {
+    "content": "👮🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman police officer: medium skin tone"
+  },
+  "1f46e 1f3fd 200d 2642 fe0f": {
+    "content": "👮🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man police officer: medium skin tone"
+  },
+  "1f46e 1f3fe 200d 2640 fe0f": {
+    "content": "👮🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman police officer: medium-dark skin tone"
+  },
+  "1f46e 1f3fe 200d 2642 fe0f": {
+    "content": "👮🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man police officer: medium-dark skin tone"
+  },
+  "1f46e 1f3ff 200d 2640 fe0f": {
+    "content": "👮🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman police officer: dark skin tone"
+  },
+  "1f46e 1f3ff 200d 2642 fe0f": {
+    "content": "👮🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man police officer: dark skin tone"
+  },
+  "1f471 200d 2640 fe0f": {
+    "content": "👱‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired woman"
+  },
+  "1f471 200d 2642 fe0f": {
+    "content": "👱‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired man"
+  },
+  "1f471 1f3fb 200d 2640 fe0f": {
+    "content": "👱🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired woman: light skin tone"
+  },
+  "1f471 1f3fb 200d 2642 fe0f": {
+    "content": "👱🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired man: light skin tone"
+  },
+  "1f471 1f3fc 200d 2640 fe0f": {
+    "content": "👱🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired woman: medium-light skin tone"
+  },
+  "1f471 1f3fc 200d 2642 fe0f": {
+    "content": "👱🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired man: medium-light skin tone"
+  },
+  "1f471 1f3fd 200d 2640 fe0f": {
+    "content": "👱🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired woman: medium skin tone"
+  },
+  "1f471 1f3fd 200d 2642 fe0f": {
+    "content": "👱🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired man: medium skin tone"
+  },
+  "1f471 1f3fe 200d 2640 fe0f": {
+    "content": "👱🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired woman: medium-dark skin tone"
+  },
+  "1f471 1f3fe 200d 2642 fe0f": {
+    "content": "👱🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired man: medium-dark skin tone"
+  },
+  "1f471 1f3ff 200d 2640 fe0f": {
+    "content": "👱🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired woman: dark skin tone"
+  },
+  "1f471 1f3ff 200d 2642 fe0f": {
+    "content": "👱🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "blond-haired man: dark skin tone"
+  },
+  "1f473 200d 2640 fe0f": {
+    "content": "👳‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman wearing turban"
+  },
+  "1f473 200d 2642 fe0f": {
+    "content": "👳‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man wearing turban"
+  },
+  "1f473 1f3fb 200d 2640 fe0f": {
+    "content": "👳🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman wearing turban: light skin tone"
+  },
+  "1f473 1f3fb 200d 2642 fe0f": {
+    "content": "👳🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man wearing turban: light skin tone"
+  },
+  "1f473 1f3fc 200d 2640 fe0f": {
+    "content": "👳🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman wearing turban: medium-light skin tone"
+  },
+  "1f473 1f3fc 200d 2642 fe0f": {
+    "content": "👳🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man wearing turban: medium-light skin tone"
+  },
+  "1f473 1f3fd 200d 2640 fe0f": {
+    "content": "👳🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman wearing turban: medium skin tone"
+  },
+  "1f473 1f3fd 200d 2642 fe0f": {
+    "content": "👳🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man wearing turban: medium skin tone"
+  },
+  "1f473 1f3fe 200d 2640 fe0f": {
+    "content": "👳🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman wearing turban: medium-dark skin tone"
+  },
+  "1f473 1f3fe 200d 2642 fe0f": {
+    "content": "👳🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man wearing turban: medium-dark skin tone"
+  },
+  "1f473 1f3ff 200d 2640 fe0f": {
+    "content": "👳🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman wearing turban: dark skin tone"
+  },
+  "1f473 1f3ff 200d 2642 fe0f": {
+    "content": "👳🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man wearing turban: dark skin tone"
+  },
+  "1f477 200d 2640 fe0f": {
+    "content": "👷‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman construction worker"
+  },
+  "1f477 200d 2642 fe0f": {
+    "content": "👷‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man construction worker"
+  },
+  "1f477 1f3fb 200d 2640 fe0f": {
+    "content": "👷🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman construction worker: light skin tone"
+  },
+  "1f477 1f3fb 200d 2642 fe0f": {
+    "content": "👷🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man construction worker: light skin tone"
+  },
+  "1f477 1f3fc 200d 2640 fe0f": {
+    "content": "👷🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman construction worker: medium-light skin tone"
+  },
+  "1f477 1f3fc 200d 2642 fe0f": {
+    "content": "👷🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man construction worker: medium-light skin tone"
+  },
+  "1f477 1f3fd 200d 2640 fe0f": {
+    "content": "👷🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman construction worker: medium skin tone"
+  },
+  "1f477 1f3fd 200d 2642 fe0f": {
+    "content": "👷🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man construction worker: medium skin tone"
+  },
+  "1f477 1f3fe 200d 2640 fe0f": {
+    "content": "👷🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman construction worker: medium-dark skin tone"
+  },
+  "1f477 1f3fe 200d 2642 fe0f": {
+    "content": "👷🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man construction worker: medium-dark skin tone"
+  },
+  "1f477 1f3ff 200d 2640 fe0f": {
+    "content": "👷🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman construction worker: dark skin tone"
+  },
+  "1f477 1f3ff 200d 2642 fe0f": {
+    "content": "👷🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man construction worker: dark skin tone"
+  },
+  "1f482 200d 2640 fe0f": {
+    "content": "💂‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman guard"
+  },
+  "1f482 200d 2642 fe0f": {
+    "content": "💂‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man guard"
+  },
+  "1f482 1f3fb 200d 2640 fe0f": {
+    "content": "💂🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman guard: light skin tone"
+  },
+  "1f482 1f3fb 200d 2642 fe0f": {
+    "content": "💂🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man guard: light skin tone"
+  },
+  "1f482 1f3fc 200d 2640 fe0f": {
+    "content": "💂🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman guard: medium-light skin tone"
+  },
+  "1f482 1f3fc 200d 2642 fe0f": {
+    "content": "💂🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man guard: medium-light skin tone"
+  },
+  "1f482 1f3fd 200d 2640 fe0f": {
+    "content": "💂🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman guard: medium skin tone"
+  },
+  "1f482 1f3fd 200d 2642 fe0f": {
+    "content": "💂🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man guard: medium skin tone"
+  },
+  "1f482 1f3fe 200d 2640 fe0f": {
+    "content": "💂🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman guard: medium-dark skin tone"
+  },
+  "1f482 1f3fe 200d 2642 fe0f": {
+    "content": "💂🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man guard: medium-dark skin tone"
+  },
+  "1f482 1f3ff 200d 2640 fe0f": {
+    "content": "💂🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman guard: dark skin tone"
+  },
+  "1f482 1f3ff 200d 2642 fe0f": {
+    "content": "💂🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man guard: dark skin tone"
+  },
+  "1f575 1f3fb 200d 2640 fe0f": {
+    "content": "🕵🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman detective: light skin tone"
+  },
+  "1f575 1f3fb 200d 2642 fe0f": {
+    "content": "🕵🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man detective: light skin tone"
+  },
+  "1f575 1f3fc 200d 2640 fe0f": {
+    "content": "🕵🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman detective: medium-light skin tone"
+  },
+  "1f575 1f3fc 200d 2642 fe0f": {
+    "content": "🕵🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man detective: medium-light skin tone"
+  },
+  "1f575 1f3fd 200d 2640 fe0f": {
+    "content": "🕵🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman detective: medium skin tone"
+  },
+  "1f575 1f3fd 200d 2642 fe0f": {
+    "content": "🕵🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man detective: medium skin tone"
+  },
+  "1f575 1f3fe 200d 2640 fe0f": {
+    "content": "🕵🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman detective: medium-dark skin tone"
+  },
+  "1f575 1f3fe 200d 2642 fe0f": {
+    "content": "🕵🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man detective: medium-dark skin tone"
+  },
+  "1f575 1f3ff 200d 2640 fe0f": {
+    "content": "🕵🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman detective: dark skin tone"
+  },
+  "1f575 1f3ff 200d 2642 fe0f": {
+    "content": "🕵🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man detective: dark skin tone"
+  },
+  "1f575 fe0f 200d 2640 fe0f": {
+    "content": "🕵️‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman detective"
+  },
+  "1f575 fe0f 200d 2642 fe0f": {
+    "content": "🕵️‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man detective"
+  },
+  "1f9d9 200d 2640 fe0f": {
+    "content": "🧙‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mage"
+  },
+  "1f9d9 200d 2642 fe0f": {
+    "content": "🧙‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mage"
+  },
+  "1f9d9 1f3fb 200d 2640 fe0f": {
+    "content": "🧙🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mage: light skin tone"
+  },
+  "1f9d9 1f3fb 200d 2642 fe0f": {
+    "content": "🧙🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mage: light skin tone"
+  },
+  "1f9d9 1f3fc 200d 2640 fe0f": {
+    "content": "🧙🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mage: medium-light skin tone"
+  },
+  "1f9d9 1f3fc 200d 2642 fe0f": {
+    "content": "🧙🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mage: medium-light skin tone"
+  },
+  "1f9d9 1f3fd 200d 2640 fe0f": {
+    "content": "🧙🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mage: medium skin tone"
+  },
+  "1f9d9 1f3fd 200d 2642 fe0f": {
+    "content": "🧙🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mage: medium skin tone"
+  },
+  "1f9d9 1f3fe 200d 2640 fe0f": {
+    "content": "🧙🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mage: medium-dark skin tone"
+  },
+  "1f9d9 1f3fe 200d 2642 fe0f": {
+    "content": "🧙🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mage: medium-dark skin tone"
+  },
+  "1f9d9 1f3ff 200d 2640 fe0f": {
+    "content": "🧙🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mage: dark skin tone"
+  },
+  "1f9d9 1f3ff 200d 2642 fe0f": {
+    "content": "🧙🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mage: dark skin tone"
+  },
+  "1f9da 200d 2640 fe0f": {
+    "content": "🧚‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman fairy"
+  },
+  "1f9da 200d 2642 fe0f": {
+    "content": "🧚‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man fairy"
+  },
+  "1f9da 1f3fb 200d 2640 fe0f": {
+    "content": "🧚🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman fairy: light skin tone"
+  },
+  "1f9da 1f3fb 200d 2642 fe0f": {
+    "content": "🧚🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man fairy: light skin tone"
+  },
+  "1f9da 1f3fc 200d 2640 fe0f": {
+    "content": "🧚🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman fairy: medium-light skin tone"
+  },
+  "1f9da 1f3fc 200d 2642 fe0f": {
+    "content": "🧚🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man fairy: medium-light skin tone"
+  },
+  "1f9da 1f3fd 200d 2640 fe0f": {
+    "content": "🧚🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman fairy: medium skin tone"
+  },
+  "1f9da 1f3fd 200d 2642 fe0f": {
+    "content": "🧚🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man fairy: medium skin tone"
+  },
+  "1f9da 1f3fe 200d 2640 fe0f": {
+    "content": "🧚🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman fairy: medium-dark skin tone"
+  },
+  "1f9da 1f3fe 200d 2642 fe0f": {
+    "content": "🧚🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man fairy: medium-dark skin tone"
+  },
+  "1f9da 1f3ff 200d 2640 fe0f": {
+    "content": "🧚🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman fairy: dark skin tone"
+  },
+  "1f9da 1f3ff 200d 2642 fe0f": {
+    "content": "🧚🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man fairy: dark skin tone"
+  },
+  "1f9db 200d 2640 fe0f": {
+    "content": "🧛‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman vampire"
+  },
+  "1f9db 200d 2642 fe0f": {
+    "content": "🧛‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man vampire"
+  },
+  "1f9db 1f3fb 200d 2640 fe0f": {
+    "content": "🧛🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman vampire: light skin tone"
+  },
+  "1f9db 1f3fb 200d 2642 fe0f": {
+    "content": "🧛🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man vampire: light skin tone"
+  },
+  "1f9db 1f3fc 200d 2640 fe0f": {
+    "content": "🧛🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman vampire: medium-light skin tone"
+  },
+  "1f9db 1f3fc 200d 2642 fe0f": {
+    "content": "🧛🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man vampire: medium-light skin tone"
+  },
+  "1f9db 1f3fd 200d 2640 fe0f": {
+    "content": "🧛🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman vampire: medium skin tone"
+  },
+  "1f9db 1f3fd 200d 2642 fe0f": {
+    "content": "🧛🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man vampire: medium skin tone"
+  },
+  "1f9db 1f3fe 200d 2640 fe0f": {
+    "content": "🧛🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman vampire: medium-dark skin tone"
+  },
+  "1f9db 1f3fe 200d 2642 fe0f": {
+    "content": "🧛🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man vampire: medium-dark skin tone"
+  },
+  "1f9db 1f3ff 200d 2640 fe0f": {
+    "content": "🧛🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman vampire: dark skin tone"
+  },
+  "1f9db 1f3ff 200d 2642 fe0f": {
+    "content": "🧛🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man vampire: dark skin tone"
+  },
+  "1f9dc 200d 2640 fe0f": {
+    "content": "🧜‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "mermaid"
+  },
+  "1f9dc 200d 2642 fe0f": {
+    "content": "🧜‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "merman"
+  },
+  "1f9dc 1f3fb 200d 2640 fe0f": {
+    "content": "🧜🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "mermaid: light skin tone"
+  },
+  "1f9dc 1f3fb 200d 2642 fe0f": {
+    "content": "🧜🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "merman: light skin tone"
+  },
+  "1f9dc 1f3fc 200d 2640 fe0f": {
+    "content": "🧜🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "mermaid: medium-light skin tone"
+  },
+  "1f9dc 1f3fc 200d 2642 fe0f": {
+    "content": "🧜🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "merman: medium-light skin tone"
+  },
+  "1f9dc 1f3fd 200d 2640 fe0f": {
+    "content": "🧜🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "mermaid: medium skin tone"
+  },
+  "1f9dc 1f3fd 200d 2642 fe0f": {
+    "content": "🧜🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "merman: medium skin tone"
+  },
+  "1f9dc 1f3fe 200d 2640 fe0f": {
+    "content": "🧜🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "mermaid: medium-dark skin tone"
+  },
+  "1f9dc 1f3fe 200d 2642 fe0f": {
+    "content": "🧜🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "merman: medium-dark skin tone"
+  },
+  "1f9dc 1f3ff 200d 2640 fe0f": {
+    "content": "🧜🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "mermaid: dark skin tone"
+  },
+  "1f9dc 1f3ff 200d 2642 fe0f": {
+    "content": "🧜🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "merman: dark skin tone"
+  },
+  "1f9dd 200d 2640 fe0f": {
+    "content": "🧝‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman elf"
+  },
+  "1f9dd 200d 2642 fe0f": {
+    "content": "🧝‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man elf"
+  },
+  "1f9dd 1f3fb 200d 2640 fe0f": {
+    "content": "🧝🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman elf: light skin tone"
+  },
+  "1f9dd 1f3fb 200d 2642 fe0f": {
+    "content": "🧝🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man elf: light skin tone"
+  },
+  "1f9dd 1f3fc 200d 2640 fe0f": {
+    "content": "🧝🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman elf: medium-light skin tone"
+  },
+  "1f9dd 1f3fc 200d 2642 fe0f": {
+    "content": "🧝🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man elf: medium-light skin tone"
+  },
+  "1f9dd 1f3fd 200d 2640 fe0f": {
+    "content": "🧝🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman elf: medium skin tone"
+  },
+  "1f9dd 1f3fd 200d 2642 fe0f": {
+    "content": "🧝🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man elf: medium skin tone"
+  },
+  "1f9dd 1f3fe 200d 2640 fe0f": {
+    "content": "🧝🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman elf: medium-dark skin tone"
+  },
+  "1f9dd 1f3fe 200d 2642 fe0f": {
+    "content": "🧝🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man elf: medium-dark skin tone"
+  },
+  "1f9dd 1f3ff 200d 2640 fe0f": {
+    "content": "🧝🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman elf: dark skin tone"
+  },
+  "1f9dd 1f3ff 200d 2642 fe0f": {
+    "content": "🧝🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man elf: dark skin tone"
+  },
+  "1f9de 200d 2640 fe0f": {
+    "content": "🧞‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman genie"
+  },
+  "1f9de 200d 2642 fe0f": {
+    "content": "🧞‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man genie"
+  },
+  "1f9df 200d 2640 fe0f": {
+    "content": "🧟‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman zombie"
+  },
+  "1f9df 200d 2642 fe0f": {
+    "content": "🧟‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man zombie"
+  },
+  "26f9 1f3fb 200d 2640 fe0f": {
+    "content": "⛹🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bouncing ball: light skin tone"
+  },
+  "26f9 1f3fb 200d 2642 fe0f": {
+    "content": "⛹🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bouncing ball: light skin tone"
+  },
+  "26f9 1f3fc 200d 2640 fe0f": {
+    "content": "⛹🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bouncing ball: medium-light skin tone"
+  },
+  "26f9 1f3fc 200d 2642 fe0f": {
+    "content": "⛹🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bouncing ball: medium-light skin tone"
+  },
+  "26f9 1f3fd 200d 2640 fe0f": {
+    "content": "⛹🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bouncing ball: medium skin tone"
+  },
+  "26f9 1f3fd 200d 2642 fe0f": {
+    "content": "⛹🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bouncing ball: medium skin tone"
+  },
+  "26f9 1f3fe 200d 2640 fe0f": {
+    "content": "⛹🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bouncing ball: medium-dark skin tone"
+  },
+  "26f9 1f3fe 200d 2642 fe0f": {
+    "content": "⛹🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bouncing ball: medium-dark skin tone"
+  },
+  "26f9 1f3ff 200d 2640 fe0f": {
+    "content": "⛹🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bouncing ball: dark skin tone"
+  },
+  "26f9 1f3ff 200d 2642 fe0f": {
+    "content": "⛹🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bouncing ball: dark skin tone"
+  },
+  "26f9 fe0f 200d 2640 fe0f": {
+    "content": "⛹️‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bouncing ball"
+  },
+  "26f9 fe0f 200d 2642 fe0f": {
+    "content": "⛹️‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bouncing ball"
+  },
+  "1f3c3 200d 2640 fe0f": {
+    "content": "🏃‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman running"
+  },
+  "1f3c3 200d 2642 fe0f": {
+    "content": "🏃‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man running"
+  },
+  "1f3c3 1f3fb 200d 2640 fe0f": {
+    "content": "🏃🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman running: light skin tone"
+  },
+  "1f3c3 1f3fb 200d 2642 fe0f": {
+    "content": "🏃🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man running: light skin tone"
+  },
+  "1f3c3 1f3fc 200d 2640 fe0f": {
+    "content": "🏃🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman running: medium-light skin tone"
+  },
+  "1f3c3 1f3fc 200d 2642 fe0f": {
+    "content": "🏃🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man running: medium-light skin tone"
+  },
+  "1f3c3 1f3fd 200d 2640 fe0f": {
+    "content": "🏃🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman running: medium skin tone"
+  },
+  "1f3c3 1f3fd 200d 2642 fe0f": {
+    "content": "🏃🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man running: medium skin tone"
+  },
+  "1f3c3 1f3fe 200d 2640 fe0f": {
+    "content": "🏃🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman running: medium-dark skin tone"
+  },
+  "1f3c3 1f3fe 200d 2642 fe0f": {
+    "content": "🏃🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man running: medium-dark skin tone"
+  },
+  "1f3c3 1f3ff 200d 2640 fe0f": {
+    "content": "🏃🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman running: dark skin tone"
+  },
+  "1f3c3 1f3ff 200d 2642 fe0f": {
+    "content": "🏃🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man running: dark skin tone"
+  },
+  "1f3c4 200d 2640 fe0f": {
+    "content": "🏄‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman surfing"
+  },
+  "1f3c4 200d 2642 fe0f": {
+    "content": "🏄‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man surfing"
+  },
+  "1f3c4 1f3fb 200d 2640 fe0f": {
+    "content": "🏄🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman surfing: light skin tone"
+  },
+  "1f3c4 1f3fb 200d 2642 fe0f": {
+    "content": "🏄🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man surfing: light skin tone"
+  },
+  "1f3c4 1f3fc 200d 2640 fe0f": {
+    "content": "🏄🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman surfing: medium-light skin tone"
+  },
+  "1f3c4 1f3fc 200d 2642 fe0f": {
+    "content": "🏄🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man surfing: medium-light skin tone"
+  },
+  "1f3c4 1f3fd 200d 2640 fe0f": {
+    "content": "🏄🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman surfing: medium skin tone"
+  },
+  "1f3c4 1f3fd 200d 2642 fe0f": {
+    "content": "🏄🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man surfing: medium skin tone"
+  },
+  "1f3c4 1f3fe 200d 2640 fe0f": {
+    "content": "🏄🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman surfing: medium-dark skin tone"
+  },
+  "1f3c4 1f3fe 200d 2642 fe0f": {
+    "content": "🏄🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man surfing: medium-dark skin tone"
+  },
+  "1f3c4 1f3ff 200d 2640 fe0f": {
+    "content": "🏄🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman surfing: dark skin tone"
+  },
+  "1f3c4 1f3ff 200d 2642 fe0f": {
+    "content": "🏄🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man surfing: dark skin tone"
+  },
+  "1f3ca 200d 2640 fe0f": {
+    "content": "🏊‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman swimming"
+  },
+  "1f3ca 200d 2642 fe0f": {
+    "content": "🏊‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man swimming"
+  },
+  "1f3ca 1f3fb 200d 2640 fe0f": {
+    "content": "🏊🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman swimming: light skin tone"
+  },
+  "1f3ca 1f3fb 200d 2642 fe0f": {
+    "content": "🏊🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man swimming: light skin tone"
+  },
+  "1f3ca 1f3fc 200d 2640 fe0f": {
+    "content": "🏊🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman swimming: medium-light skin tone"
+  },
+  "1f3ca 1f3fc 200d 2642 fe0f": {
+    "content": "🏊🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man swimming: medium-light skin tone"
+  },
+  "1f3ca 1f3fd 200d 2640 fe0f": {
+    "content": "🏊🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman swimming: medium skin tone"
+  },
+  "1f3ca 1f3fd 200d 2642 fe0f": {
+    "content": "🏊🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man swimming: medium skin tone"
+  },
+  "1f3ca 1f3fe 200d 2640 fe0f": {
+    "content": "🏊🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman swimming: medium-dark skin tone"
+  },
+  "1f3ca 1f3fe 200d 2642 fe0f": {
+    "content": "🏊🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man swimming: medium-dark skin tone"
+  },
+  "1f3ca 1f3ff 200d 2640 fe0f": {
+    "content": "🏊🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman swimming: dark skin tone"
+  },
+  "1f3ca 1f3ff 200d 2642 fe0f": {
+    "content": "🏊🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man swimming: dark skin tone"
+  },
+  "1f3cb 1f3fb 200d 2640 fe0f": {
+    "content": "🏋🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman lifting weights: light skin tone"
+  },
+  "1f3cb 1f3fb 200d 2642 fe0f": {
+    "content": "🏋🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man lifting weights: light skin tone"
+  },
+  "1f3cb 1f3fc 200d 2640 fe0f": {
+    "content": "🏋🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman lifting weights: medium-light skin tone"
+  },
+  "1f3cb 1f3fc 200d 2642 fe0f": {
+    "content": "🏋🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man lifting weights: medium-light skin tone"
+  },
+  "1f3cb 1f3fd 200d 2640 fe0f": {
+    "content": "🏋🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman lifting weights: medium skin tone"
+  },
+  "1f3cb 1f3fd 200d 2642 fe0f": {
+    "content": "🏋🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man lifting weights: medium skin tone"
+  },
+  "1f3cb 1f3fe 200d 2640 fe0f": {
+    "content": "🏋🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman lifting weights: medium-dark skin tone"
+  },
+  "1f3cb 1f3fe 200d 2642 fe0f": {
+    "content": "🏋🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man lifting weights: medium-dark skin tone"
+  },
+  "1f3cb 1f3ff 200d 2640 fe0f": {
+    "content": "🏋🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman lifting weights: dark skin tone"
+  },
+  "1f3cb 1f3ff 200d 2642 fe0f": {
+    "content": "🏋🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man lifting weights: dark skin tone"
+  },
+  "1f3cb fe0f 200d 2640 fe0f": {
+    "content": "🏋️‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman lifting weights"
+  },
+  "1f3cb fe0f 200d 2642 fe0f": {
+    "content": "🏋️‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man lifting weights"
+  },
+  "1f3cc 1f3fb 200d 2640 fe0f": {
+    "content": "🏌🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman golfing: light skin tone"
+  },
+  "1f3cc 1f3fb 200d 2642 fe0f": {
+    "content": "🏌🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man golfing: light skin tone"
+  },
+  "1f3cc 1f3fc 200d 2640 fe0f": {
+    "content": "🏌🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman golfing: medium-light skin tone"
+  },
+  "1f3cc 1f3fc 200d 2642 fe0f": {
+    "content": "🏌🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man golfing: medium-light skin tone"
+  },
+  "1f3cc 1f3fd 200d 2640 fe0f": {
+    "content": "🏌🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman golfing: medium skin tone"
+  },
+  "1f3cc 1f3fd 200d 2642 fe0f": {
+    "content": "🏌🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man golfing: medium skin tone"
+  },
+  "1f3cc 1f3fe 200d 2640 fe0f": {
+    "content": "🏌🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman golfing: medium-dark skin tone"
+  },
+  "1f3cc 1f3fe 200d 2642 fe0f": {
+    "content": "🏌🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man golfing: medium-dark skin tone"
+  },
+  "1f3cc 1f3ff 200d 2640 fe0f": {
+    "content": "🏌🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman golfing: dark skin tone"
+  },
+  "1f3cc 1f3ff 200d 2642 fe0f": {
+    "content": "🏌🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man golfing: dark skin tone"
+  },
+  "1f3cc fe0f 200d 2640 fe0f": {
+    "content": "🏌️‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman golfing"
+  },
+  "1f3cc fe0f 200d 2642 fe0f": {
+    "content": "🏌️‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man golfing"
+  },
+  "1f46f 200d 2640 fe0f": {
+    "content": "👯‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "women with bunny ears"
+  },
+  "1f46f 200d 2642 fe0f": {
+    "content": "👯‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "men with bunny ears"
+  },
+  "1f486 200d 2640 fe0f": {
+    "content": "💆‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting massage"
+  },
+  "1f486 200d 2642 fe0f": {
+    "content": "💆‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting massage"
+  },
+  "1f486 1f3fb 200d 2640 fe0f": {
+    "content": "💆🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting massage: light skin tone"
+  },
+  "1f486 1f3fb 200d 2642 fe0f": {
+    "content": "💆🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting massage: light skin tone"
+  },
+  "1f486 1f3fc 200d 2640 fe0f": {
+    "content": "💆🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting massage: medium-light skin tone"
+  },
+  "1f486 1f3fc 200d 2642 fe0f": {
+    "content": "💆🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting massage: medium-light skin tone"
+  },
+  "1f486 1f3fd 200d 2640 fe0f": {
+    "content": "💆🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting massage: medium skin tone"
+  },
+  "1f486 1f3fd 200d 2642 fe0f": {
+    "content": "💆🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting massage: medium skin tone"
+  },
+  "1f486 1f3fe 200d 2640 fe0f": {
+    "content": "💆🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting massage: medium-dark skin tone"
+  },
+  "1f486 1f3fe 200d 2642 fe0f": {
+    "content": "💆🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting massage: medium-dark skin tone"
+  },
+  "1f486 1f3ff 200d 2640 fe0f": {
+    "content": "💆🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting massage: dark skin tone"
+  },
+  "1f486 1f3ff 200d 2642 fe0f": {
+    "content": "💆🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting massage: dark skin tone"
+  },
+  "1f487 200d 2640 fe0f": {
+    "content": "💇‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting haircut"
+  },
+  "1f487 200d 2642 fe0f": {
+    "content": "💇‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting haircut"
+  },
+  "1f487 1f3fb 200d 2640 fe0f": {
+    "content": "💇🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting haircut: light skin tone"
+  },
+  "1f487 1f3fb 200d 2642 fe0f": {
+    "content": "💇🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting haircut: light skin tone"
+  },
+  "1f487 1f3fc 200d 2640 fe0f": {
+    "content": "💇🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting haircut: medium-light skin tone"
+  },
+  "1f487 1f3fc 200d 2642 fe0f": {
+    "content": "💇🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting haircut: medium-light skin tone"
+  },
+  "1f487 1f3fd 200d 2640 fe0f": {
+    "content": "💇🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting haircut: medium skin tone"
+  },
+  "1f487 1f3fd 200d 2642 fe0f": {
+    "content": "💇🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting haircut: medium skin tone"
+  },
+  "1f487 1f3fe 200d 2640 fe0f": {
+    "content": "💇🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting haircut: medium-dark skin tone"
+  },
+  "1f487 1f3fe 200d 2642 fe0f": {
+    "content": "💇🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting haircut: medium-dark skin tone"
+  },
+  "1f487 1f3ff 200d 2640 fe0f": {
+    "content": "💇🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman getting haircut: dark skin tone"
+  },
+  "1f487 1f3ff 200d 2642 fe0f": {
+    "content": "💇🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man getting haircut: dark skin tone"
+  },
+  "1f6a3 200d 2640 fe0f": {
+    "content": "🚣‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman rowing boat"
+  },
+  "1f6a3 200d 2642 fe0f": {
+    "content": "🚣‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man rowing boat"
+  },
+  "1f6a3 1f3fb 200d 2640 fe0f": {
+    "content": "🚣🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman rowing boat: light skin tone"
+  },
+  "1f6a3 1f3fb 200d 2642 fe0f": {
+    "content": "🚣🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man rowing boat: light skin tone"
+  },
+  "1f6a3 1f3fc 200d 2640 fe0f": {
+    "content": "🚣🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman rowing boat: medium-light skin tone"
+  },
+  "1f6a3 1f3fc 200d 2642 fe0f": {
+    "content": "🚣🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man rowing boat: medium-light skin tone"
+  },
+  "1f6a3 1f3fd 200d 2640 fe0f": {
+    "content": "🚣🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman rowing boat: medium skin tone"
+  },
+  "1f6a3 1f3fd 200d 2642 fe0f": {
+    "content": "🚣🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man rowing boat: medium skin tone"
+  },
+  "1f6a3 1f3fe 200d 2640 fe0f": {
+    "content": "🚣🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman rowing boat: medium-dark skin tone"
+  },
+  "1f6a3 1f3fe 200d 2642 fe0f": {
+    "content": "🚣🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man rowing boat: medium-dark skin tone"
+  },
+  "1f6a3 1f3ff 200d 2640 fe0f": {
+    "content": "🚣🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman rowing boat: dark skin tone"
+  },
+  "1f6a3 1f3ff 200d 2642 fe0f": {
+    "content": "🚣🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man rowing boat: dark skin tone"
+  },
+  "1f6b4 200d 2640 fe0f": {
+    "content": "🚴‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman biking"
+  },
+  "1f6b4 200d 2642 fe0f": {
+    "content": "🚴‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man biking"
+  },
+  "1f6b4 1f3fb 200d 2640 fe0f": {
+    "content": "🚴🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman biking: light skin tone"
+  },
+  "1f6b4 1f3fb 200d 2642 fe0f": {
+    "content": "🚴🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man biking: light skin tone"
+  },
+  "1f6b4 1f3fc 200d 2640 fe0f": {
+    "content": "🚴🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman biking: medium-light skin tone"
+  },
+  "1f6b4 1f3fc 200d 2642 fe0f": {
+    "content": "🚴🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man biking: medium-light skin tone"
+  },
+  "1f6b4 1f3fd 200d 2640 fe0f": {
+    "content": "🚴🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman biking: medium skin tone"
+  },
+  "1f6b4 1f3fd 200d 2642 fe0f": {
+    "content": "🚴🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man biking: medium skin tone"
+  },
+  "1f6b4 1f3fe 200d 2640 fe0f": {
+    "content": "🚴🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman biking: medium-dark skin tone"
+  },
+  "1f6b4 1f3fe 200d 2642 fe0f": {
+    "content": "🚴🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man biking: medium-dark skin tone"
+  },
+  "1f6b4 1f3ff 200d 2640 fe0f": {
+    "content": "🚴🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman biking: dark skin tone"
+  },
+  "1f6b4 1f3ff 200d 2642 fe0f": {
+    "content": "🚴🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man biking: dark skin tone"
+  },
+  "1f6b5 200d 2640 fe0f": {
+    "content": "🚵‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mountain biking"
+  },
+  "1f6b5 200d 2642 fe0f": {
+    "content": "🚵‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mountain biking"
+  },
+  "1f6b5 1f3fb 200d 2640 fe0f": {
+    "content": "🚵🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mountain biking: light skin tone"
+  },
+  "1f6b5 1f3fb 200d 2642 fe0f": {
+    "content": "🚵🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mountain biking: light skin tone"
+  },
+  "1f6b5 1f3fc 200d 2640 fe0f": {
+    "content": "🚵🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mountain biking: medium-light skin tone"
+  },
+  "1f6b5 1f3fc 200d 2642 fe0f": {
+    "content": "🚵🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mountain biking: medium-light skin tone"
+  },
+  "1f6b5 1f3fd 200d 2640 fe0f": {
+    "content": "🚵🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mountain biking: medium skin tone"
+  },
+  "1f6b5 1f3fd 200d 2642 fe0f": {
+    "content": "🚵🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mountain biking: medium skin tone"
+  },
+  "1f6b5 1f3fe 200d 2640 fe0f": {
+    "content": "🚵🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mountain biking: medium-dark skin tone"
+  },
+  "1f6b5 1f3fe 200d 2642 fe0f": {
+    "content": "🚵🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mountain biking: medium-dark skin tone"
+  },
+  "1f6b5 1f3ff 200d 2640 fe0f": {
+    "content": "🚵🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman mountain biking: dark skin tone"
+  },
+  "1f6b5 1f3ff 200d 2642 fe0f": {
+    "content": "🚵🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man mountain biking: dark skin tone"
+  },
+  "1f6b6 200d 2640 fe0f": {
+    "content": "🚶‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman walking"
+  },
+  "1f6b6 200d 2642 fe0f": {
+    "content": "🚶‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man walking"
+  },
+  "1f6b6 1f3fb 200d 2640 fe0f": {
+    "content": "🚶🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman walking: light skin tone"
+  },
+  "1f6b6 1f3fb 200d 2642 fe0f": {
+    "content": "🚶🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man walking: light skin tone"
+  },
+  "1f6b6 1f3fc 200d 2640 fe0f": {
+    "content": "🚶🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman walking: medium-light skin tone"
+  },
+  "1f6b6 1f3fc 200d 2642 fe0f": {
+    "content": "🚶🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man walking: medium-light skin tone"
+  },
+  "1f6b6 1f3fd 200d 2640 fe0f": {
+    "content": "🚶🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman walking: medium skin tone"
+  },
+  "1f6b6 1f3fd 200d 2642 fe0f": {
+    "content": "🚶🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man walking: medium skin tone"
+  },
+  "1f6b6 1f3fe 200d 2640 fe0f": {
+    "content": "🚶🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman walking: medium-dark skin tone"
+  },
+  "1f6b6 1f3fe 200d 2642 fe0f": {
+    "content": "🚶🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man walking: medium-dark skin tone"
+  },
+  "1f6b6 1f3ff 200d 2640 fe0f": {
+    "content": "🚶🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman walking: dark skin tone"
+  },
+  "1f6b6 1f3ff 200d 2642 fe0f": {
+    "content": "🚶🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man walking: dark skin tone"
+  },
+  "1f938 200d 2640 fe0f": {
+    "content": "🤸‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cartwheeling"
+  },
+  "1f938 200d 2642 fe0f": {
+    "content": "🤸‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cartwheeling"
+  },
+  "1f938 1f3fb 200d 2640 fe0f": {
+    "content": "🤸🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cartwheeling: light skin tone"
+  },
+  "1f938 1f3fb 200d 2642 fe0f": {
+    "content": "🤸🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cartwheeling: light skin tone"
+  },
+  "1f938 1f3fc 200d 2640 fe0f": {
+    "content": "🤸🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cartwheeling: medium-light skin tone"
+  },
+  "1f938 1f3fc 200d 2642 fe0f": {
+    "content": "🤸🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cartwheeling: medium-light skin tone"
+  },
+  "1f938 1f3fd 200d 2640 fe0f": {
+    "content": "🤸🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cartwheeling: medium skin tone"
+  },
+  "1f938 1f3fd 200d 2642 fe0f": {
+    "content": "🤸🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cartwheeling: medium skin tone"
+  },
+  "1f938 1f3fe 200d 2640 fe0f": {
+    "content": "🤸🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cartwheeling: medium-dark skin tone"
+  },
+  "1f938 1f3fe 200d 2642 fe0f": {
+    "content": "🤸🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cartwheeling: medium-dark skin tone"
+  },
+  "1f938 1f3ff 200d 2640 fe0f": {
+    "content": "🤸🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman cartwheeling: dark skin tone"
+  },
+  "1f938 1f3ff 200d 2642 fe0f": {
+    "content": "🤸🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man cartwheeling: dark skin tone"
+  },
+  "1f939 200d 2640 fe0f": {
+    "content": "🤹‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman juggling"
+  },
+  "1f939 200d 2642 fe0f": {
+    "content": "🤹‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man juggling"
+  },
+  "1f939 1f3fb 200d 2640 fe0f": {
+    "content": "🤹🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman juggling: light skin tone"
+  },
+  "1f939 1f3fb 200d 2642 fe0f": {
+    "content": "🤹🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man juggling: light skin tone"
+  },
+  "1f939 1f3fc 200d 2640 fe0f": {
+    "content": "🤹🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman juggling: medium-light skin tone"
+  },
+  "1f939 1f3fc 200d 2642 fe0f": {
+    "content": "🤹🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man juggling: medium-light skin tone"
+  },
+  "1f939 1f3fd 200d 2640 fe0f": {
+    "content": "🤹🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman juggling: medium skin tone"
+  },
+  "1f939 1f3fd 200d 2642 fe0f": {
+    "content": "🤹🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man juggling: medium skin tone"
+  },
+  "1f939 1f3fe 200d 2640 fe0f": {
+    "content": "🤹🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman juggling: medium-dark skin tone"
+  },
+  "1f939 1f3fe 200d 2642 fe0f": {
+    "content": "🤹🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man juggling: medium-dark skin tone"
+  },
+  "1f939 1f3ff 200d 2640 fe0f": {
+    "content": "🤹🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman juggling: dark skin tone"
+  },
+  "1f939 1f3ff 200d 2642 fe0f": {
+    "content": "🤹🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man juggling: dark skin tone"
+  },
+  "1f93c 200d 2640 fe0f": {
+    "content": "🤼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "women wrestling"
+  },
+  "1f93c 200d 2642 fe0f": {
+    "content": "🤼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "men wrestling"
+  },
+  "1f93d 200d 2640 fe0f": {
+    "content": "🤽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing water polo"
+  },
+  "1f93d 200d 2642 fe0f": {
+    "content": "🤽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing water polo"
+  },
+  "1f93d 1f3fb 200d 2640 fe0f": {
+    "content": "🤽🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing water polo: light skin tone"
+  },
+  "1f93d 1f3fb 200d 2642 fe0f": {
+    "content": "🤽🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing water polo: light skin tone"
+  },
+  "1f93d 1f3fc 200d 2640 fe0f": {
+    "content": "🤽🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing water polo: medium-light skin tone"
+  },
+  "1f93d 1f3fc 200d 2642 fe0f": {
+    "content": "🤽🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing water polo: medium-light skin tone"
+  },
+  "1f93d 1f3fd 200d 2640 fe0f": {
+    "content": "🤽🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing water polo: medium skin tone"
+  },
+  "1f93d 1f3fd 200d 2642 fe0f": {
+    "content": "🤽🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing water polo: medium skin tone"
+  },
+  "1f93d 1f3fe 200d 2640 fe0f": {
+    "content": "🤽🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing water polo: medium-dark skin tone"
+  },
+  "1f93d 1f3fe 200d 2642 fe0f": {
+    "content": "🤽🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing water polo: medium-dark skin tone"
+  },
+  "1f93d 1f3ff 200d 2640 fe0f": {
+    "content": "🤽🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing water polo: dark skin tone"
+  },
+  "1f93d 1f3ff 200d 2642 fe0f": {
+    "content": "🤽🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing water polo: dark skin tone"
+  },
+  "1f93e 200d 2640 fe0f": {
+    "content": "🤾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing handball"
+  },
+  "1f93e 200d 2642 fe0f": {
+    "content": "🤾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing handball"
+  },
+  "1f93e 1f3fb 200d 2640 fe0f": {
+    "content": "🤾🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing handball: light skin tone"
+  },
+  "1f93e 1f3fb 200d 2642 fe0f": {
+    "content": "🤾🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing handball: light skin tone"
+  },
+  "1f93e 1f3fc 200d 2640 fe0f": {
+    "content": "🤾🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing handball: medium-light skin tone"
+  },
+  "1f93e 1f3fc 200d 2642 fe0f": {
+    "content": "🤾🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing handball: medium-light skin tone"
+  },
+  "1f93e 1f3fd 200d 2640 fe0f": {
+    "content": "🤾🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing handball: medium skin tone"
+  },
+  "1f93e 1f3fd 200d 2642 fe0f": {
+    "content": "🤾🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing handball: medium skin tone"
+  },
+  "1f93e 1f3fe 200d 2640 fe0f": {
+    "content": "🤾🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing handball: medium-dark skin tone"
+  },
+  "1f93e 1f3fe 200d 2642 fe0f": {
+    "content": "🤾🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing handball: medium-dark skin tone"
+  },
+  "1f93e 1f3ff 200d 2640 fe0f": {
+    "content": "🤾🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman playing handball: dark skin tone"
+  },
+  "1f93e 1f3ff 200d 2642 fe0f": {
+    "content": "🤾🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man playing handball: dark skin tone"
+  },
+  "1f9d6 200d 2640 fe0f": {
+    "content": "🧖‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in steamy room"
+  },
+  "1f9d6 200d 2642 fe0f": {
+    "content": "🧖‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in steamy room"
+  },
+  "1f9d6 1f3fb 200d 2640 fe0f": {
+    "content": "🧖🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in steamy room: light skin tone"
+  },
+  "1f9d6 1f3fb 200d 2642 fe0f": {
+    "content": "🧖🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in steamy room: light skin tone"
+  },
+  "1f9d6 1f3fc 200d 2640 fe0f": {
+    "content": "🧖🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in steamy room: medium-light skin tone"
+  },
+  "1f9d6 1f3fc 200d 2642 fe0f": {
+    "content": "🧖🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in steamy room: medium-light skin tone"
+  },
+  "1f9d6 1f3fd 200d 2640 fe0f": {
+    "content": "🧖🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in steamy room: medium skin tone"
+  },
+  "1f9d6 1f3fd 200d 2642 fe0f": {
+    "content": "🧖🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in steamy room: medium skin tone"
+  },
+  "1f9d6 1f3fe 200d 2640 fe0f": {
+    "content": "🧖🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in steamy room: medium-dark skin tone"
+  },
+  "1f9d6 1f3fe 200d 2642 fe0f": {
+    "content": "🧖🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in steamy room: medium-dark skin tone"
+  },
+  "1f9d6 1f3ff 200d 2640 fe0f": {
+    "content": "🧖🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in steamy room: dark skin tone"
+  },
+  "1f9d6 1f3ff 200d 2642 fe0f": {
+    "content": "🧖🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in steamy room: dark skin tone"
+  },
+  "1f9d7 200d 2640 fe0f": {
+    "content": "🧗‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman climbing"
+  },
+  "1f9d7 200d 2642 fe0f": {
+    "content": "🧗‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man climbing"
+  },
+  "1f9d7 1f3fb 200d 2640 fe0f": {
+    "content": "🧗🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman climbing: light skin tone"
+  },
+  "1f9d7 1f3fb 200d 2642 fe0f": {
+    "content": "🧗🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man climbing: light skin tone"
+  },
+  "1f9d7 1f3fc 200d 2640 fe0f": {
+    "content": "🧗🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman climbing: medium-light skin tone"
+  },
+  "1f9d7 1f3fc 200d 2642 fe0f": {
+    "content": "🧗🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man climbing: medium-light skin tone"
+  },
+  "1f9d7 1f3fd 200d 2640 fe0f": {
+    "content": "🧗🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman climbing: medium skin tone"
+  },
+  "1f9d7 1f3fd 200d 2642 fe0f": {
+    "content": "🧗🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man climbing: medium skin tone"
+  },
+  "1f9d7 1f3fe 200d 2640 fe0f": {
+    "content": "🧗🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman climbing: medium-dark skin tone"
+  },
+  "1f9d7 1f3fe 200d 2642 fe0f": {
+    "content": "🧗🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man climbing: medium-dark skin tone"
+  },
+  "1f9d7 1f3ff 200d 2640 fe0f": {
+    "content": "🧗🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman climbing: dark skin tone"
+  },
+  "1f9d7 1f3ff 200d 2642 fe0f": {
+    "content": "🧗🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man climbing: dark skin tone"
+  },
+  "1f9d8 200d 2640 fe0f": {
+    "content": "🧘‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in lotus position"
+  },
+  "1f9d8 200d 2642 fe0f": {
+    "content": "🧘‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in lotus position"
+  },
+  "1f9d8 1f3fb 200d 2640 fe0f": {
+    "content": "🧘🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in lotus position: light skin tone"
+  },
+  "1f9d8 1f3fb 200d 2642 fe0f": {
+    "content": "🧘🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in lotus position: light skin tone"
+  },
+  "1f9d8 1f3fc 200d 2640 fe0f": {
+    "content": "🧘🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in lotus position: medium-light skin tone"
+  },
+  "1f9d8 1f3fc 200d 2642 fe0f": {
+    "content": "🧘🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in lotus position: medium-light skin tone"
+  },
+  "1f9d8 1f3fd 200d 2640 fe0f": {
+    "content": "🧘🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in lotus position: medium skin tone"
+  },
+  "1f9d8 1f3fd 200d 2642 fe0f": {
+    "content": "🧘🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in lotus position: medium skin tone"
+  },
+  "1f9d8 1f3fe 200d 2640 fe0f": {
+    "content": "🧘🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in lotus position: medium-dark skin tone"
+  },
+  "1f9d8 1f3fe 200d 2642 fe0f": {
+    "content": "🧘🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in lotus position: medium-dark skin tone"
+  },
+  "1f9d8 1f3ff 200d 2640 fe0f": {
+    "content": "🧘🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman in lotus position: dark skin tone"
+  },
+  "1f9d8 1f3ff 200d 2642 fe0f": {
+    "content": "🧘🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man in lotus position: dark skin tone"
+  },
+  "1f481 200d 2640 fe0f": {
+    "content": "💁‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman tipping hand"
+  },
+  "1f481 200d 2642 fe0f": {
+    "content": "💁‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man tipping hand"
+  },
+  "1f481 1f3fb 200d 2640 fe0f": {
+    "content": "💁🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman tipping hand: light skin tone"
+  },
+  "1f481 1f3fb 200d 2642 fe0f": {
+    "content": "💁🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man tipping hand: light skin tone"
+  },
+  "1f481 1f3fc 200d 2640 fe0f": {
+    "content": "💁🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman tipping hand: medium-light skin tone"
+  },
+  "1f481 1f3fc 200d 2642 fe0f": {
+    "content": "💁🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man tipping hand: medium-light skin tone"
+  },
+  "1f481 1f3fd 200d 2640 fe0f": {
+    "content": "💁🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman tipping hand: medium skin tone"
+  },
+  "1f481 1f3fd 200d 2642 fe0f": {
+    "content": "💁🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man tipping hand: medium skin tone"
+  },
+  "1f481 1f3fe 200d 2640 fe0f": {
+    "content": "💁🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman tipping hand: medium-dark skin tone"
+  },
+  "1f481 1f3fe 200d 2642 fe0f": {
+    "content": "💁🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man tipping hand: medium-dark skin tone"
+  },
+  "1f481 1f3ff 200d 2640 fe0f": {
+    "content": "💁🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman tipping hand: dark skin tone"
+  },
+  "1f481 1f3ff 200d 2642 fe0f": {
+    "content": "💁🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man tipping hand: dark skin tone"
+  },
+  "1f645 200d 2640 fe0f": {
+    "content": "🙅‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing NO"
+  },
+  "1f645 200d 2642 fe0f": {
+    "content": "🙅‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing NO"
+  },
+  "1f645 1f3fb 200d 2640 fe0f": {
+    "content": "🙅🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing NO: light skin tone"
+  },
+  "1f645 1f3fb 200d 2642 fe0f": {
+    "content": "🙅🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing NO: light skin tone"
+  },
+  "1f645 1f3fc 200d 2640 fe0f": {
+    "content": "🙅🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing NO: medium-light skin tone"
+  },
+  "1f645 1f3fc 200d 2642 fe0f": {
+    "content": "🙅🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing NO: medium-light skin tone"
+  },
+  "1f645 1f3fd 200d 2640 fe0f": {
+    "content": "🙅🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing NO: medium skin tone"
+  },
+  "1f645 1f3fd 200d 2642 fe0f": {
+    "content": "🙅🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing NO: medium skin tone"
+  },
+  "1f645 1f3fe 200d 2640 fe0f": {
+    "content": "🙅🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing NO: medium-dark skin tone"
+  },
+  "1f645 1f3fe 200d 2642 fe0f": {
+    "content": "🙅🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing NO: medium-dark skin tone"
+  },
+  "1f645 1f3ff 200d 2640 fe0f": {
+    "content": "🙅🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing NO: dark skin tone"
+  },
+  "1f645 1f3ff 200d 2642 fe0f": {
+    "content": "🙅🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing NO: dark skin tone"
+  },
+  "1f646 200d 2640 fe0f": {
+    "content": "🙆‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing OK"
+  },
+  "1f646 200d 2642 fe0f": {
+    "content": "🙆‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing OK"
+  },
+  "1f646 1f3fb 200d 2640 fe0f": {
+    "content": "🙆🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing OK: light skin tone"
+  },
+  "1f646 1f3fb 200d 2642 fe0f": {
+    "content": "🙆🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing OK: light skin tone"
+  },
+  "1f646 1f3fc 200d 2640 fe0f": {
+    "content": "🙆🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing OK: medium-light skin tone"
+  },
+  "1f646 1f3fc 200d 2642 fe0f": {
+    "content": "🙆🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing OK: medium-light skin tone"
+  },
+  "1f646 1f3fd 200d 2640 fe0f": {
+    "content": "🙆🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing OK: medium skin tone"
+  },
+  "1f646 1f3fd 200d 2642 fe0f": {
+    "content": "🙆🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing OK: medium skin tone"
+  },
+  "1f646 1f3fe 200d 2640 fe0f": {
+    "content": "🙆🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing OK: medium-dark skin tone"
+  },
+  "1f646 1f3fe 200d 2642 fe0f": {
+    "content": "🙆🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing OK: medium-dark skin tone"
+  },
+  "1f646 1f3ff 200d 2640 fe0f": {
+    "content": "🙆🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman gesturing OK: dark skin tone"
+  },
+  "1f646 1f3ff 200d 2642 fe0f": {
+    "content": "🙆🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man gesturing OK: dark skin tone"
+  },
+  "1f647 200d 2640 fe0f": {
+    "content": "🙇‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bowing"
+  },
+  "1f647 200d 2642 fe0f": {
+    "content": "🙇‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bowing"
+  },
+  "1f647 1f3fb 200d 2640 fe0f": {
+    "content": "🙇🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bowing: light skin tone"
+  },
+  "1f647 1f3fb 200d 2642 fe0f": {
+    "content": "🙇🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bowing: light skin tone"
+  },
+  "1f647 1f3fc 200d 2640 fe0f": {
+    "content": "🙇🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bowing: medium-light skin tone"
+  },
+  "1f647 1f3fc 200d 2642 fe0f": {
+    "content": "🙇🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bowing: medium-light skin tone"
+  },
+  "1f647 1f3fd 200d 2640 fe0f": {
+    "content": "🙇🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bowing: medium skin tone"
+  },
+  "1f647 1f3fd 200d 2642 fe0f": {
+    "content": "🙇🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bowing: medium skin tone"
+  },
+  "1f647 1f3fe 200d 2640 fe0f": {
+    "content": "🙇🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bowing: medium-dark skin tone"
+  },
+  "1f647 1f3fe 200d 2642 fe0f": {
+    "content": "🙇🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bowing: medium-dark skin tone"
+  },
+  "1f647 1f3ff 200d 2640 fe0f": {
+    "content": "🙇🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman bowing: dark skin tone"
+  },
+  "1f647 1f3ff 200d 2642 fe0f": {
+    "content": "🙇🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man bowing: dark skin tone"
+  },
+  "1f64b 200d 2640 fe0f": {
+    "content": "🙋‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman raising hand"
+  },
+  "1f64b 200d 2642 fe0f": {
+    "content": "🙋‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man raising hand"
+  },
+  "1f64b 1f3fb 200d 2640 fe0f": {
+    "content": "🙋🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman raising hand: light skin tone"
+  },
+  "1f64b 1f3fb 200d 2642 fe0f": {
+    "content": "🙋🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man raising hand: light skin tone"
+  },
+  "1f64b 1f3fc 200d 2640 fe0f": {
+    "content": "🙋🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman raising hand: medium-light skin tone"
+  },
+  "1f64b 1f3fc 200d 2642 fe0f": {
+    "content": "🙋🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man raising hand: medium-light skin tone"
+  },
+  "1f64b 1f3fd 200d 2640 fe0f": {
+    "content": "🙋🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman raising hand: medium skin tone"
+  },
+  "1f64b 1f3fd 200d 2642 fe0f": {
+    "content": "🙋🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man raising hand: medium skin tone"
+  },
+  "1f64b 1f3fe 200d 2640 fe0f": {
+    "content": "🙋🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman raising hand: medium-dark skin tone"
+  },
+  "1f64b 1f3fe 200d 2642 fe0f": {
+    "content": "🙋🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man raising hand: medium-dark skin tone"
+  },
+  "1f64b 1f3ff 200d 2640 fe0f": {
+    "content": "🙋🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman raising hand: dark skin tone"
+  },
+  "1f64b 1f3ff 200d 2642 fe0f": {
+    "content": "🙋🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man raising hand: dark skin tone"
+  },
+  "1f64d 200d 2640 fe0f": {
+    "content": "🙍‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman frowning"
+  },
+  "1f64d 200d 2642 fe0f": {
+    "content": "🙍‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man frowning"
+  },
+  "1f64d 1f3fb 200d 2640 fe0f": {
+    "content": "🙍🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman frowning: light skin tone"
+  },
+  "1f64d 1f3fb 200d 2642 fe0f": {
+    "content": "🙍🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man frowning: light skin tone"
+  },
+  "1f64d 1f3fc 200d 2640 fe0f": {
+    "content": "🙍🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman frowning: medium-light skin tone"
+  },
+  "1f64d 1f3fc 200d 2642 fe0f": {
+    "content": "🙍🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man frowning: medium-light skin tone"
+  },
+  "1f64d 1f3fd 200d 2640 fe0f": {
+    "content": "🙍🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman frowning: medium skin tone"
+  },
+  "1f64d 1f3fd 200d 2642 fe0f": {
+    "content": "🙍🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man frowning: medium skin tone"
+  },
+  "1f64d 1f3fe 200d 2640 fe0f": {
+    "content": "🙍🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman frowning: medium-dark skin tone"
+  },
+  "1f64d 1f3fe 200d 2642 fe0f": {
+    "content": "🙍🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man frowning: medium-dark skin tone"
+  },
+  "1f64d 1f3ff 200d 2640 fe0f": {
+    "content": "🙍🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman frowning: dark skin tone"
+  },
+  "1f64d 1f3ff 200d 2642 fe0f": {
+    "content": "🙍🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man frowning: dark skin tone"
+  },
+  "1f64e 200d 2640 fe0f": {
+    "content": "🙎‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pouting"
+  },
+  "1f64e 200d 2642 fe0f": {
+    "content": "🙎‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pouting"
+  },
+  "1f64e 1f3fb 200d 2640 fe0f": {
+    "content": "🙎🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pouting: light skin tone"
+  },
+  "1f64e 1f3fb 200d 2642 fe0f": {
+    "content": "🙎🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pouting: light skin tone"
+  },
+  "1f64e 1f3fc 200d 2640 fe0f": {
+    "content": "🙎🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pouting: medium-light skin tone"
+  },
+  "1f64e 1f3fc 200d 2642 fe0f": {
+    "content": "🙎🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pouting: medium-light skin tone"
+  },
+  "1f64e 1f3fd 200d 2640 fe0f": {
+    "content": "🙎🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pouting: medium skin tone"
+  },
+  "1f64e 1f3fd 200d 2642 fe0f": {
+    "content": "🙎🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pouting: medium skin tone"
+  },
+  "1f64e 1f3fe 200d 2640 fe0f": {
+    "content": "🙎🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pouting: medium-dark skin tone"
+  },
+  "1f64e 1f3fe 200d 2642 fe0f": {
+    "content": "🙎🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pouting: medium-dark skin tone"
+  },
+  "1f64e 1f3ff 200d 2640 fe0f": {
+    "content": "🙎🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman pouting: dark skin tone"
+  },
+  "1f64e 1f3ff 200d 2642 fe0f": {
+    "content": "🙎🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man pouting: dark skin tone"
+  },
+  "1f926 200d 2640 fe0f": {
+    "content": "🤦‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman facepalming"
+  },
+  "1f926 200d 2642 fe0f": {
+    "content": "🤦‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man facepalming"
+  },
+  "1f926 1f3fb 200d 2640 fe0f": {
+    "content": "🤦🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman facepalming: light skin tone"
+  },
+  "1f926 1f3fb 200d 2642 fe0f": {
+    "content": "🤦🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man facepalming: light skin tone"
+  },
+  "1f926 1f3fc 200d 2640 fe0f": {
+    "content": "🤦🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman facepalming: medium-light skin tone"
+  },
+  "1f926 1f3fc 200d 2642 fe0f": {
+    "content": "🤦🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man facepalming: medium-light skin tone"
+  },
+  "1f926 1f3fd 200d 2640 fe0f": {
+    "content": "🤦🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman facepalming: medium skin tone"
+  },
+  "1f926 1f3fd 200d 2642 fe0f": {
+    "content": "🤦🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man facepalming: medium skin tone"
+  },
+  "1f926 1f3fe 200d 2640 fe0f": {
+    "content": "🤦🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman facepalming: medium-dark skin tone"
+  },
+  "1f926 1f3fe 200d 2642 fe0f": {
+    "content": "🤦🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man facepalming: medium-dark skin tone"
+  },
+  "1f926 1f3ff 200d 2640 fe0f": {
+    "content": "🤦🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman facepalming: dark skin tone"
+  },
+  "1f926 1f3ff 200d 2642 fe0f": {
+    "content": "🤦🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man facepalming: dark skin tone"
+  },
+  "1f937 200d 2640 fe0f": {
+    "content": "🤷‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman shrugging"
+  },
+  "1f937 200d 2642 fe0f": {
+    "content": "🤷‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man shrugging"
+  },
+  "1f937 1f3fb 200d 2640 fe0f": {
+    "content": "🤷🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman shrugging: light skin tone"
+  },
+  "1f937 1f3fb 200d 2642 fe0f": {
+    "content": "🤷🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man shrugging: light skin tone"
+  },
+  "1f937 1f3fc 200d 2640 fe0f": {
+    "content": "🤷🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman shrugging: medium-light skin tone"
+  },
+  "1f937 1f3fc 200d 2642 fe0f": {
+    "content": "🤷🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man shrugging: medium-light skin tone"
+  },
+  "1f937 1f3fd 200d 2640 fe0f": {
+    "content": "🤷🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman shrugging: medium skin tone"
+  },
+  "1f937 1f3fd 200d 2642 fe0f": {
+    "content": "🤷🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man shrugging: medium skin tone"
+  },
+  "1f937 1f3fe 200d 2640 fe0f": {
+    "content": "🤷🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman shrugging: medium-dark skin tone"
+  },
+  "1f937 1f3fe 200d 2642 fe0f": {
+    "content": "🤷🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man shrugging: medium-dark skin tone"
+  },
+  "1f937 1f3ff 200d 2640 fe0f": {
+    "content": "🤷🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman shrugging: dark skin tone"
+  },
+  "1f937 1f3ff 200d 2642 fe0f": {
+    "content": "🤷🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man shrugging: dark skin tone"
+  },
+  "1f9b8 200d 2640 fe0f": {
+    "content": "🦸‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman superhero"
+  },
+  "1f9b8 200d 2642 fe0f": {
+    "content": "🦸‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man superhero"
+  },
+  "1f9b8 1f3fb 200d 2640 fe0f": {
+    "content": "🦸🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman superhero: light skin tone"
+  },
+  "1f9b8 1f3fb 200d 2642 fe0f": {
+    "content": "🦸🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man superhero: light skin tone"
+  },
+  "1f9b8 1f3fc 200d 2640 fe0f": {
+    "content": "🦸🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman superhero: medium-light skin tone"
+  },
+  "1f9b8 1f3fc 200d 2642 fe0f": {
+    "content": "🦸🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man superhero: medium-light skin tone"
+  },
+  "1f9b8 1f3fd 200d 2640 fe0f": {
+    "content": "🦸🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman superhero: medium skin tone"
+  },
+  "1f9b8 1f3fd 200d 2642 fe0f": {
+    "content": "🦸🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man superhero: medium skin tone"
+  },
+  "1f9b8 1f3fe 200d 2640 fe0f": {
+    "content": "🦸🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman superhero: medium-dark skin tone"
+  },
+  "1f9b8 1f3fe 200d 2642 fe0f": {
+    "content": "🦸🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man superhero: medium-dark skin tone"
+  },
+  "1f9b8 1f3ff 200d 2640 fe0f": {
+    "content": "🦸🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman superhero: dark skin tone"
+  },
+  "1f9b8 1f3ff 200d 2642 fe0f": {
+    "content": "🦸🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man superhero: dark skin tone"
+  },
+  "1f9b9 200d 2640 fe0f": {
+    "content": "🦹‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman supervillain"
+  },
+  "1f9b9 200d 2642 fe0f": {
+    "content": "🦹‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man supervillain"
+  },
+  "1f9b9 1f3fb 200d 2640 fe0f": {
+    "content": "🦹🏻‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman supervillain: light skin tone"
+  },
+  "1f9b9 1f3fb 200d 2642 fe0f": {
+    "content": "🦹🏻‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man supervillain: light skin tone"
+  },
+  "1f9b9 1f3fc 200d 2640 fe0f": {
+    "content": "🦹🏼‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman supervillain: medium-light skin tone"
+  },
+  "1f9b9 1f3fc 200d 2642 fe0f": {
+    "content": "🦹🏼‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man supervillain: medium-light skin tone"
+  },
+  "1f9b9 1f3fd 200d 2640 fe0f": {
+    "content": "🦹🏽‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman supervillain: medium skin tone"
+  },
+  "1f9b9 1f3fd 200d 2642 fe0f": {
+    "content": "🦹🏽‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man supervillain: medium skin tone"
+  },
+  "1f9b9 1f3fe 200d 2640 fe0f": {
+    "content": "🦹🏾‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman supervillain: medium-dark skin tone"
+  },
+  "1f9b9 1f3fe 200d 2642 fe0f": {
+    "content": "🦹🏾‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man supervillain: medium-dark skin tone"
+  },
+  "1f9b9 1f3ff 200d 2640 fe0f": {
+    "content": "🦹🏿‍♀️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "woman supervillain: dark skin tone"
+  },
+  "1f9b9 1f3ff 200d 2642 fe0f": {
+    "content": "🦹🏿‍♂️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "man supervillain: dark skin tone"
+  },
+  "1f3f3 fe0f 200d 1f308": {
+    "content": "🏳️‍🌈",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "rainbow flag"
+  },
+  "1f3f4 200d 2620 fe0f": {
+    "content": "🏴‍☠️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "pirate flag"
+  },
+  "1f441 fe0f 200d 1f5e8 fe0f": {
+    "content": "👁️‍🗨️",
+    "type": "Emoji_ZWJ_Sequence",
+    "name": "eye in speech bubble"
+  }
+}

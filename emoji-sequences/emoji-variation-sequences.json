@@ -1,0 +1,3532 @@
+{
+  "23 fe0e": {
+    "content": "#︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23 fe0f": {
+    "content": "#️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2a fe0e": {
+    "content": "*︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2a fe0f": {
+    "content": "*️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "30 fe0e": {
+    "content": "0︎",
+    "type": "text style",
+    "name": ""
+  },
+  "30 fe0f": {
+    "content": "0️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "31 fe0e": {
+    "content": "1︎",
+    "type": "text style",
+    "name": ""
+  },
+  "31 fe0f": {
+    "content": "1️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "32 fe0e": {
+    "content": "2︎",
+    "type": "text style",
+    "name": ""
+  },
+  "32 fe0f": {
+    "content": "2️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "33 fe0e": {
+    "content": "3︎",
+    "type": "text style",
+    "name": ""
+  },
+  "33 fe0f": {
+    "content": "3️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "34 fe0e": {
+    "content": "4︎",
+    "type": "text style",
+    "name": ""
+  },
+  "34 fe0f": {
+    "content": "4️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "35 fe0e": {
+    "content": "5︎",
+    "type": "text style",
+    "name": ""
+  },
+  "35 fe0f": {
+    "content": "5️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "36 fe0e": {
+    "content": "6︎",
+    "type": "text style",
+    "name": ""
+  },
+  "36 fe0f": {
+    "content": "6️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "37 fe0e": {
+    "content": "7︎",
+    "type": "text style",
+    "name": ""
+  },
+  "37 fe0f": {
+    "content": "7️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "38 fe0e": {
+    "content": "8︎",
+    "type": "text style",
+    "name": ""
+  },
+  "38 fe0f": {
+    "content": "8️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "39 fe0e": {
+    "content": "9︎",
+    "type": "text style",
+    "name": ""
+  },
+  "39 fe0f": {
+    "content": "9️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "a9 fe0e": {
+    "content": "©︎",
+    "type": "text style",
+    "name": ""
+  },
+  "a9 fe0f": {
+    "content": "©️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "ae fe0e": {
+    "content": "®︎",
+    "type": "text style",
+    "name": ""
+  },
+  "ae fe0f": {
+    "content": "®️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "203c fe0e": {
+    "content": "‼︎",
+    "type": "text style",
+    "name": ""
+  },
+  "203c fe0f": {
+    "content": "‼️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2049 fe0e": {
+    "content": "⁉︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2049 fe0f": {
+    "content": "⁉️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2122 fe0e": {
+    "content": "™︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2122 fe0f": {
+    "content": "™️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2139 fe0e": {
+    "content": "ℹ︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2139 fe0f": {
+    "content": "ℹ️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2194 fe0e": {
+    "content": "↔︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2194 fe0f": {
+    "content": "↔️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2195 fe0e": {
+    "content": "↕︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2195 fe0f": {
+    "content": "↕️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2196 fe0e": {
+    "content": "↖︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2196 fe0f": {
+    "content": "↖️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2197 fe0e": {
+    "content": "↗︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2197 fe0f": {
+    "content": "↗️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2198 fe0e": {
+    "content": "↘︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2198 fe0f": {
+    "content": "↘️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2199 fe0e": {
+    "content": "↙︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2199 fe0f": {
+    "content": "↙️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "21a9 fe0e": {
+    "content": "↩︎",
+    "type": "text style",
+    "name": ""
+  },
+  "21a9 fe0f": {
+    "content": "↩️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "21aa fe0e": {
+    "content": "↪︎",
+    "type": "text style",
+    "name": ""
+  },
+  "21aa fe0f": {
+    "content": "↪️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "231a fe0e": {
+    "content": "⌚︎",
+    "type": "text style",
+    "name": ""
+  },
+  "231a fe0f": {
+    "content": "⌚️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "231b fe0e": {
+    "content": "⌛︎",
+    "type": "text style",
+    "name": ""
+  },
+  "231b fe0f": {
+    "content": "⌛️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2328 fe0e": {
+    "content": "⌨︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2328 fe0f": {
+    "content": "⌨️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23cf fe0e": {
+    "content": "⏏︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23cf fe0f": {
+    "content": "⏏️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23e9 fe0e": {
+    "content": "⏩︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23e9 fe0f": {
+    "content": "⏩️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23ea fe0e": {
+    "content": "⏪︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23ea fe0f": {
+    "content": "⏪️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23ed fe0e": {
+    "content": "⏭︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23ed fe0f": {
+    "content": "⏭️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23ee fe0e": {
+    "content": "⏮︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23ee fe0f": {
+    "content": "⏮️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23ef fe0e": {
+    "content": "⏯︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23ef fe0f": {
+    "content": "⏯️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23f1 fe0e": {
+    "content": "⏱︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23f1 fe0f": {
+    "content": "⏱️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23f2 fe0e": {
+    "content": "⏲︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23f2 fe0f": {
+    "content": "⏲️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23f3 fe0e": {
+    "content": "⏳︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23f3 fe0f": {
+    "content": "⏳️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23f8 fe0e": {
+    "content": "⏸︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23f8 fe0f": {
+    "content": "⏸️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23f9 fe0e": {
+    "content": "⏹︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23f9 fe0f": {
+    "content": "⏹️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "23fa fe0e": {
+    "content": "⏺︎",
+    "type": "text style",
+    "name": ""
+  },
+  "23fa fe0f": {
+    "content": "⏺️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "24c2 fe0e": {
+    "content": "Ⓜ︎",
+    "type": "text style",
+    "name": ""
+  },
+  "24c2 fe0f": {
+    "content": "Ⓜ️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "25aa fe0e": {
+    "content": "▪︎",
+    "type": "text style",
+    "name": ""
+  },
+  "25aa fe0f": {
+    "content": "▪️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "25ab fe0e": {
+    "content": "▫︎",
+    "type": "text style",
+    "name": ""
+  },
+  "25ab fe0f": {
+    "content": "▫️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "25b6 fe0e": {
+    "content": "▶︎",
+    "type": "text style",
+    "name": ""
+  },
+  "25b6 fe0f": {
+    "content": "▶️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "25c0 fe0e": {
+    "content": "◀︎",
+    "type": "text style",
+    "name": ""
+  },
+  "25c0 fe0f": {
+    "content": "◀️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "25fb fe0e": {
+    "content": "◻︎",
+    "type": "text style",
+    "name": ""
+  },
+  "25fb fe0f": {
+    "content": "◻️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "25fc fe0e": {
+    "content": "◼︎",
+    "type": "text style",
+    "name": ""
+  },
+  "25fc fe0f": {
+    "content": "◼️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "25fd fe0e": {
+    "content": "◽︎",
+    "type": "text style",
+    "name": ""
+  },
+  "25fd fe0f": {
+    "content": "◽️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "25fe fe0e": {
+    "content": "◾︎",
+    "type": "text style",
+    "name": ""
+  },
+  "25fe fe0f": {
+    "content": "◾️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2600 fe0e": {
+    "content": "☀︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2600 fe0f": {
+    "content": "☀️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2601 fe0e": {
+    "content": "☁︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2601 fe0f": {
+    "content": "☁️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2602 fe0e": {
+    "content": "☂︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2602 fe0f": {
+    "content": "☂️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2603 fe0e": {
+    "content": "☃︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2603 fe0f": {
+    "content": "☃️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2604 fe0e": {
+    "content": "☄︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2604 fe0f": {
+    "content": "☄️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "260e fe0e": {
+    "content": "☎︎",
+    "type": "text style",
+    "name": ""
+  },
+  "260e fe0f": {
+    "content": "☎️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2611 fe0e": {
+    "content": "☑︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2611 fe0f": {
+    "content": "☑️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2614 fe0e": {
+    "content": "☔︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2614 fe0f": {
+    "content": "☔️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2615 fe0e": {
+    "content": "☕︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2615 fe0f": {
+    "content": "☕️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2618 fe0e": {
+    "content": "☘︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2618 fe0f": {
+    "content": "☘️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "261d fe0e": {
+    "content": "☝︎",
+    "type": "text style",
+    "name": ""
+  },
+  "261d fe0f": {
+    "content": "☝️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2620 fe0e": {
+    "content": "☠︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2620 fe0f": {
+    "content": "☠️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2622 fe0e": {
+    "content": "☢︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2622 fe0f": {
+    "content": "☢️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2623 fe0e": {
+    "content": "☣︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2623 fe0f": {
+    "content": "☣️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2626 fe0e": {
+    "content": "☦︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2626 fe0f": {
+    "content": "☦️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "262a fe0e": {
+    "content": "☪︎",
+    "type": "text style",
+    "name": ""
+  },
+  "262a fe0f": {
+    "content": "☪️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "262e fe0e": {
+    "content": "☮︎",
+    "type": "text style",
+    "name": ""
+  },
+  "262e fe0f": {
+    "content": "☮️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "262f fe0e": {
+    "content": "☯︎",
+    "type": "text style",
+    "name": ""
+  },
+  "262f fe0f": {
+    "content": "☯️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2638 fe0e": {
+    "content": "☸︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2638 fe0f": {
+    "content": "☸️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2639 fe0e": {
+    "content": "☹︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2639 fe0f": {
+    "content": "☹️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "263a fe0e": {
+    "content": "☺︎",
+    "type": "text style",
+    "name": ""
+  },
+  "263a fe0f": {
+    "content": "☺️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2640 fe0e": {
+    "content": "♀︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2640 fe0f": {
+    "content": "♀️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2642 fe0e": {
+    "content": "♂︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2642 fe0f": {
+    "content": "♂️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2648 fe0e": {
+    "content": "♈︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2648 fe0f": {
+    "content": "♈️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2649 fe0e": {
+    "content": "♉︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2649 fe0f": {
+    "content": "♉️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "264a fe0e": {
+    "content": "♊︎",
+    "type": "text style",
+    "name": ""
+  },
+  "264a fe0f": {
+    "content": "♊️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "264b fe0e": {
+    "content": "♋︎",
+    "type": "text style",
+    "name": ""
+  },
+  "264b fe0f": {
+    "content": "♋️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "264c fe0e": {
+    "content": "♌︎",
+    "type": "text style",
+    "name": ""
+  },
+  "264c fe0f": {
+    "content": "♌️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "264d fe0e": {
+    "content": "♍︎",
+    "type": "text style",
+    "name": ""
+  },
+  "264d fe0f": {
+    "content": "♍️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "264e fe0e": {
+    "content": "♎︎",
+    "type": "text style",
+    "name": ""
+  },
+  "264e fe0f": {
+    "content": "♎️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "264f fe0e": {
+    "content": "♏︎",
+    "type": "text style",
+    "name": ""
+  },
+  "264f fe0f": {
+    "content": "♏️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2650 fe0e": {
+    "content": "♐︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2650 fe0f": {
+    "content": "♐️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2651 fe0e": {
+    "content": "♑︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2651 fe0f": {
+    "content": "♑️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2652 fe0e": {
+    "content": "♒︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2652 fe0f": {
+    "content": "♒️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2653 fe0e": {
+    "content": "♓︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2653 fe0f": {
+    "content": "♓️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "265f fe0e": {
+    "content": "♟︎",
+    "type": "text style",
+    "name": ""
+  },
+  "265f fe0f": {
+    "content": "♟️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2660 fe0e": {
+    "content": "♠︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2660 fe0f": {
+    "content": "♠️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2663 fe0e": {
+    "content": "♣︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2663 fe0f": {
+    "content": "♣️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2665 fe0e": {
+    "content": "♥︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2665 fe0f": {
+    "content": "♥️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2666 fe0e": {
+    "content": "♦︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2666 fe0f": {
+    "content": "♦️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2668 fe0e": {
+    "content": "♨︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2668 fe0f": {
+    "content": "♨️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "267b fe0e": {
+    "content": "♻︎",
+    "type": "text style",
+    "name": ""
+  },
+  "267b fe0f": {
+    "content": "♻️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "267e fe0e": {
+    "content": "♾︎",
+    "type": "text style",
+    "name": ""
+  },
+  "267e fe0f": {
+    "content": "♾️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "267f fe0e": {
+    "content": "♿︎",
+    "type": "text style",
+    "name": ""
+  },
+  "267f fe0f": {
+    "content": "♿️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2692 fe0e": {
+    "content": "⚒︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2692 fe0f": {
+    "content": "⚒️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2693 fe0e": {
+    "content": "⚓︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2693 fe0f": {
+    "content": "⚓️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2694 fe0e": {
+    "content": "⚔︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2694 fe0f": {
+    "content": "⚔️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2695 fe0e": {
+    "content": "⚕︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2695 fe0f": {
+    "content": "⚕️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2696 fe0e": {
+    "content": "⚖︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2696 fe0f": {
+    "content": "⚖️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2697 fe0e": {
+    "content": "⚗︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2697 fe0f": {
+    "content": "⚗️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2699 fe0e": {
+    "content": "⚙︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2699 fe0f": {
+    "content": "⚙️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "269b fe0e": {
+    "content": "⚛︎",
+    "type": "text style",
+    "name": ""
+  },
+  "269b fe0f": {
+    "content": "⚛️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "269c fe0e": {
+    "content": "⚜︎",
+    "type": "text style",
+    "name": ""
+  },
+  "269c fe0f": {
+    "content": "⚜️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26a0 fe0e": {
+    "content": "⚠︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26a0 fe0f": {
+    "content": "⚠️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26a1 fe0e": {
+    "content": "⚡︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26a1 fe0f": {
+    "content": "⚡️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26aa fe0e": {
+    "content": "⚪︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26aa fe0f": {
+    "content": "⚪️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26ab fe0e": {
+    "content": "⚫︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26ab fe0f": {
+    "content": "⚫️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26b0 fe0e": {
+    "content": "⚰︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26b0 fe0f": {
+    "content": "⚰️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26b1 fe0e": {
+    "content": "⚱︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26b1 fe0f": {
+    "content": "⚱️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26bd fe0e": {
+    "content": "⚽︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26bd fe0f": {
+    "content": "⚽️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26be fe0e": {
+    "content": "⚾︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26be fe0f": {
+    "content": "⚾️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26c4 fe0e": {
+    "content": "⛄︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26c4 fe0f": {
+    "content": "⛄️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26c5 fe0e": {
+    "content": "⛅︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26c5 fe0f": {
+    "content": "⛅️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26c8 fe0e": {
+    "content": "⛈︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26c8 fe0f": {
+    "content": "⛈️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26cf fe0e": {
+    "content": "⛏︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26cf fe0f": {
+    "content": "⛏️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26d1 fe0e": {
+    "content": "⛑︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26d1 fe0f": {
+    "content": "⛑️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26d3 fe0e": {
+    "content": "⛓︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26d3 fe0f": {
+    "content": "⛓️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26d4 fe0e": {
+    "content": "⛔︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26d4 fe0f": {
+    "content": "⛔️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26e9 fe0e": {
+    "content": "⛩︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26e9 fe0f": {
+    "content": "⛩️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26ea fe0e": {
+    "content": "⛪︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26ea fe0f": {
+    "content": "⛪️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26f0 fe0e": {
+    "content": "⛰︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26f0 fe0f": {
+    "content": "⛰️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26f1 fe0e": {
+    "content": "⛱︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26f1 fe0f": {
+    "content": "⛱️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26f2 fe0e": {
+    "content": "⛲︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26f2 fe0f": {
+    "content": "⛲️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26f3 fe0e": {
+    "content": "⛳︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26f3 fe0f": {
+    "content": "⛳️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26f4 fe0e": {
+    "content": "⛴︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26f4 fe0f": {
+    "content": "⛴️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26f5 fe0e": {
+    "content": "⛵︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26f5 fe0f": {
+    "content": "⛵️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26f7 fe0e": {
+    "content": "⛷︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26f7 fe0f": {
+    "content": "⛷️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26f8 fe0e": {
+    "content": "⛸︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26f8 fe0f": {
+    "content": "⛸️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26f9 fe0e": {
+    "content": "⛹︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26f9 fe0f": {
+    "content": "⛹️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26fa fe0e": {
+    "content": "⛺︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26fa fe0f": {
+    "content": "⛺️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "26fd fe0e": {
+    "content": "⛽︎",
+    "type": "text style",
+    "name": ""
+  },
+  "26fd fe0f": {
+    "content": "⛽️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2702 fe0e": {
+    "content": "✂︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2702 fe0f": {
+    "content": "✂️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2708 fe0e": {
+    "content": "✈︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2708 fe0f": {
+    "content": "✈️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2709 fe0e": {
+    "content": "✉︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2709 fe0f": {
+    "content": "✉️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "270c fe0e": {
+    "content": "✌︎",
+    "type": "text style",
+    "name": ""
+  },
+  "270c fe0f": {
+    "content": "✌️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "270d fe0e": {
+    "content": "✍︎",
+    "type": "text style",
+    "name": ""
+  },
+  "270d fe0f": {
+    "content": "✍️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "270f fe0e": {
+    "content": "✏︎",
+    "type": "text style",
+    "name": ""
+  },
+  "270f fe0f": {
+    "content": "✏️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2712 fe0e": {
+    "content": "✒︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2712 fe0f": {
+    "content": "✒️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2714 fe0e": {
+    "content": "✔︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2714 fe0f": {
+    "content": "✔️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2716 fe0e": {
+    "content": "✖︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2716 fe0f": {
+    "content": "✖️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "271d fe0e": {
+    "content": "✝︎",
+    "type": "text style",
+    "name": ""
+  },
+  "271d fe0f": {
+    "content": "✝️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2721 fe0e": {
+    "content": "✡︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2721 fe0f": {
+    "content": "✡️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2733 fe0e": {
+    "content": "✳︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2733 fe0f": {
+    "content": "✳️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2734 fe0e": {
+    "content": "✴︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2734 fe0f": {
+    "content": "✴️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2744 fe0e": {
+    "content": "❄︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2744 fe0f": {
+    "content": "❄️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2747 fe0e": {
+    "content": "❇︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2747 fe0f": {
+    "content": "❇️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2753 fe0e": {
+    "content": "❓︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2753 fe0f": {
+    "content": "❓️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2757 fe0e": {
+    "content": "❗︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2757 fe0f": {
+    "content": "❗️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2763 fe0e": {
+    "content": "❣︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2763 fe0f": {
+    "content": "❣️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2764 fe0e": {
+    "content": "❤︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2764 fe0f": {
+    "content": "❤️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "27a1 fe0e": {
+    "content": "➡︎",
+    "type": "text style",
+    "name": ""
+  },
+  "27a1 fe0f": {
+    "content": "➡️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2934 fe0e": {
+    "content": "⤴︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2934 fe0f": {
+    "content": "⤴️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2935 fe0e": {
+    "content": "⤵︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2935 fe0f": {
+    "content": "⤵️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2b05 fe0e": {
+    "content": "⬅︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2b05 fe0f": {
+    "content": "⬅️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2b06 fe0e": {
+    "content": "⬆︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2b06 fe0f": {
+    "content": "⬆️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2b07 fe0e": {
+    "content": "⬇︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2b07 fe0f": {
+    "content": "⬇️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2b1b fe0e": {
+    "content": "⬛︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2b1b fe0f": {
+    "content": "⬛️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2b1c fe0e": {
+    "content": "⬜︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2b1c fe0f": {
+    "content": "⬜️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2b50 fe0e": {
+    "content": "⭐︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2b50 fe0f": {
+    "content": "⭐️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "2b55 fe0e": {
+    "content": "⭕︎",
+    "type": "text style",
+    "name": ""
+  },
+  "2b55 fe0f": {
+    "content": "⭕️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "3030 fe0e": {
+    "content": "〰︎",
+    "type": "text style",
+    "name": ""
+  },
+  "3030 fe0f": {
+    "content": "〰️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "303d fe0e": {
+    "content": "〽︎",
+    "type": "text style",
+    "name": ""
+  },
+  "303d fe0f": {
+    "content": "〽️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "3297 fe0e": {
+    "content": "㊗︎",
+    "type": "text style",
+    "name": ""
+  },
+  "3297 fe0f": {
+    "content": "㊗️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "3299 fe0e": {
+    "content": "㊙︎",
+    "type": "text style",
+    "name": ""
+  },
+  "3299 fe0f": {
+    "content": "㊙️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f004 fe0e": {
+    "content": "🀄︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f004 fe0f": {
+    "content": "🀄️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f170 fe0e": {
+    "content": "🅰︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f170 fe0f": {
+    "content": "🅰️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f171 fe0e": {
+    "content": "🅱︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f171 fe0f": {
+    "content": "🅱️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f17e fe0e": {
+    "content": "🅾︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f17e fe0f": {
+    "content": "🅾️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f17f fe0e": {
+    "content": "🅿︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f17f fe0f": {
+    "content": "🅿️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f202 fe0e": {
+    "content": "🈂︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f202 fe0f": {
+    "content": "🈂️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f21a fe0e": {
+    "content": "🈚︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f21a fe0f": {
+    "content": "🈚️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f22f fe0e": {
+    "content": "🈯︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f22f fe0f": {
+    "content": "🈯️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f237 fe0e": {
+    "content": "🈷︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f237 fe0f": {
+    "content": "🈷️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f30d fe0e": {
+    "content": "🌍︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f30d fe0f": {
+    "content": "🌍️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f30e fe0e": {
+    "content": "🌎︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f30e fe0f": {
+    "content": "🌎️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f30f fe0e": {
+    "content": "🌏︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f30f fe0f": {
+    "content": "🌏️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f315 fe0e": {
+    "content": "🌕︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f315 fe0f": {
+    "content": "🌕️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f31c fe0e": {
+    "content": "🌜︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f31c fe0f": {
+    "content": "🌜️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f321 fe0e": {
+    "content": "🌡︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f321 fe0f": {
+    "content": "🌡️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f324 fe0e": {
+    "content": "🌤︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f324 fe0f": {
+    "content": "🌤️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f325 fe0e": {
+    "content": "🌥︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f325 fe0f": {
+    "content": "🌥️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f326 fe0e": {
+    "content": "🌦︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f326 fe0f": {
+    "content": "🌦️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f327 fe0e": {
+    "content": "🌧︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f327 fe0f": {
+    "content": "🌧️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f328 fe0e": {
+    "content": "🌨︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f328 fe0f": {
+    "content": "🌨️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f329 fe0e": {
+    "content": "🌩︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f329 fe0f": {
+    "content": "🌩️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f32a fe0e": {
+    "content": "🌪︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f32a fe0f": {
+    "content": "🌪️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f32b fe0e": {
+    "content": "🌫︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f32b fe0f": {
+    "content": "🌫️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f32c fe0e": {
+    "content": "🌬︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f32c fe0f": {
+    "content": "🌬️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f336 fe0e": {
+    "content": "🌶︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f336 fe0f": {
+    "content": "🌶️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f378 fe0e": {
+    "content": "🍸︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f378 fe0f": {
+    "content": "🍸️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f37d fe0e": {
+    "content": "🍽︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f37d fe0f": {
+    "content": "🍽️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f393 fe0e": {
+    "content": "🎓︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f393 fe0f": {
+    "content": "🎓️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f396 fe0e": {
+    "content": "🎖︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f396 fe0f": {
+    "content": "🎖️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f397 fe0e": {
+    "content": "🎗︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f397 fe0f": {
+    "content": "🎗️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f399 fe0e": {
+    "content": "🎙︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f399 fe0f": {
+    "content": "🎙️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f39a fe0e": {
+    "content": "🎚︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f39a fe0f": {
+    "content": "🎚️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f39b fe0e": {
+    "content": "🎛︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f39b fe0f": {
+    "content": "🎛️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f39e fe0e": {
+    "content": "🎞︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f39e fe0f": {
+    "content": "🎞️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f39f fe0e": {
+    "content": "🎟︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f39f fe0f": {
+    "content": "🎟️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3a7 fe0e": {
+    "content": "🎧︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3a7 fe0f": {
+    "content": "🎧️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3ac fe0e": {
+    "content": "🎬︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3ac fe0f": {
+    "content": "🎬️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3ad fe0e": {
+    "content": "🎭︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3ad fe0f": {
+    "content": "🎭️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3ae fe0e": {
+    "content": "🎮︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3ae fe0f": {
+    "content": "🎮️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3c2 fe0e": {
+    "content": "🏂︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3c2 fe0f": {
+    "content": "🏂️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3c4 fe0e": {
+    "content": "🏄︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3c4 fe0f": {
+    "content": "🏄️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3c6 fe0e": {
+    "content": "🏆︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3c6 fe0f": {
+    "content": "🏆️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3ca fe0e": {
+    "content": "🏊︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3ca fe0f": {
+    "content": "🏊️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3cb fe0e": {
+    "content": "🏋︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3cb fe0f": {
+    "content": "🏋️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3cc fe0e": {
+    "content": "🏌︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3cc fe0f": {
+    "content": "🏌️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3cd fe0e": {
+    "content": "🏍︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3cd fe0f": {
+    "content": "🏍️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3ce fe0e": {
+    "content": "🏎︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3ce fe0f": {
+    "content": "🏎️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3d4 fe0e": {
+    "content": "🏔︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3d4 fe0f": {
+    "content": "🏔️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3d5 fe0e": {
+    "content": "🏕︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3d5 fe0f": {
+    "content": "🏕️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3d6 fe0e": {
+    "content": "🏖︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3d6 fe0f": {
+    "content": "🏖️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3d7 fe0e": {
+    "content": "🏗︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3d7 fe0f": {
+    "content": "🏗️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3d8 fe0e": {
+    "content": "🏘︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3d8 fe0f": {
+    "content": "🏘️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3d9 fe0e": {
+    "content": "🏙︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3d9 fe0f": {
+    "content": "🏙️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3da fe0e": {
+    "content": "🏚︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3da fe0f": {
+    "content": "🏚️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3db fe0e": {
+    "content": "🏛︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3db fe0f": {
+    "content": "🏛️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3dc fe0e": {
+    "content": "🏜︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3dc fe0f": {
+    "content": "🏜️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3dd fe0e": {
+    "content": "🏝︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3dd fe0f": {
+    "content": "🏝️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3de fe0e": {
+    "content": "🏞︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3de fe0f": {
+    "content": "🏞️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3df fe0e": {
+    "content": "🏟︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3df fe0f": {
+    "content": "🏟️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3e0 fe0e": {
+    "content": "🏠︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3e0 fe0f": {
+    "content": "🏠️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3ed fe0e": {
+    "content": "🏭︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3ed fe0f": {
+    "content": "🏭️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3f3 fe0e": {
+    "content": "🏳︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3f3 fe0f": {
+    "content": "🏳️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3f5 fe0e": {
+    "content": "🏵︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3f5 fe0f": {
+    "content": "🏵️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f3f7 fe0e": {
+    "content": "🏷︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f3f7 fe0f": {
+    "content": "🏷️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f408 fe0e": {
+    "content": "🐈︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f408 fe0f": {
+    "content": "🐈️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f415 fe0e": {
+    "content": "🐕︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f415 fe0f": {
+    "content": "🐕️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f41f fe0e": {
+    "content": "🐟︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f41f fe0f": {
+    "content": "🐟️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f426 fe0e": {
+    "content": "🐦︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f426 fe0f": {
+    "content": "🐦️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f43f fe0e": {
+    "content": "🐿︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f43f fe0f": {
+    "content": "🐿️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f441 fe0e": {
+    "content": "👁︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f441 fe0f": {
+    "content": "👁️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f442 fe0e": {
+    "content": "👂︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f442 fe0f": {
+    "content": "👂️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f446 fe0e": {
+    "content": "👆︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f446 fe0f": {
+    "content": "👆️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f447 fe0e": {
+    "content": "👇︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f447 fe0f": {
+    "content": "👇️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f448 fe0e": {
+    "content": "👈︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f448 fe0f": {
+    "content": "👈️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f449 fe0e": {
+    "content": "👉︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f449 fe0f": {
+    "content": "👉️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f44d fe0e": {
+    "content": "👍︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f44d fe0f": {
+    "content": "👍️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f44e fe0e": {
+    "content": "👎︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f44e fe0f": {
+    "content": "👎️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f453 fe0e": {
+    "content": "👓︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f453 fe0f": {
+    "content": "👓️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f46a fe0e": {
+    "content": "👪︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f46a fe0f": {
+    "content": "👪️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f47d fe0e": {
+    "content": "👽︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f47d fe0f": {
+    "content": "👽️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4a3 fe0e": {
+    "content": "💣︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4a3 fe0f": {
+    "content": "💣️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4b0 fe0e": {
+    "content": "💰︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4b0 fe0f": {
+    "content": "💰️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4b3 fe0e": {
+    "content": "💳︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4b3 fe0f": {
+    "content": "💳️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4bb fe0e": {
+    "content": "💻︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4bb fe0f": {
+    "content": "💻️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4bf fe0e": {
+    "content": "💿︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4bf fe0f": {
+    "content": "💿️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4cb fe0e": {
+    "content": "📋︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4cb fe0f": {
+    "content": "📋️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4da fe0e": {
+    "content": "📚︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4da fe0f": {
+    "content": "📚️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4df fe0e": {
+    "content": "📟︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4df fe0f": {
+    "content": "📟️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4e4 fe0e": {
+    "content": "📤︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4e4 fe0f": {
+    "content": "📤️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4e5 fe0e": {
+    "content": "📥︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4e5 fe0f": {
+    "content": "📥️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4e6 fe0e": {
+    "content": "📦︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4e6 fe0f": {
+    "content": "📦️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4ea fe0e": {
+    "content": "📪︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4ea fe0f": {
+    "content": "📪️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4eb fe0e": {
+    "content": "📫︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4eb fe0f": {
+    "content": "📫️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4ec fe0e": {
+    "content": "📬︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4ec fe0f": {
+    "content": "📬️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4ed fe0e": {
+    "content": "📭︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4ed fe0f": {
+    "content": "📭️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4f7 fe0e": {
+    "content": "📷︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4f7 fe0f": {
+    "content": "📷️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4f9 fe0e": {
+    "content": "📹︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4f9 fe0f": {
+    "content": "📹️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4fa fe0e": {
+    "content": "📺︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4fa fe0f": {
+    "content": "📺️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4fb fe0e": {
+    "content": "📻︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4fb fe0f": {
+    "content": "📻️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f4fd fe0e": {
+    "content": "📽︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f4fd fe0f": {
+    "content": "📽️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f508 fe0e": {
+    "content": "🔈︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f508 fe0f": {
+    "content": "🔈️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f50d fe0e": {
+    "content": "🔍︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f50d fe0f": {
+    "content": "🔍️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f512 fe0e": {
+    "content": "🔒︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f512 fe0f": {
+    "content": "🔒️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f513 fe0e": {
+    "content": "🔓︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f513 fe0f": {
+    "content": "🔓️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f549 fe0e": {
+    "content": "🕉︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f549 fe0f": {
+    "content": "🕉️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f54a fe0e": {
+    "content": "🕊︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f54a fe0f": {
+    "content": "🕊️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f550 fe0e": {
+    "content": "🕐︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f550 fe0f": {
+    "content": "🕐️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f551 fe0e": {
+    "content": "🕑︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f551 fe0f": {
+    "content": "🕑️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f552 fe0e": {
+    "content": "🕒︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f552 fe0f": {
+    "content": "🕒️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f553 fe0e": {
+    "content": "🕓︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f553 fe0f": {
+    "content": "🕓️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f554 fe0e": {
+    "content": "🕔︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f554 fe0f": {
+    "content": "🕔️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f555 fe0e": {
+    "content": "🕕︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f555 fe0f": {
+    "content": "🕕️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f556 fe0e": {
+    "content": "🕖︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f556 fe0f": {
+    "content": "🕖️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f557 fe0e": {
+    "content": "🕗︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f557 fe0f": {
+    "content": "🕗️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f558 fe0e": {
+    "content": "🕘︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f558 fe0f": {
+    "content": "🕘️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f559 fe0e": {
+    "content": "🕙︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f559 fe0f": {
+    "content": "🕙️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f55a fe0e": {
+    "content": "🕚︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f55a fe0f": {
+    "content": "🕚️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f55b fe0e": {
+    "content": "🕛︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f55b fe0f": {
+    "content": "🕛️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f55c fe0e": {
+    "content": "🕜︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f55c fe0f": {
+    "content": "🕜️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f55d fe0e": {
+    "content": "🕝︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f55d fe0f": {
+    "content": "🕝️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f55e fe0e": {
+    "content": "🕞︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f55e fe0f": {
+    "content": "🕞️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f55f fe0e": {
+    "content": "🕟︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f55f fe0f": {
+    "content": "🕟️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f560 fe0e": {
+    "content": "🕠︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f560 fe0f": {
+    "content": "🕠️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f561 fe0e": {
+    "content": "🕡︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f561 fe0f": {
+    "content": "🕡️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f562 fe0e": {
+    "content": "🕢︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f562 fe0f": {
+    "content": "🕢️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f563 fe0e": {
+    "content": "🕣︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f563 fe0f": {
+    "content": "🕣️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f564 fe0e": {
+    "content": "🕤︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f564 fe0f": {
+    "content": "🕤️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f565 fe0e": {
+    "content": "🕥︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f565 fe0f": {
+    "content": "🕥️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f566 fe0e": {
+    "content": "🕦︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f566 fe0f": {
+    "content": "🕦️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f567 fe0e": {
+    "content": "🕧︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f567 fe0f": {
+    "content": "🕧️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f56f fe0e": {
+    "content": "🕯︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f56f fe0f": {
+    "content": "🕯️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f570 fe0e": {
+    "content": "🕰︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f570 fe0f": {
+    "content": "🕰️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f573 fe0e": {
+    "content": "🕳︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f573 fe0f": {
+    "content": "🕳️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f574 fe0e": {
+    "content": "🕴︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f574 fe0f": {
+    "content": "🕴️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f575 fe0e": {
+    "content": "🕵︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f575 fe0f": {
+    "content": "🕵️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f576 fe0e": {
+    "content": "🕶︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f576 fe0f": {
+    "content": "🕶️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f577 fe0e": {
+    "content": "🕷︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f577 fe0f": {
+    "content": "🕷️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f578 fe0e": {
+    "content": "🕸︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f578 fe0f": {
+    "content": "🕸️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f579 fe0e": {
+    "content": "🕹︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f579 fe0f": {
+    "content": "🕹️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f587 fe0e": {
+    "content": "🖇︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f587 fe0f": {
+    "content": "🖇️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f58a fe0e": {
+    "content": "🖊︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f58a fe0f": {
+    "content": "🖊️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f58b fe0e": {
+    "content": "🖋︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f58b fe0f": {
+    "content": "🖋️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f58c fe0e": {
+    "content": "🖌︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f58c fe0f": {
+    "content": "🖌️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f58d fe0e": {
+    "content": "🖍︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f58d fe0f": {
+    "content": "🖍️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f590 fe0e": {
+    "content": "🖐︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f590 fe0f": {
+    "content": "🖐️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5a5 fe0e": {
+    "content": "🖥︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5a5 fe0f": {
+    "content": "🖥️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5a8 fe0e": {
+    "content": "🖨︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5a8 fe0f": {
+    "content": "🖨️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5b1 fe0e": {
+    "content": "🖱︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5b1 fe0f": {
+    "content": "🖱️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5b2 fe0e": {
+    "content": "🖲︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5b2 fe0f": {
+    "content": "🖲️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5bc fe0e": {
+    "content": "🖼︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5bc fe0f": {
+    "content": "🖼️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5c2 fe0e": {
+    "content": "🗂︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5c2 fe0f": {
+    "content": "🗂️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5c3 fe0e": {
+    "content": "🗃︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5c3 fe0f": {
+    "content": "🗃️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5c4 fe0e": {
+    "content": "🗄︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5c4 fe0f": {
+    "content": "🗄️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5d1 fe0e": {
+    "content": "🗑︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5d1 fe0f": {
+    "content": "🗑️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5d2 fe0e": {
+    "content": "🗒︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5d2 fe0f": {
+    "content": "🗒️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5d3 fe0e": {
+    "content": "🗓︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5d3 fe0f": {
+    "content": "🗓️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5dc fe0e": {
+    "content": "🗜︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5dc fe0f": {
+    "content": "🗜️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5dd fe0e": {
+    "content": "🗝︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5dd fe0f": {
+    "content": "🗝️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5de fe0e": {
+    "content": "🗞︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5de fe0f": {
+    "content": "🗞️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5e1 fe0e": {
+    "content": "🗡︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5e1 fe0f": {
+    "content": "🗡️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5e3 fe0e": {
+    "content": "🗣︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5e3 fe0f": {
+    "content": "🗣️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5e8 fe0e": {
+    "content": "🗨︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5e8 fe0f": {
+    "content": "🗨️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5ef fe0e": {
+    "content": "🗯︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5ef fe0f": {
+    "content": "🗯️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5f3 fe0e": {
+    "content": "🗳︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5f3 fe0f": {
+    "content": "🗳️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f5fa fe0e": {
+    "content": "🗺︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f5fa fe0f": {
+    "content": "🗺️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f610 fe0e": {
+    "content": "😐︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f610 fe0f": {
+    "content": "😐️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f687 fe0e": {
+    "content": "🚇︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f687 fe0f": {
+    "content": "🚇️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f68d fe0e": {
+    "content": "🚍︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f68d fe0f": {
+    "content": "🚍️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f691 fe0e": {
+    "content": "🚑︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f691 fe0f": {
+    "content": "🚑️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f694 fe0e": {
+    "content": "🚔︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f694 fe0f": {
+    "content": "🚔️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f698 fe0e": {
+    "content": "🚘︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f698 fe0f": {
+    "content": "🚘️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6ad fe0e": {
+    "content": "🚭︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6ad fe0f": {
+    "content": "🚭️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6b2 fe0e": {
+    "content": "🚲︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6b2 fe0f": {
+    "content": "🚲️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6b9 fe0e": {
+    "content": "🚹︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6b9 fe0f": {
+    "content": "🚹️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6ba fe0e": {
+    "content": "🚺︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6ba fe0f": {
+    "content": "🚺️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6bc fe0e": {
+    "content": "🚼︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6bc fe0f": {
+    "content": "🚼️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6cb fe0e": {
+    "content": "🛋︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6cb fe0f": {
+    "content": "🛋️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6cd fe0e": {
+    "content": "🛍︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6cd fe0f": {
+    "content": "🛍️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6ce fe0e": {
+    "content": "🛎︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6ce fe0f": {
+    "content": "🛎️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6cf fe0e": {
+    "content": "🛏︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6cf fe0f": {
+    "content": "🛏️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6e0 fe0e": {
+    "content": "🛠︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6e0 fe0f": {
+    "content": "🛠️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6e1 fe0e": {
+    "content": "🛡︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6e1 fe0f": {
+    "content": "🛡️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6e2 fe0e": {
+    "content": "🛢︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6e2 fe0f": {
+    "content": "🛢️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6e3 fe0e": {
+    "content": "🛣︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6e3 fe0f": {
+    "content": "🛣️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6e4 fe0e": {
+    "content": "🛤︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6e4 fe0f": {
+    "content": "🛤️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6e5 fe0e": {
+    "content": "🛥︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6e5 fe0f": {
+    "content": "🛥️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6e9 fe0e": {
+    "content": "🛩︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6e9 fe0f": {
+    "content": "🛩️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6f0 fe0e": {
+    "content": "🛰︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6f0 fe0f": {
+    "content": "🛰️",
+    "type": "emoji style",
+    "name": ""
+  },
+  "1f6f3 fe0e": {
+    "content": "🛳︎",
+    "type": "text style",
+    "name": ""
+  },
+  "1f6f3 fe0f": {
+    "content": "🛳️",
+    "type": "emoji style",
+    "name": ""
+  }
+}
