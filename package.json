@@ -1,6 +1,6 @@
 {
   "name": "@nxmix/emoji-seq-match",
-  "version": "0.0.0-development",
+  "version": "0.1.0-development",
   "description": "Match Emoji combinations according to unicode emoji specification",
   "main": "dist/index.js",
   "typings": "dist/types/index.d.ts",
@@ -60,7 +60,9 @@
       "js"
     ],
     "coveragePathIgnorePatterns": [
-      "emoji-sequences",
+      "/coverage/",
+      "/dist/",
+      "/tools/",
       "/node_modules/",
       "/test/"
     ],
