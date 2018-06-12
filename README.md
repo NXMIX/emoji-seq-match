@@ -1,7 +1,8 @@
 # @nxmix/emoji-seq-match
 [![Build Status](https://travis-ci.org/NXMIX/emoji-seq-match.svg?branch=master)](https://travis-ci.org/NXMIX/emoji-seq-match)
 [![Coverage Status](https://coveralls.io/repos/github/NXMIX/emoji-seq-match/badge.svg)](https://coveralls.io/github/NXMIX/emoji-seq-match)
-[![npm](https://img.shields.io/npm/v/@nxmix/emoji-seq-match.svg?maxAge=1000)](https://www.npmjs.com/package/@nxmix/emoji-seq-match/) [![Greenkeeper badge](https://badges.greenkeeper.io/NXMIX/emoji-seq-match.svg)](https://greenkeeper.io/)
+[![npm](https://img.shields.io/npm/v/@nxmix/emoji-seq-match.svg?maxAge=1000)](https://www.npmjs.com/package/@nxmix/emoji-seq-match/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/NXMIX/emoji-seq-match.svg)](https://greenkeeper.io/)
 
 > Match Emoji combinations according to unicode emoji specification
 
