@@ -10,9 +10,6 @@
     "outDir": "dist",
     "declarationDir": "dist/types",
     "baseUrl": ".",
-    "paths": {
-      "*": ["node_modules/*", "types"]
-    },
     "lib": ["es2015", "es2016", "es2016.array.include", "es2017"]
   },
   "include": ["src", "types"]
