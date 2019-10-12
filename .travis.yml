@@ -3,11 +3,11 @@ cache:
   directories:
     - ~/.npm
 notifications:
-  email: false
+  email:
+    - rong.shen@gmail.com
 node_js:
-  - '9'
+  - '10'
   - '8'
-  - '6'
 script:
   - npm run test:prod && npm run build
 after_success:
@@ -17,4 +17,4 @@ after_script:
 branches:
   only:
     - master
-    - /^greenkeeper/.*$/
+
